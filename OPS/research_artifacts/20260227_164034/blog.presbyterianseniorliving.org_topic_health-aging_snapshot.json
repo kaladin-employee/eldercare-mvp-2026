@@ -1,0 +1,366 @@
+- document:
+  - banner:
+    - list:
+      - listitem:
+        - link "Employment" [ref=e1]:
+          - /url: //www.presbyterianseniorliving.org/employment
+      - listitem:
+        - link "Donations" [ref=e2]:
+          - /url: "?#form=DonateNow"
+        - list:
+          - listitem:
+            - link "Donate Online" [ref=e3]:
+              - /url: "?#form=DonateNow"
+          - listitem:
+            - link "More Opportunities to Give" [ref=e4]:
+              - /url: https://www.presbyterianseniorliving.org/support-our-mission
+    - link "Presbyterian Senior Living" [ref=e5]:
+      - /url: //www.presbyterianseniorliving.org/
+      - img "Presbyterian Senior Living"
+    - text: 
+    - link "Resident Bill Pay" [ref=e6]:
+      - /url: https://www.presbyterianseniorliving.org/resident-bill-pay
+      - text: Resident
+      - strong: Bill Pay
+    - link "Phone Directory" [ref=e7]:
+      - /url: //www.presbyterianseniorliving.org/community-phone-directory
+    - link "Presbyterian Senior Living" [ref=e8] [nth=1]:
+      - /url: //www.presbyterianseniorliving.org/
+      - img "Presbyterian Senior Living"
+    - text: 
+    - navigation "Navigation Menu" [ref=e9]:
+      - menu:
+        - menuitem "Home" [ref=e10]
+        - text: 
+        - menuitem "Services" [ref=e11]
+        - text: 
+        - menuitem "Our Communities" [ref=e12]
+        - text: 
+        - menuitem "About Us" [ref=e13]
+        - text: 
+        - menuitem "Support Our Mission" [ref=e14]
+        - text: 
+        - menuitem "Getting Started" [ref=e15]
+        - menuitem "News and Updates" [ref=e16]
+        - menuitem "Contact" [ref=e17]
+    - link "Donate Now" [ref=e18]:
+      - /url: //info.presbyterianseniorliving.org/online-donations
+  - list:
+    - listitem: Categories 
+    - listitem: Follow Us 
+    - listitem:
+      - link "Subscribe" [ref=e19]:
+        - /url: //info.presbyterianseniorliving.org/blog-subscribe
+  - navigation "Navigation Menu" [ref=e20] [nth=1]:
+    - menu:
+      - menuitem "Health & Aging" [ref=e21]
+      - menuitem "Finance & Planning" [ref=e22]
+      - menuitem "Housing & Development" [ref=e23]
+      - menuitem "Masterpiece Living" [ref=e24]
+      - menuitem "Reflections & Leadership" [ref=e25]
+      - menuitem "Caregiver Support" [ref=e26]
+      - menuitem "Miscellaneous" [ref=e27]
+      - menuitem "Philanthropy" [ref=e28]
+  - text: "\""
+  - list:
+    - listitem:
+      - link "" [ref=e29]:
+        - /url: https://www.facebook.com/presbyterianseniorliving
+    - listitem:
+      - link "" [ref=e30]:
+        - /url: https://www.linkedin.com/company/presbyterian-senior-living
+  - list:
+    - listitem:
+      - textbox "Search" [ref=e31]
+  - heading "Senior Living Blog| Health & Aging" [ref=e32] [level=1]
+  - paragraph: Giving voice to the topics that mean the most to those who matter the most.
+  - paragraph:
+    - link [ref=e33]:
+      - /url: https://www.presbyterianseniorliving.org/blog/wellness-benefits-of-life-plan-communities
+  - paragraph:
+    - link "Community Experience" [ref=e34]:
+      - /url: https://www.presbyterianseniorliving.org/blog/topic/community-experience
+    - text: "|"
+    - link "Health & Aging" [ref=e35]:
+      - /url: https://www.presbyterianseniorliving.org/blog/topic/health-aging
+  - 'heading "Aging Well: Discover the Wellness Benefits of a Life Plan Community" [level=2]':
+    - 'link "Aging Well: Discover the Wellness Benefits of a Life Plan Community"':
+      - /url: https://www.presbyterianseniorliving.org/blog/wellness-benefits-of-life-plan-communities
+  - paragraph:
+    - link [ref=e36] [nth=1]:
+      - /url: https://www.presbyterianseniorliving.org/blog/author/presbyterian-senior-living
+    - text: "By:"
+    - link "Presbyterian Senior Living" [ref=e37] [nth=2]:
+      - /url: https://www.presbyterianseniorliving.org/blog/author/presbyterian-senior-living
+    - text: February 12th, 2026
+  - paragraph: Today’s retirement years are no longer something that simply “happens” to you. It’s something you shape. Aging is no longer about slowing down or settling. It’s about thriving in a new and meaningful chapter of life.
+  - link "Read More" [ref=e38]:
+    - /url: https://www.presbyterianseniorliving.org/blog/wellness-benefits-of-life-plan-communities
+  - paragraph: Share 
+  - list:
+    - listitem:  Close
+    - listitem:
+      - link "" [ref=e39] [nth=1]:
+        - /url: https://www.facebook.com/sharer/sharer.php?u=https://www.presbyterianseniorliving.org/blog/wellness-benefits-of-life-plan-communities
+    - listitem:
+      - link "" [ref=e40]:
+        - /url: https://twitter.com/intent/tweet?text=Aging+Well%3A+Discover+the+Wellness+Benefits+of+a+Life+Plan+Community&url=https://www.presbyterianseniorliving.org/blog/wellness-benefits-of-life-plan-communities&via=
+    - listitem:
+      - link "" [ref=e41] [nth=1]:
+        - /url: https://www.linkedin.com/shareArticle?url=https://www.presbyterianseniorliving.org/blog/wellness-benefits-of-life-plan-communities&title=Aging+Well%3A+Discover+the+Wellness+Benefits+of+a+Life+Plan+Community&summary=Discover+how+Life+Plan+Communities+support+healthy+aging+through+connection%2C+wellness+programs+and+a+vibrant+lifestyle+designed+to+help+older+adults+thrive
+    - listitem:
+      - link "" [ref=e42]:
+        - /url: https://pinterest.com/pin/create/button/?url=https://www.presbyterianseniorliving.org/blog/wellness-benefits-of-life-plan-communities&media=https://www.presbyterianseniorliving.org/hubfs/Wellness%20Benefits%20of%20a%20Life%20Plan%20Community%20BlogHeader%201090x363.jpg&description=Discover+how+Life+Plan+Communities+support+healthy+aging+through+connection%2C+wellness+programs+and+a+vibrant+lifestyle+designed+to+help+older+adults+thrive
+    - listitem:
+      - link "" [ref=e43]:
+        - /url: mailto:?body=https://www.presbyterianseniorliving.org/blog/wellness-benefits-of-life-plan-communities
+  - paragraph:
+    - link [ref=e44] [nth=2]:
+      - /url: https://www.presbyterianseniorliving.org/blog/grow-older-with-meaning
+  - paragraph:
+    - link "Health & Aging" [ref=e45] [nth=1]:
+      - /url: https://www.presbyterianseniorliving.org/blog/topic/health-aging
+  - 'heading "Getting Better with Age: Ways to Grow Older with Meaning" [level=2]':
+    - 'link "Getting Better with Age: Ways to Grow Older with Meaning"':
+      - /url: https://www.presbyterianseniorliving.org/blog/grow-older-with-meaning
+  - paragraph:
+    - link [ref=e46] [nth=3]:
+      - /url: https://www.presbyterianseniorliving.org/blog/author/presbyterian-senior-living
+    - text: "By:"
+    - link "Presbyterian Senior Living" [ref=e47] [nth=3]:
+      - /url: https://www.presbyterianseniorliving.org/blog/author/presbyterian-senior-living
+    - text: January 29th, 2026
+  - paragraph: Growing older isn’t just about counting years. It’s about deepening joy, strengthening purpose and embracing the life you’ve built.
+  - link "Read More" [ref=e48] [nth=1]:
+    - /url: https://www.presbyterianseniorliving.org/blog/grow-older-with-meaning
+  - paragraph: Share 
+  - list:
+    - listitem:  Close
+    - listitem:
+      - link "" [ref=e49] [nth=2]:
+        - /url: https://www.facebook.com/sharer/sharer.php?u=https://www.presbyterianseniorliving.org/blog/grow-older-with-meaning
+    - listitem:
+      - link "" [ref=e50] [nth=1]:
+        - /url: https://twitter.com/intent/tweet?text=Getting+Better+with+Age%3A+Ways+to+Grow+Older+with+Meaning&url=https://www.presbyterianseniorliving.org/blog/grow-older-with-meaning&via=
+    - listitem:
+      - link "" [ref=e51] [nth=2]:
+        - /url: https://www.linkedin.com/shareArticle?url=https://www.presbyterianseniorliving.org/blog/grow-older-with-meaning&title=Getting+Better+with+Age%3A+Ways+to+Grow+Older+with+Meaning&summary=Discover+how+a+Life+Plan+Community+supports+meaningful+aging+through+purpose%2C+wellness%2C+learning+and+connection+-+helping+seniors+get+better+with+age.
+    - listitem:
+      - link "" [ref=e52] [nth=1]:
+        - /url: https://pinterest.com/pin/create/button/?url=https://www.presbyterianseniorliving.org/blog/grow-older-with-meaning&media=https://www.presbyterianseniorliving.org/hubfs/Getting%20Better%20with%20Age%20BlogHeader%201090x363.png&description=Discover+how+a+Life+Plan+Community+supports+meaningful+aging+through+purpose%2C+wellness%2C+learning+and+connection+-+helping+seniors+get+better+with+age.
+    - listitem:
+      - link "" [ref=e53] [nth=1]:
+        - /url: mailto:?body=https://www.presbyterianseniorliving.org/blog/grow-older-with-meaning
+  - heading "Are You Asking the Right Questions?" [ref=e54] [level=4]
+  - paragraph: Subscribe to the Presbyterian Senior Living blog and receive our free Community Evaluation Checklist to ensure you ask what’s most important to you.
+  - text: Email*
+  - textbox "Email*" [ref=e55]:
+    - /placeholder: Email
+  - button "Subscribe" [ref=e56]
+  - paragraph:
+    - link [ref=e57] [nth=4]:
+      - /url: https://www.presbyterianseniorliving.org/blog/new-year-wellness-life-plan-community
+  - paragraph:
+    - link "Health & Aging" [ref=e58] [nth=2]:
+      - /url: https://www.presbyterianseniorliving.org/blog/topic/health-aging
+  - 'heading "New Year, New Possibilities: Growth and Wellness at Life Plan Communities" [level=2]':
+    - 'link "New Year, New Possibilities: Growth and Wellness at Life Plan Communities"':
+      - /url: https://www.presbyterianseniorliving.org/blog/new-year-wellness-life-plan-community
+  - paragraph:
+    - link [ref=e59] [nth=5]:
+      - /url: https://www.presbyterianseniorliving.org/blog/author/julie-fenton
+    - text: "By:"
+    - link "Julie Fenton" [ref=e60]:
+      - /url: https://www.presbyterianseniorliving.org/blog/author/julie-fenton
+    - text: January 1st, 2026
+  - paragraph: A New Year arrives like a blank page-untouched, open, and full of potential. As the calendar turns and the New Year starts, many of us feel a renewed sense of hope, purpose, and possibility.
+  - link "Read More" [ref=e61] [nth=2]:
+    - /url: https://www.presbyterianseniorliving.org/blog/new-year-wellness-life-plan-community
+  - paragraph: Share 
+  - list:
+    - listitem:  Close
+    - listitem:
+      - link "" [ref=e62] [nth=3]:
+        - /url: https://www.facebook.com/sharer/sharer.php?u=https://www.presbyterianseniorliving.org/blog/new-year-wellness-life-plan-community
+    - listitem:
+      - link "" [ref=e63] [nth=2]:
+        - /url: https://twitter.com/intent/tweet?text=New+Year%2C+New+Possibilities%3A%C2%A0Growth+and+Wellness+at+Life+Plan+Communities&url=https://www.presbyterianseniorliving.org/blog/new-year-wellness-life-plan-community&via=
+    - listitem:
+      - link "" [ref=e64] [nth=3]:
+        - /url: https://www.linkedin.com/shareArticle?url=https://www.presbyterianseniorliving.org/blog/new-year-wellness-life-plan-community&title=New+Year%2C+New+Possibilities%3A%C2%A0Growth+and+Wellness+at+Life+Plan+Communities&summary=Start+the+New+Year+with+purpose+at+PSL%21+Discover+growth%2C+wellness%2C+and+new+possibilities+in+our+life+plan+retirement+community+for+vibrant+senior+living.
+    - listitem:
+      - link "" [ref=e65] [nth=2]:
+        - /url: https://pinterest.com/pin/create/button/?url=https://www.presbyterianseniorliving.org/blog/new-year-wellness-life-plan-community&media=https://www.presbyterianseniorliving.org/hubfs/New%20Year%20Wellness%20Senior%20Living%20MonthHeader%201090x363.jpg&description=Start+the+New+Year+with+purpose+at+PSL%21+Discover+growth%2C+wellness%2C+and+new+possibilities+in+our+life+plan+retirement+community+for+vibrant+senior+living.
+    - listitem:
+      - link "" [ref=e66] [nth=2]:
+        - /url: mailto:?body=https://www.presbyterianseniorliving.org/blog/new-year-wellness-life-plan-community
+  - paragraph:
+    - link [ref=e67] [nth=6]:
+      - /url: https://www.presbyterianseniorliving.org/blog/top-10-senior-living-blog-posts-of-2025-life-plan-community-insights
+  - paragraph:
+    - link "Community Experience" [ref=e68] [nth=1]:
+      - /url: https://www.presbyterianseniorliving.org/blog/topic/community-experience
+    - text: "|"
+    - link "Health & Aging" [ref=e69] [nth=3]:
+      - /url: https://www.presbyterianseniorliving.org/blog/topic/health-aging
+  - 'heading "Top 10 Senior Living Blog Posts of 2025: Life Plan Community Insights" [level=2]':
+    - 'link "Top 10 Senior Living Blog Posts of 2025: Life Plan Community Insights"':
+      - /url: https://www.presbyterianseniorliving.org/blog/top-10-senior-living-blog-posts-of-2025-life-plan-community-insights
+  - paragraph:
+    - link [ref=e70] [nth=7]:
+      - /url: https://www.presbyterianseniorliving.org/blog/author/presbyterian-senior-living
+    - text: "By:"
+    - link "Presbyterian Senior Living" [ref=e71] [nth=4]:
+      - /url: https://www.presbyterianseniorliving.org/blog/author/presbyterian-senior-living
+    - text: December 25th, 2025
+  - paragraph: "At PSL, we strive to be a trusted resource: offering guidance, insights and meaningful content that supports confident, informed aging. As we look back on 2025, certain blog topics resonated deeply with older adults, families and those exploring the benefits of a Life Plan Community."
+  - link "Read More" [ref=e72] [nth=3]:
+    - /url: https://www.presbyterianseniorliving.org/blog/top-10-senior-living-blog-posts-of-2025-life-plan-community-insights
+  - paragraph: Share 
+  - list:
+    - listitem:  Close
+    - listitem:
+      - link "" [ref=e73] [nth=4]:
+        - /url: https://www.facebook.com/sharer/sharer.php?u=https://www.presbyterianseniorliving.org/blog/top-10-senior-living-blog-posts-of-2025-life-plan-community-insights
+    - listitem:
+      - link "" [ref=e74] [nth=3]:
+        - /url: https://twitter.com/intent/tweet?text=Top+10+Senior+Living+Blog+Posts+of+2025%3A+Life+Plan+Community+Insights&url=https://www.presbyterianseniorliving.org/blog/top-10-senior-living-blog-posts-of-2025-life-plan-community-insights&via=
+    - listitem:
+      - link "" [ref=e75] [nth=4]:
+        - /url: https://www.linkedin.com/shareArticle?url=https://www.presbyterianseniorliving.org/blog/top-10-senior-living-blog-posts-of-2025-life-plan-community-insights&title=Top+10+Senior+Living+Blog+Posts+of+2025%3A+Life+Plan+Community+Insights&summary=Explore+2025%E2%80%99s+most-read+senior+living+blogs%2C+covering+wellness%2C+dementia%2C+fitness+and+Life+Plan+Community+insights+from+Presbyterian+Senior+Living.
+    - listitem:
+      - link "" [ref=e76] [nth=3]:
+        - /url: https://pinterest.com/pin/create/button/?url=https://www.presbyterianseniorliving.org/blog/top-10-senior-living-blog-posts-of-2025-life-plan-community-insights&media=https://www.presbyterianseniorliving.org/hubfs/Top10%20Senior%20Living%20Blogs%20of%202025%20logHeader%201090x363.png&description=Explore+2025%E2%80%99s+most-read+senior+living+blogs%2C+covering+wellness%2C+dementia%2C+fitness+and+Life+Plan+Community+insights+from+Presbyterian+Senior+Living.
+    - listitem:
+      - link "" [ref=e77] [nth=3]:
+        - /url: mailto:?body=https://www.presbyterianseniorliving.org/blog/top-10-senior-living-blog-posts-of-2025-life-plan-community-insights
+  - paragraph:
+    - link [ref=e78] [nth=8]:
+      - /url: https://www.presbyterianseniorliving.org/blog/choosing-senior-living-a-gift
+  - paragraph:
+    - link "Health & Aging" [ref=e79] [nth=4]:
+      - /url: https://www.presbyterianseniorliving.org/blog/topic/health-aging
+  - 'heading "Choosing Senior Living: A Meaningful Gift for the Whole Family" [level=2]':
+    - 'link "Choosing Senior Living: A Meaningful Gift for the Whole Family"':
+      - /url: https://www.presbyterianseniorliving.org/blog/choosing-senior-living-a-gift
+  - paragraph:
+    - link [ref=e80] [nth=9]:
+      - /url: https://www.presbyterianseniorliving.org/blog/author/presbyterian-senior-living
+    - text: "By:"
+    - link "Presbyterian Senior Living" [ref=e81] [nth=5]:
+      - /url: https://www.presbyterianseniorliving.org/blog/author/presbyterian-senior-living
+    - text: December 4th, 2025
+  - paragraph: The holiday season is filled with giving, gratitude, and meaningful traditions. We search for gifts that communicate love. Gifts that bring comfort long after the wrapping paper is recycled. Yet some of the most powerful gifts we can give aren’t tangible at all. They can’t be bought, boxed, or tied with a ribbon.
+  - link "Read More" [ref=e82] [nth=4]:
+    - /url: https://www.presbyterianseniorliving.org/blog/choosing-senior-living-a-gift
+  - paragraph: Share 
+  - list:
+    - listitem:  Close
+    - listitem:
+      - link "" [ref=e83] [nth=5]:
+        - /url: https://www.facebook.com/sharer/sharer.php?u=https://www.presbyterianseniorliving.org/blog/choosing-senior-living-a-gift
+    - listitem:
+      - link "" [ref=e84] [nth=4]:
+        - /url: https://twitter.com/intent/tweet?text=Choosing+Senior+Living%3A+A+Meaningful+Gift+for+the+Whole+Family&url=https://www.presbyterianseniorliving.org/blog/choosing-senior-living-a-gift&via=
+    - listitem:
+      - link "" [ref=e85] [nth=5]:
+        - /url: https://www.linkedin.com/shareArticle?url=https://www.presbyterianseniorliving.org/blog/choosing-senior-living-a-gift&title=Choosing+Senior+Living%3A+A+Meaningful+Gift+for+the+Whole+Family&summary=This+holiday+season%2C+explore+how+choosing+to+move+to+senior+living+can+be+one+of+the+most+meaningful+gifts+you+give+your+family.
+    - listitem:
+      - link "" [ref=e86] [nth=4]:
+        - /url: https://pinterest.com/pin/create/button/?url=https://www.presbyterianseniorliving.org/blog/choosing-senior-living-a-gift&media=https://www.presbyterianseniorliving.org/hubfs/The%20gift%20of%20Senior%20Living%20Planning%20BlogHeader%201090x363.png&description=This+holiday+season%2C+explore+how+choosing+to+move+to+senior+living+can+be+one+of+the+most+meaningful+gifts+you+give+your+family.
+    - listitem:
+      - link "" [ref=e87] [nth=4]:
+        - /url: mailto:?body=https://www.presbyterianseniorliving.org/blog/choosing-senior-living-a-gift
+  - paragraph:
+    - link [ref=e88] [nth=10]:
+      - /url: https://www.presbyterianseniorliving.org/blog/reducing-dementia-risk
+  - paragraph:
+    - link "Health & Aging" [ref=e89] [nth=5]:
+      - /url: https://www.presbyterianseniorliving.org/blog/topic/health-aging
+  - 'heading "Reducing Dementia Risk through Lifestyle: 5 Ways Life Plan Communities Promote Brain Health" [level=2]':
+    - 'link "Reducing Dementia Risk through Lifestyle: 5 Ways Life Plan Communities Promote Brain Health"':
+      - /url: https://www.presbyterianseniorliving.org/blog/reducing-dementia-risk
+  - paragraph:
+    - link [ref=e90] [nth=11]:
+      - /url: https://www.presbyterianseniorliving.org/blog/author/presbyterian-senior-living
+    - text: "By:"
+    - link "Presbyterian Senior Living" [ref=e91] [nth=6]:
+      - /url: https://www.presbyterianseniorliving.org/blog/author/presbyterian-senior-living
+    - text: November 13th, 2025
+  - paragraph: "It’s an unfortunate reality that the risk of developing some form of dementia rises as you grow older. According to the Alzheimer’s Association, an estimated 55 million people worldwide live with dementia, with Alzheimer’s disease being the most common type. And Alzheimer’s Association research shows that the greatest risk factor for developing the disease is age:"
+  - link "Read More" [ref=e92] [nth=5]:
+    - /url: https://www.presbyterianseniorliving.org/blog/reducing-dementia-risk
+  - paragraph: Share 
+  - list:
+    - listitem:  Close
+    - listitem:
+      - link "" [ref=e93] [nth=6]:
+        - /url: https://www.facebook.com/sharer/sharer.php?u=https://www.presbyterianseniorliving.org/blog/reducing-dementia-risk
+    - listitem:
+      - link "" [ref=e94] [nth=5]:
+        - /url: https://twitter.com/intent/tweet?text=Reducing+Dementia+Risk+with+Lifestyle%3A+5+Ways+to+Promote+Brain+Health&url=https://www.presbyterianseniorliving.org/blog/reducing-dementia-risk&via=
+    - listitem:
+      - link "" [ref=e95] [nth=6]:
+        - /url: https://www.linkedin.com/shareArticle?url=https://www.presbyterianseniorliving.org/blog/reducing-dementia-risk&title=Reducing+Dementia+Risk+with+Lifestyle%3A+5+Ways+to+Promote+Brain+Health&summary=Wondering+what+you+can+do+to+lower+your+risk+of+dementia%3F+While+there+are+no+guarantees%2C+experts+do+have+some+ideas.+Learn+more+about+them+here.
+    - listitem:
+      - link "" [ref=e96] [nth=5]:
+        - /url: https://pinterest.com/pin/create/button/?url=https://www.presbyterianseniorliving.org/blog/reducing-dementia-risk&media=https://www.presbyterianseniorliving.org/hubfs/Reducing%20Dementia%20Risk%20Through%20Lifestyle%20BlogHeader%201090x363.png&description=Wondering+what+you+can+do+to+lower+your+risk+of+dementia%3F+While+there+are+no+guarantees%2C+experts+do+have+some+ideas.+Learn+more+about+them+here.
+    - listitem:
+      - link "" [ref=e97] [nth=5]:
+        - /url: mailto:?body=https://www.presbyterianseniorliving.org/blog/reducing-dementia-risk
+  - contentinfo:
+    - link "" [ref=e98]:
+      - /url: //www.linkedin.com/company/presbyterian-senior-living
+    - link "" [ref=e99]:
+      - /url: //www.facebook.com/presbyterianseniorliving
+    - heading "Services" [ref=e100] [level=5]
+    - navigation "Navigation Menu" [ref=e101] [nth=2]:
+      - menu:
+        - menuitem "Independent Living" [ref=e102]
+        - menuitem "Personal Care / Assisted Living" [ref=e103]
+        - menuitem "Transitional Care" [ref=e104]
+        - menuitem "Skilled Nursing" [ref=e105]
+        - menuitem "Memory Care" [ref=e106]
+        - menuitem "Respite Care" [ref=e107]
+        - menuitem "At-Home Services" [ref=e108]
+        - menuitem "End-of-Life and Comfort Care" [ref=e109]
+    - heading "Communities" [ref=e110] [level=5]
+    - navigation "Navigation Menu" [ref=e111] [nth=3]:
+      - menu:
+        - menuitem "Pennsylvania Communities" [ref=e112]
+        - menuitem "Delaware Communities" [ref=e113]
+        - menuitem "Maryland Communities" [ref=e114]
+        - menuitem "Ohio Communities" [ref=e115]
+    - heading "About Us" [ref=e116] [level=5]
+    - navigation "Navigation Menu" [ref=e117] [nth=4]:
+      - menu:
+        - menuitem "Mission, Vision & Values" [ref=e118]
+        - menuitem "Employment" [ref=e119]
+        - menuitem "Thrive Wellness" [ref=e120]
+        - menuitem "Quality Measures" [ref=e121]
+        - menuitem "Leadership Team" [ref=e122]
+        - menuitem "Media Inquiries" [ref=e123]
+        - menuitem "Information & Financials" [ref=e124]
+        - menuitem "Events" [ref=e125]
+        - menuitem "Covid-19 Information" [ref=e126]
+    - heading "Support Our Mission" [ref=e127] [level=5]
+    - navigation "Navigation Menu" [ref=e128] [nth=5]:
+      - menu:
+        - menuitem "Donate Online Now" [ref=e129]
+        - menuitem "Opportunities to Give" [ref=e130]
+        - menuitem "Planned & Other Giving Options" [ref=e131]
+    - link "Contact Us" [ref=e132]:
+      - /url: //info.presbyterianseniorliving.org/contact-us
+    - paragraph: "Call: 717.502.8840"
+    - paragraph:
+      - link "One Trinity Drive East, Suite 201 Dillsburg, PA 17019" [ref=e133]:
+        - /url: https://www.google.com/maps/place/1+Trinity+Dr+E+%23201,+Dillsburg,+PA+17019/@40.1352011,-77.019049,17z/data=!3m1!4b1!4m5!3m4!1s0x89c8e5fa062a3a07:0xc0d32c1b16332bcb!8m2!3d40.135197!4d-77.016855
+    - img "Logos for Equal Housing Opportunity, LeadingAge, Sage Care Platinum Membmer, Aspire to Excellence, and Accessibility Standards"
+    - navigation "Navigation Menu" [ref=e134] [nth=6]:
+      - menu:
+        - menuitem "Notice of Privacy Practices" [ref=e135]
+        - menuitem "Online Privacy Policy" [ref=e136]
+        - menuitem "Terms and Conditions" [ref=e137]
+        - menuitem "Board Login" [ref=e138]
+        - menuitem "Contact the Webmaster" [ref=e139]
+  - iframe

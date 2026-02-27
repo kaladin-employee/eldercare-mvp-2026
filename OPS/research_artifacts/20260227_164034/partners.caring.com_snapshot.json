@@ -1,0 +1,668 @@
+- generic [ref=e5]:
+  - generic [ref=e8]:
+    - link "CaringPartners" [ref=e10] [cursor=pointer]:
+      - /url: /
+      - img "CaringPartners" [ref=e11]
+    - generic [ref=e13]:
+      - paragraph [ref=e15] [cursor=pointer]: (888) 808-0453
+      - group "Menu" [ref=e17] [cursor=pointer]:
+        - paragraph [ref=e18]: Menu
+  - generic [ref=e19]:
+    - generic:
+      - img [ref=e22]
+      - img [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e31]:
+        - heading "Grow Your Client Base Faster!" [level=2] [ref=e32]
+        - group "Request a demo" [ref=e33] [cursor=pointer]:
+          - paragraph [ref=e34]: Partner With Us
+          - img [ref=e36]
+      - generic [ref=e39]:
+        - generic [ref=e40]: OUR PORTFOLIO
+        - link "33867aec-844c-5302-a886-86f976cb30b3" [ref=e42] [cursor=pointer]:
+          - /url: https://www.caring.com/
+          - generic [ref=e43]:
+            - img [ref=e45]
+            - img [ref=e46]
+            - img "33867aec-844c-5302-a886-86f976cb30b3" [ref=e47]
+        - link "2773efe6-7ac9-5ac6-a2ec-0e43c8fc35e6" [ref=e49] [cursor=pointer]:
+          - /url: https://www.seniorhomes.com/
+          - generic [ref=e50]:
+            - img [ref=e52]
+            - img [ref=e53]
+            - img "2773efe6-7ac9-5ac6-a2ec-0e43c8fc35e6" [ref=e54]
+        - link "246840e4-d064-52ef-935d-0be28a949dcd" [ref=e56] [cursor=pointer]:
+          - /url: https://www.payingforseniorcare.com/
+          - generic [ref=e57]:
+            - img [ref=e59]
+            - img [ref=e60]
+            - img "246840e4-d064-52ef-935d-0be28a949dcd" [ref=e61]
+        - link "a0874526-e761-5b07-b371-b2aa2188ce83" [ref=e63] [cursor=pointer]:
+          - /url: https://www.senioradvice.com/
+          - generic [ref=e64]:
+            - img [ref=e66]
+            - img [ref=e67]
+            - img "a0874526-e761-5b07-b371-b2aa2188ce83" [ref=e68]
+      - generic [ref=e71]:
+        - generic [ref=e72]:
+          - img [ref=e74]
+          - paragraph [ref=e77]: New Events
+          - paragraph [ref=e78]: Stay in the know about key happenings in the senior living and senior care industry!
+        - generic [ref=e79]:
+          - link "Webinars" [ref=e82] [cursor=pointer]:
+            - /url: /resources/?category=Webinars
+          - link "Alzheimer's Facts, Figures, and the Future" [ref=e83] [cursor=pointer]:
+            - /url: /events/alzheimers-association-nov-2025/
+          - paragraph [ref=e84]: Nov 19 @ 7:00 PM
+          - generic [ref=e87]:
+            - link "View Materials" [ref=e88] [cursor=pointer]:
+              - /url: /events/alzheimers-association-nov-2025/
+            - paragraph [ref=e89]:
+              - img [ref=e90]
+        - generic [ref=e92]:
+          - link "Senior Care Marketing" [ref=e95] [cursor=pointer]:
+            - /url: /resources/?category=Senior Care Marketing
+          - 'link "Mastering the Home Care Marketing Funnel: Strategies for Every Stage of the Client Journey" [ref=e96] [cursor=pointer]':
+            - /url: /events/mastering-the-home-care-marketing-funnel/
+          - paragraph [ref=e97]: Sep 11 @ 6:00 PM
+          - generic [ref=e100]:
+            - link "View Materials" [ref=e101] [cursor=pointer]:
+              - /url: /events/mastering-the-home-care-marketing-funnel/
+            - paragraph [ref=e102]:
+              - img [ref=e103]
+        - generic [ref=e105]:
+          - link "Caring Stars" [ref=e108] [cursor=pointer]:
+            - /url: /resources/?category=Caring Stars
+          - 'link "Time to Shine: How to Qualify for Caring Stars 2026" [ref=e109] [cursor=pointer]':
+            - /url: /events/caring-stars-2026-time-to-shine/
+          - paragraph [ref=e110]: Aug 05 @ 6:00 PM
+          - generic [ref=e113]:
+            - link "View Materials" [ref=e114] [cursor=pointer]:
+              - /url: /events/caring-stars-2026-time-to-shine/
+            - paragraph [ref=e115]:
+              - img [ref=e116]
+  - generic [ref=e119]:
+    - heading "Let's Work Together" [level=2] [ref=e120]
+    - paragraph [ref=e121]:
+      - text: You're actively serving seniors and their families every day.
+      - text: We know how to reach them online.
+    - paragraph [ref=e123]: We're ready to drive more traffic to providers across the spectrum of care in...
+    - generic [ref=e124]:
+      - generic [ref=e125]: "0"
+      - generic:
+        - button "Back":
+          - img [ref=e126] [cursor=pointer]
+        - generic:
+          - progressbar "Carousel Page"
+        - button "Forward":
+          - img [ref=e129] [cursor=pointer]
+    - paragraph [ref=e133]: "We connect you to customers searching for your care services through these professional tools:"
+    - generic [ref=e134]:
+      - generic [ref=e136]:
+        - generic [ref=e137]:
+          - img [ref=e138]
+          - img "icon" [ref=e140]
+        - list [ref=e141]:
+          - listitem [ref=e142]:
+            - paragraph [ref=e143]: Training & Best Practices
+          - listitem [ref=e144]:
+            - paragraph [ref=e145]: We know what drives more leads your way, and we want to share that knowledge—so you’ll get access to insider reports and eye-opening training to boost your sales and marketing success.
+          - listitem [ref=e146]:
+            - generic [ref=e148]:
+              - link "Learn more" [ref=e149] [cursor=pointer]:
+                - /url: /events/
+              - paragraph [ref=e150]:
+                - img [ref=e151]
+      - generic [ref=e154]:
+        - generic [ref=e155]:
+          - img [ref=e156]
+          - img "icon" [ref=e158]
+        - list [ref=e159]:
+          - listitem [ref=e160]:
+            - paragraph [ref=e161]: Inquiries & Screened Leads
+          - listitem [ref=e162]:
+            - paragraph [ref=e163]: Millions inquire online about senior living & care services; hundreds of thousands speak to our Family Advisors. We’ll pass along any inquiries, leads and referrals for your listing so you can grow your business.
+      - generic [ref=e165]:
+        - generic [ref=e166]:
+          - img [ref=e167]
+          - img "icon" [ref=e169]
+        - list [ref=e170]:
+          - listitem [ref=e171]:
+            - paragraph [ref=e172]: Consumer Reviews
+          - listitem [ref=e173]:
+            - paragraph [ref=e174]: We operate the biggest and most reliable reviews site in the industry and can help you get more customer reviews—while providing tips & tools to win service excellence awards too.
+          - listitem [ref=e175]:
+            - generic [ref=e177]:
+              - link "Learn more" [ref=e178] [cursor=pointer]:
+                - /url: /reviews/
+              - paragraph [ref=e179]:
+                - img [ref=e180]
+      - generic [ref=e183]:
+        - generic [ref=e184]:
+          - img [ref=e185]
+          - img "icon" [ref=e187]
+        - list [ref=e188]:
+          - listitem [ref=e189]:
+            - paragraph [ref=e190]: Enhanced Listings
+          - listitem [ref=e191]:
+            - paragraph [ref=e192]: Upgrade your directory listing to rank higher — it’s easy to add photos, rates and business descriptions , and list your unique services and amenities—so that more prospects can find you!
+  - generic [ref=e193]:
+    - img [ref=e195]
+    - generic [ref=e197]:
+      - heading "Get Access To Your Unique Market Report Through a Customized Demo!" [level=2] [ref=e198]
+      - group "Request a demo" [ref=e199] [cursor=pointer]:
+        - paragraph [ref=e200]: Request a Demo
+        - img [ref=e202]
+  - generic [ref=e205]:
+    - img [ref=e207]
+    - generic [ref=e211]:
+      - heading [level=2]
+      - paragraph [ref=e212]
+  - generic [ref=e214]:
+    - generic [ref=e215]:
+      - heading "Testimonials" [level=2] [ref=e216]
+      - paragraph [ref=e217]: See What People Are Saying About Us!
+    - generic [ref=e218]: "0"
+    - generic:
+      - button "Back":
+        - img [ref=e219] [cursor=pointer]
+      - generic:
+        - progressbar "Carousel Page"
+      - button "Forward":
+        - img [ref=e222] [cursor=pointer]
+    - generic:
+      - paragraph: 0 of 9
+  - generic [ref=e226]:
+    - heading "Trusted by" [level=2] [ref=e227]
+    - generic [ref=e228]:
+      - generic [ref=e230]:
+        - img "image"
+      - generic [ref=e232]:
+        - img "image"
+      - generic [ref=e234]:
+        - img "image"
+      - generic [ref=e236]:
+        - img "image"
+      - generic [ref=e238]:
+        - img "image"
+  - generic [ref=e241]:
+    - generic:
+      - img "seniors medium"
+    - generic [ref=e243]:
+      - paragraph [ref=e244]: Making It Easier For Families to Find You
+      - generic [ref=e246]:
+        - generic [ref=e247]:
+          - generic [ref=e248]:
+            - img [ref=e249]
+            - paragraph [ref=e251]: Enhanced Listings
+          - generic [ref=e252]:
+            - img [ref=e253]
+            - paragraph [ref=e255]: Consumer Reviews
+        - generic [ref=e256]:
+          - generic [ref=e257]:
+            - img [ref=e258]
+            - paragraph [ref=e260]: Inquiries & Screened Leads
+          - generic [ref=e261]:
+            - img [ref=e262]
+            - paragraph [ref=e264]: Training & Best Practices
+      - group "Request a demo" [ref=e267] [cursor=pointer]:
+        - paragraph [ref=e268]: Request a Demo
+        - img [ref=e270]
+  - generic [ref=e274]:
+    - heading "Articles & News" [level=2] [ref=e277]
+    - paragraph [ref=e278]: Stay up-to-date on noteworthy industry news and trends!
+    - generic [ref=e279]:
+      - generic [ref=e281]:
+        - generic [ref=e284]:
+          - link "Home Care Agencies" [ref=e288] [cursor=pointer]:
+            - /url: /resources/?category=Home Care Agencies
+          - generic [ref=e290]:
+            - img [ref=e292]
+            - img [ref=e293]
+            - img "16732278-e15e-52ab-b487-850e73dfe787" [ref=e294]
+        - generic [ref=e296]:
+          - paragraph [ref=e297]: Oct 29, 2025
+          - 'link "Mastering the Home Care Marketing Funnel: Turning Awareness Into Action" [ref=e298] [cursor=pointer]':
+            - /url: /mastering-the-home-care-marketing-funnel-turning-awareness-into-action
+          - generic [ref=e299]:
+            - generic [ref=e300]:
+              - img [ref=e302]
+              - img [ref=e303]
+              - img "cover30ab0659-1a97-52c2-ab8f-ccbebdfbd82c" [ref=e304]
+            - link "Marisa Snook" [ref=e305] [cursor=pointer]:
+              - /url: /marisa-snook/
+          - generic [ref=e306]:
+            - paragraph [ref=e307]: "Ask most agency owners where their clients come from and you’ll likely hear the same answers: “word of mouth” or “people found us online.” But that’s only part of the story. Behind every new client is a decision-making process full of questions, research, and emotion. Understanding that the full journey—the marketing funnel—is how your agency can move from waiting for the phone to ring to confidently driving growth."
+            - paragraph [ref=e308]:
+              - text: In September 2025,
+              - link "corecubed" [ref=e309] [cursor=pointer]:
+                - /url: https://corecubed.com/
+              - text: partnered with Caring.com to guide home care agency leaders through this funnel during our
+              - link "webinar" [ref=e310] [cursor=pointer]:
+                - /url: https://partners.caring.com/events/mastering-the-home-care-marketing-funnel/
+              - text: ", Mastering the Home Care Marketing Funnel: Strategies for Every Stage of the Care Journey. Here’s a recap of the strategies we covered."
+            - paragraph [ref=e311]: "The Funnel: Why It Matters in Home Care"
+            - paragraph [ref=e312]: "Most families don’t start by searching for “home care near me.” They start with questions: How do I know if dad needs help? How do I prepare for mom coming home from the hospital? The funnel explains how families move from awareness to consideration to decision:"
+            - list [ref=e313]:
+              - listitem [ref=e314]:
+                - paragraph [ref=e315]: "Awareness (Top of Funnel): They’ve just realized something isn’t right at home and are exploring options."
+              - listitem [ref=e316]:
+                - paragraph [ref=e317]: "Consideration (Middle): They know care is needed and are comparing providers."
+              - listitem [ref=e318]:
+                - paragraph [ref=e319]: "Decision (Bottom): They’re ready to act and choose an agency."
+            - paragraph [ref=e320]: It’s important to remember that this journey isn’t always linear. Families jump ahead, circle back, and pause. Your role is to stay visible, trustworthy, and memorable at every stage.
+            - paragraph [ref=e321]: "Top of Funnel: Planting Seeds of Awareness"
+            - paragraph [ref=e322]: "Here’s the hard truth: people don’t like thinking about aging or needing care. That makes awareness marketing especially challenging. Yet it’s also where trust begins."
+            - paragraph [ref=e323]: At this stage, your goal is visibility. You want people to know who you are before they even need you. That way, when a crisis arises or a gradual decline becomes apparent, your agency is already a familiar and trusted option.
+            - paragraph [ref=e324]: How do you build that visibility?
+            - list [ref=e325]:
+              - listitem [ref=e326]:
+                - paragraph [ref=e327]: "Social media presence: Elevate your social media interactions. Listen to community conversations, engage with referral partners, share real caregiver stories, and boost posts that resonate."
+              - listitem [ref=e328]:
+                - paragraph [ref=e329]: "Community outreach: Attend local events, volunteer, or sponsor programs. Face-to-face connections still carry huge weight in a relationship-driven industry like home care."
+              - listitem [ref=e330]:
+                - paragraph [ref=e331]: "Helpful content: Blog posts, quick tips, and short videos that answer common questions plant seeds with families long before they pick up the phone."
+            - paragraph [ref=e332]: The goal at this stage isn’t to sell your services. It’s to be seen, heard, and remembered.
+            - paragraph [ref=e333]: "Middle of Funnel: Earning Trust"
+            - paragraph [ref=e334]: "When families reach this stage, they’ve already engaged with you in some way, maybe through social media, a webinar, or your email newsletter. They’re exploring options and asking: Who can we trust?"
+            - paragraph [ref=e335]: This is where your website and reviews become non-negotiable. If your site is clunky, outdated, or hard to navigate, they’ll click away. If reviews are scarce or unaddressed, families may lose confidence.
+            - paragraph [ref=e336]: "Strategies that shine at this stage include:"
+            - list [ref=e337]:
+              - listitem [ref=e338]:
+                - paragraph [ref=e339]:
+                  - link "Video storytelling" [ref=e340] [cursor=pointer]:
+                    - /url: https://corecubed.com/digital-marketing-services/video-marketing/
+                  - text: ": Show what makes your agency different through caregiver-client interactions or client testimonials."
+              - listitem [ref=e341]:
+                - paragraph [ref=e342]: "Case studies and outcomes: Highlight success stories like reduced hospital readmissions or meaningful lifestyle improvements."
+              - listitem [ref=e343]:
+                - paragraph [ref=e344]: "Retargeting ads: Stay in front of those who have already visited your site, gently nudging them to come back."
+            - paragraph [ref=e345]: Your messaging here should emphasize authority, empathy, and reliability. You want families to feel that your agency understands them and that they can trust you with something this important.
+            - paragraph [ref=e346]: "Bottom of Funnel: Converting Interest Into Action"
+            - paragraph [ref=e347]: By now, families are ready to choose an agency. Your job is to make choosing your agency the clear and effortless next step.
+            - paragraph [ref=e348]: "That means:"
+            - list [ref=e349]:
+              - listitem [ref=e350]:
+                - paragraph [ref=e351]: "Clear calls to action: “Call us now,” “Schedule your free consultation.”"
+              - listitem [ref=e352]:
+                - paragraph [ref=e353]: "Multiple contact options: phone, form fills, and especially live chat/text."
+              - listitem [ref=e354]:
+                - paragraph [ref=e355]: "Prominent trust-builders: accreditations, third-party reviews, testimonials, and guarantees of responsiveness."
+            - paragraph [ref=e356]: "Messaging should focus on confidence and urgency: you’re the right choice, and now is the right time."
+            - paragraph [ref=e357]: Making the Most of Your Budget
+            - paragraph [ref=e358]: "Here’s the good news: you don’t need to do everything at once. Think of your budget like the funnel itself:"
+            - list [ref=e359]:
+              - listitem [ref=e360]:
+                - paragraph [ref=e361]: Start with awareness-building through consistent social media and community outreach.
+              - listitem [ref=e362]:
+                - paragraph [ref=e363]: Invest in a strong website that looks professional and converts visitors.
+              - listitem [ref=e364]:
+                - paragraph [ref=e365]: Layer on SEO and PPC to capture families actively searching for care.
+            - paragraph [ref=e366]: "Each stage builds on the next. And remember: what gets measured gets managed. Track the right metrics at each stage: awareness and engagement at the top, website visits and form fills in the middle, and calls and new clients at the bottom."
+            - paragraph [ref=e367]: Expert Tips from the Webinar Q&A
+            - paragraph [ref=e368]: "Our audience had some great questions during the webinar, and the answers are worth highlighting:"
+            - list [ref=e369]:
+              - listitem [ref=e370]:
+                - paragraph [ref=e371]: How do I prove my marketing is working? Use tracking tools. Call tracking numbers, website analytics, and social media engagement metrics reveal the origin of inquiries and which tactics are most effective in converting leads.
+              - listitem [ref=e372]:
+                - paragraph [ref=e373]: Is joining a client registry a good idea? They can help new agencies, but be prepared for “speed to lead” competition, as the same lead may be assigned to multiple agencies. In contrast, with PPC, the lead comes directly to you.
+              - listitem [ref=e374]:
+                - paragraph [ref=e375]: What’s the best first marketing investment? Start with a professional website[JL4] . It’s the hub of your marketing funnel, and if it doesn’t work well, everything else will fall flat.
+              - listitem [ref=e376]:
+                - paragraph [ref=e377]: How do I talk about cost without sounding salesy? Lead with value. Share stories of improved quality of life, positive outcomes, and caregiver dedication. This shifts the conversation from price to trust.
+            - paragraph [ref=e378]: "Final Takeaway: The Funnel Works Best as a System"
+            - paragraph [ref=e379]: "The marketing funnel is a system where every piece supports the others:"
+            - list [ref=e380]:
+              - listitem [ref=e381]:
+                - paragraph [ref=e382]: Social media sparks awareness.
+              - listitem [ref=e383]:
+                - paragraph [ref=e384]: Reviews and a professional website build credibility.
+              - listitem [ref=e385]:
+                - paragraph [ref=e386]: SEO and PPC ensure you’re found at the moment of need.
+              - listitem [ref=e387]:
+                - paragraph [ref=e388]: Inquiry handling and follow-up seal the deal.
+            - paragraph [ref=e389]: When one piece is weak, the whole system suffers. But when each piece works together, the result is powerful, driving more families to choose your agency with confidence.
+            - paragraph [ref=e390]:
+              - text: Want a deeper dive? Watch the
+              - link "full webinar recording" [ref=e391] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=3L5XKjDSH6w
+              - text: ", Mastering the Home Care Marketing Funnel: Strategies for Every Stage of the Care Journey, hosted by corecubed and Caring.com."
+          - generic [ref=e393]:
+            - link "Read Full Article" [ref=e394] [cursor=pointer]:
+              - /url: /mastering-the-home-care-marketing-funnel-turning-awareness-into-action/
+            - paragraph [ref=e395]:
+              - img [ref=e396]
+      - generic [ref=e400]:
+        - generic [ref=e401]:
+          - link "Senior Living Marketing" [ref=e405] [cursor=pointer]:
+            - /url: /resources/?category=Senior Living Marketing
+          - generic [ref=e407]:
+            - img [ref=e409]
+            - img [ref=e410]
+            - img "81909524-3e5b-50c8-89d2-1bf1a2d5f645" [ref=e411]
+        - paragraph [ref=e412]: Sep 29, 2025
+        - 'link "Caring Star Spotlight: The Waterford at Thousand Oaks" [ref=e413] [cursor=pointer]':
+          - /url: /blog/caring-stars-spotlight-the-waterford-at-thousand-oaks
+        - generic [ref=e414]:
+          - generic [ref=e415]:
+            - img [ref=e417]
+            - img [ref=e418]
+            - img "cover450b86a3-a909-50fe-b7f5-b4db7d9fb9b0" [ref=e419]
+          - link "Denise Graab" [ref=e420] [cursor=pointer]:
+            - /url: /expert-contributors/denise-graab/
+        - generic [ref=e421]:
+          - heading "“Feedback is a Great Gift” & Making an Impact in San Antonio, Texas" [level=2] [ref=e422]
+          - paragraph [ref=e423]:
+            - text: Jean — a senior in her early 80s — reached out to Caring a few years ago for help finding a new home closer to friends. She chose
+            - link "The Waterford at Thousand Oaks" [ref=e424] [cursor=pointer]:
+              - /url: https://www.caring.com/senior-living/texas/san-antonio/the-waterford-at-thousand-oaks-78217
+            - text: ", a community serving seniors in San Antonio, Texas for over 20 years. In October 2024, Jean shared a 5-star review via Caring’s award-winning review call-in line, detailing how much she loves the community and her experiences serving as a resident “ambassador” to help others considering or living at the community."
+          - paragraph [ref=e425]: "“All the options, all the positive things that happen in this building, I'm one of the ones that share the information,” she said in her review. She’s particularly fond of community activities like dance, art, crafts, sewing, bingo, and more, and compliments the staff: “All of them are very excellent people. They learn everybody's name. They care about everybody…They do ‘above and beyond’ work here.”"
+          - paragraph [ref=e426]:
+            - text: It’s reviews like Jean’s that have led to The Waterford at Thousand Oaks being a
+            - link "Caring Stars service excellence award winner" [ref=e427] [cursor=pointer]:
+              - /url: http://caring.com/bestseniorliving
+            - text: in six years since 2017 — including in the last five consecutive years, and a Caring Super Star (3-year or more winner) every year since 2022.
+          - paragraph [ref=e428]: Executive Director Dennise Acosta said in a recent interview with Caring, “Feedback is a great gift. We always reach for the moon, and get to the stars!”
+          - paragraph [ref=e429]: She displays their Caring Stars awards in the community lobby. “There are so many people that have agreed this is somewhere that your loved one is going to be cared for, be loved, and be happy. We’re going to create new memories together. And I think that’s what Caring Stars helps us to display.”
+          - paragraph [ref=e430]:
+            - text: In
+            - link "their reviews on Caring.com" [ref=e431] [cursor=pointer]:
+              - /url: https://www.caring.com/senior-living/texas/san-antonio/the-waterford-at-thousand-oaks-78217#all_reviews_section
+            - text: "that led to their stellar status:"
+          - list [ref=e432]:
+            - listitem [ref=e433]:
+              - paragraph [ref=e434]: Residents (like Jean) praise the camaraderie in the community, the genuine attention and caring from the staff, flexible dining options, and the activities.
+            - listitem [ref=e435]:
+              - paragraph [ref=e436]: Family and friends of residents comment about how accommodating and helpful their team is, and notice how clean and well-maintained the community is (something the residents have also mentioned).
+            - listitem [ref=e437]:
+              - paragraph [ref=e438]: Tour-takers likewise give positive feedback about how welcoming, homey and family-oriented the community is — The Waterford at Thousand Oaks is making a great first impression for these visitors.
+          - paragraph [ref=e439]: Dennise shares the published reviews with her staff and says, “This is how great you are. This is the impact you’re making.” And when residents ask her how they can help the community they love, she asks them to share a review too, “to help us change more lives.”
+          - paragraph [ref=e440]:
+            - text: The Waterford at Thousand Oaks is a community within the
+            - link "Sonida Senior Living" [ref=e441] [cursor=pointer]:
+              - /url: https://www.sonidaseniorliving.com/about-us/
+            - text: portfolio of properties, focused on “comfort, connection and fun — helping seniors live their best lives.” Their mission is “to create a safe and caring environment where team members thrive, and residents find their joy in new experiences and friendships.” The reviews on Caring.com help demonstrate how well they’re delivering on their mission.
+          - paragraph [ref=e442]: “Reputation management has become an important focus for Sonida Senior Living and for the families we support,” says Kari Wilson, director of sales operations. “Being recognized by Caring.com with the Caring Stars award is certainly an additional bonus as we achieve and maintain a strong reputation for each of our communities. An award like Caring Stars shows that as a company, Sonida is dedicated to ensuring that we not only measure up in our markets, but also shines a spotlight on the fact that we exceed, by offering the best services possible for the families that choose a Sonida Senior Living community.”
+          - paragraph [ref=e443]: Kari adds, “The Caring Stars award helps families that are at the beginning of their senior living journey navigate offerings and identify great options regarding communities to consider and commit to. It sets Sonida apart and helps to guide families to the best solutions for them.”
+          - paragraph [ref=e444]:
+            - text: Since June 2014, over a dozen such family members of residents have given a positive review about The Waterford of Thousand Oaks’
+            - link "independent living" [ref=e445] [cursor=pointer]:
+              - /url: https://www.caring.com/senior-living/independent-living
+            - text: "services. A few samples:"
+          - list [ref=e446]:
+            - listitem [ref=e447]:
+              - paragraph [ref=e448]: “I'm glad she's safe & enjoying her senior years,” said Allenton, whose mother is a resident.
+            - listitem [ref=e449]:
+              - paragraph [ref=e450]: “People were very friendly, and the staff was friendly and helpful. Anytime I needed something from them, they were very accommodating,” said Sherry, whose sister was a resident.
+            - listitem [ref=e451]:
+              - paragraph [ref=e452]: “I am very impressed…all the staff interact and care about the clients, and treat the seniors like family!” said Olivia, whose aunt lives there.
+          - paragraph [ref=e453]: Dennise agrees and adds, “We have amazing residents, family members and staff. We do have a beautiful community, but it’s the people who make us who we are, and they’re among my biggest blessings.”
+          - paragraph [ref=e454]:
+            - text: Caring’s CEO Tracey Zhen also highlights the importance of customer reviews and the Caring Stars award. In
+            - link "announcing the 2025 winning communities" [ref=e455] [cursor=pointer]:
+              - /url: https://www.caring.com/about/news/best-senior-living-2025
+            - text: ", she said, “Earning the Caring Stars award is a mark of excellence that sets these communities apart. This achievement underscores their commitment to creating high-quality, customer-centric experiences and to delighting those they serve.”"
+          - paragraph [ref=e456]: As their Caring Stars performance has demonstrated, The Waterford at Thousand Oaks has been a shining example of service excellence in senior living, and their reviews on Caring.com help illuminate, detail and celebrate how so.
+          - paragraph [ref=e457]: "Photo Source: The Waterford at Thousand Oaks"
+          - paragraph [ref=e458]: "Photo Source: The Waterford at Thousand Oaks"
+          - paragraph [ref=e459]:
+            - text: Learn more about Caring Stars by contacting
+            - link "reviews@caring.com" [ref=e460] [cursor=pointer]:
+              - /url: mailto:reviews@caring.com
+              - generic [ref=e461]: reviews@caring.com
+            - text: ", and learn more about The Waterford at Thousand Oaks via"
+            - link "their community’s profile" [ref=e462] [cursor=pointer]:
+              - /url: https://www.caring.com/senior-living/texas/san-antonio/the-waterford-at-thousand-oaks-78217
+              - generic [ref=e463]: their community’s profile
+            - text: .
+      - generic [ref=e466]:
+        - generic [ref=e467]:
+          - link "Senior Living Marketing" [ref=e471] [cursor=pointer]:
+            - /url: /resources/?category=Senior Living Marketing
+          - generic [ref=e473]:
+            - img [ref=e475]
+            - img [ref=e476]
+            - img "0942b515-0b8d-5766-a9d8-ccdd704f0e4c" [ref=e477]
+        - paragraph [ref=e478]: Sep 29, 2025
+        - 'link "Caring Star Spotlight: StoryPoint Medina" [ref=e479] [cursor=pointer]':
+          - /url: /blog/caring-star-spotlight-storypoint-medina
+        - generic [ref=e480]:
+          - generic [ref=e481]:
+            - img [ref=e483]
+            - img [ref=e484]
+            - img "cover450b86a3-a909-50fe-b7f5-b4db7d9fb9b0" [ref=e485]
+          - link "Denise Graab" [ref=e486] [cursor=pointer]:
+            - /url: /expert-contributors/denise-graab/
+        - generic [ref=e487]:
+          - heading "Living by ‘1440’, Serving Smiles & Leading with Heart in Medina, Ohio" [level=2] [ref=e488]
+          - paragraph [ref=e489]:
+            - text: Karen Z. is an adult daughter whose mom has lived at
+            - link "StoryPoint Medina" [ref=e490] [cursor=pointer]:
+              - /url: https://www.caring.com/senior-living/ohio/medina/storypoint-medina
+            - text: for the past 5 years. In her 5-star review on Caring.com in August 2025, she describes this community (with both independent living and assisted living) as being “like extended family” and noted, “Before my mom was living there, she was always lonely and hungry. Now, she is so busy with activities. It is so nice to see elderly people actually having fun and living. Not just existing.”
+          - paragraph [ref=e491]: "Executive Director Laurel Pitsinger (who also sees her role as “Ambassador of Happiness”) shared similar sentiments in a recent interview with Caring: “From my team to our residents, the very first thing I say is that we are a family and we look after and take care of each other. You’re coming to this community to continue living, and we live by ‘1440’; that’s our mantra every day. There are 1,440 minutes in every day, each giving us an opportunity to make someone’s life better, to serve them, to put a smile on their face.”"
+          - paragraph [ref=e492]:
+            - text: Karen Z. isn’t alone in taking notice of this approach at StoryPoint Medina. Since 2021, about 40 family members and friends of the community’s residents have likewise shared positive ratings, leading to the community being a
+            - link "Caring Stars service excellence award winner" [ref=e493] [cursor=pointer]:
+              - /url: https://www.caring.com/bestseniorliving
+            - text: every year since 2022 — and a Caring Super Star (3-year or more winner) since 2024.
+          - paragraph [ref=e494]: “We’re proud of our reviews and we show off our Caring Stars award to everybody,” Laurel said. She’s worked in senior living for over 20 years, and says, “We always use the reviews as an opportunity. If we’re not striving to be better every day, then we’re giving up.”
+          - paragraph [ref=e495]: Reviews help seniors and their families research and select the best-fit communities for their unique situations. “I had a family last week who I toured,” said Laurel. “They signed their lease yesterday and said that our reviews are what helped drive them here.”
+          - paragraph [ref=e496]: "Just a few of the many positive comments in those reviews on Caring.com:"
+          - list [ref=e497]:
+            - listitem [ref=e498]:
+              - paragraph [ref=e499]: “The staff is consistent, they know the residents and their families. The staff provides wonderful services with a smile. It truly is an atmosphere of nurturing, a supportive home environment.”
+            - listitem [ref=e500]:
+              - paragraph [ref=e501]: “My mom’s stay there in assisted living was full of kindness and genuine caring from everyone.
+            - listitem [ref=e502]:
+              - paragraph [ref=e503]: “The caregivers are always kind and thoughtful. Our dad is very happy here.”
+          - paragraph [ref=e504]:
+            - text: StoryPoint Medina is part of
+            - link "StoryPoint Group," [ref=e505] [cursor=pointer]:
+              - /url: https://www.storypoint.com/our-story/
+            - text: "a collection of senior housing properties across nine states. They highlight they’re “leading the industry by leading with our hearts” and for over 40 years have “been committed to providing residents with a sense of community and the absolute best experiences they deserve.” With more winning communities than any other housing organization nationwide, StoryPoint Group was #1 in the nation for Caring Stars in 2024 and 2025."
+          - paragraph [ref=e506]: Customer Insights & Reputation Marketing Manager Erin Kessler shared, “Caring.com has been an invaluable partner to StoryPoint Group, helping amplify the voices of residents and families through authentic feedback. The Caring Stars award is especially meaningful to us because it reflects the trust we’ve earned and allows us to connect with even more families searching for a place where their loved ones will feel at home.”
+          - paragraph [ref=e507]: Laurel at StoryPoint Medina agrees. “We talk about the feel of a community. This community feels so good. It feels like you’re at home as soon as you walk in the door. And that’s what’s truly, super important to me.”
+          - paragraph [ref=e508]: “Every single resident who moves in here is unique. And their stories are what makes them who they are,” she adds. “Moving into a StoryPoint community is just the next chapter of their story. We ask, ‘What do you want this chapter to look like? Because we’re going to help you write it.”
+          - paragraph [ref=e509]: "Their reviews and the Caring Stars award also help tell the community’s story. In a 5-star review, Alison, whose parents moved into StoryPoint Medina in 2020, detailed some of the community features that her family most appreciated — from the cleanliness of the community (“Everything is spic and span and my parents love their housekeeping services”), to the many activities (“holiday craft-making, live piano showtunes, and exercise/yoga classes”), the dining options (“truly impressed by the number of choices offered and the quality, freshness, and appeal of every meal”), and transportation flexibility (“being driven to doctor appts. or the store while maintaining their own car on site as needed”). She also wrote: “My parents have bonded with their ‘family’ of staff members and love the perks…From across the country, I can rest easier knowing they are in good hands. Honestly, my parents have gotten quite spoiled in their new home!”"
+          - paragraph [ref=e510]: Having staff who love what they do has a domino effect. “One of my favorite sayings is, if you do the right thing for the right reason, you’re going to get the right results,” Laurel said. “When the employees are happy, then the residents are happy. When the residents are happy, then their families are happy.”
+          - paragraph [ref=e511]: She added, “And we just have so much fun. We laugh, and sometimes cry, and laugh some more. It’s just a wonderful feeling every day.”
+          - paragraph [ref=e512]:
+            - text: “Earning the Caring Stars award is a mark of excellence that sets these communities apart,” said Caring’s CEO Tracey Zhen in
+            - link "announcing the 2025 winning communities" [ref=e513] [cursor=pointer]:
+              - /url: https://www.caring.com/about/news/best-senior-living-2025
+            - text: . “This achievement underscores their commitment to creating high-quality, customer-centric experiences and to delighting those they serve.”
+          - paragraph [ref=e514]: As their reviews and Caring Stars performance have shown, StoryPoint Medina is a shining example of senior living service excellence — for the many reasons and stories shared in their customers’ reviews on Caring.com.
+          - paragraph [ref=e515]: Executive Director Laurel Pitsinger
+          - paragraph [ref=e516]: "Photo source: StoryPoint Group"
+          - paragraph [ref=e517]: "Photo source: StoryPoint Group"
+          - paragraph [ref=e518]:
+            - text: Learn more about Caring Stars by contacting
+            - link "reviews@caring.com" [ref=e519] [cursor=pointer]:
+              - /url: mailto:reviews@caring.com
+              - generic [ref=e520]: reviews@caring.com
+            - text: ", and learn more about StoryPoint Medina via"
+            - link "their community’s profile" [ref=e521] [cursor=pointer]:
+              - /url: https://www.caring.com/senior-living/ohio/medina/storypoint-medina
+              - generic [ref=e522]: their community’s profile
+            - text: ". NOVEMBER 2025 UPDATE: StoryPoint Medina is also included among the"
+            - link "Caring Stars of 2026" [ref=e523] [cursor=pointer]:
+              - /url: Caring.com/bestseniorliving
+            - text: "as a Super Star and Family Favorite. StoryPoint Group also remains #1 in the nation for the third year in the row, having the most winning communities among operators nationwide. More info available at"
+            - link "Caring.com/bestseniorliving" [ref=e524] [cursor=pointer]:
+              - /url: Caring.com/bestseniorliving
+            - text: .
+      - generic [ref=e527]:
+        - generic [ref=e528]:
+          - link "Caring Stars" [ref=e532] [cursor=pointer]:
+            - /url: /resources/?category=Caring Stars
+          - generic [ref=e534]:
+            - img [ref=e536]
+            - img [ref=e537]
+            - img "1ba6edd9-511a-5994-bce4-f07a2fe374ab" [ref=e538]
+        - paragraph [ref=e539]: Aug 26, 2025
+        - 'link "Time to Shine: How to Qualify for Caring Stars 2026" [ref=e540] [cursor=pointer]':
+          - /url: /time-to-shine-how-to-qualify-for-caring-stars-2026
+        - generic [ref=e541]:
+          - generic [ref=e542]:
+            - img [ref=e544]
+            - img [ref=e545]
+            - img "cover450b86a3-a909-50fe-b7f5-b4db7d9fb9b0" [ref=e546]
+          - link "Denise Graab" [ref=e547] [cursor=pointer]:
+            - /url: /expert-contributors/denise-graab/
+        - generic [ref=e548]:
+          - paragraph [ref=e549]: Each year, Caring recognizes the top-rated senior living communities and in-home care agencies with the Caring Stars award, based on consumer reviews from seniors and their families on Caring.com.
+          - paragraph [ref=e550]: "The first of its kind when originally launched and now a well-recognized signal of service excellence, Caring Stars 2026 marks two major milestones:"
+          - list [ref=e551]:
+            - listitem [ref=e552]:
+              - paragraph [ref=e553]: The 15th edition winner list for senior living (including all levels of community, from 55+ apartments, adult day care, and independent living, to assisted living, memory care, skilled nursing, and CCRCs)
+            - listitem [ref=e554]:
+              - paragraph [ref=e555]: The 10th anniversary winner list for senior care (including in-home care, home health, hospice, and geriatric care management)
+          - paragraph [ref=e556]:
+            - text: With added promotions to celebrate these milestones, it’s a particularly opportune time to be among the featured communities and agencies honored! We detailed how to earn the Caring Stars 2026 award in our recent “Time to Shine” webinar (
+            - link "slides and recording in our events archive" [ref=e557] [cursor=pointer]:
+              - /url: https://partners.caring.com/events/caring-stars-2026-time-to-shine/
+            - text: ), and the following summary provides an overview for you, too.
+          - heading "Why Reviews — and Caring Stars — Matter" [level=2] [ref=e558]
+          - paragraph [ref=e559]: When researching and selecting the best fit service providers, seniors and their families turn to online reviews to narrow their options and make decisions. Caring Stars and the over 400,000 reviews on Caring.com help them make well-informed, confident choices during these life transitions.
+          - paragraph [ref=e560]:
+            - text: Over the many years we’ve hosted online reviews, we’ve seen firsthand how this peer feedback not only shapes trust, but also drive inquiries, tours, and move-ins. Research from
+            - link "BrightLocal’s Consumer Reviews Survey" [ref=e561] [cursor=pointer]:
+              - /url: https://www.brightlocal.com/research/local-consumer-review-survey/
+            - text: "and data from Caring’s referral partnerships show that:"
+          - list [ref=e562]:
+            - listitem [ref=e563]:
+              - paragraph [ref=e564]: 96% of Americans read reviews when considering local services, including for senior living and in-home care, and 74% are looking at multiple review websites. When this online research happens, you want your online reviews to help tell a story about the quality of your services and positively influence their decision-making.
+            - listitem [ref=e565]:
+              - paragraph [ref=e566]: Caring community partners with 16+ reviews have averaged nearly 3x more leads, almost 4x more tours, and over 4x more move-ins than those with only 1-2 reviews.
+            - listitem [ref=e567]:
+              - paragraph [ref=e568]: Earning the Caring Stars award builds on this influence. In 2023-2024, Caring Stars communities attracted nearly twice as many inquiries and over five times more move-ins compared to non-winners on Caring.com.
+          - paragraph [ref=e569]: Community and care seekers use Caring Stars as a shortcut to trust. They see the award or badge in search results, on profile pages, and even filter the Caring.com directory results to view Caring Stars from the past three years. The award helps them quickly identify those communities and agencies with a track record of excellence — attracting them to learn more about their services.
+          - paragraph [ref=e570]: Caring Stars gives honored businesses this valuable increased visibility in search, social media, and local PR. The award brings free promotional materials, media coverage, and a powerful differentiator in a crowded marketplace.
+          - paragraph [ref=e571]: As a high integrity reviews platform, Caring charges no fees for Caring Stars participation, and there is no application process. Any community or agency in the United States with a stellar reputation profile on Caring.com can be considered — if meeting the minimum eligibility criteria by the qualification deadline (for Caring Stars 2026, that is October 15, 2025).
+          - heading "Key Dates and What’s Needed" [level=2] [ref=e572]
+          - list [ref=e573]:
+            - listitem [ref=e574]:
+              - paragraph [ref=e575]: "2026 Award qualification deadline: October 15, 2025"
+            - listitem [ref=e576]:
+              - paragraph [ref=e577]: "Senior living winners announced: mid-November 2025"
+            - listitem [ref=e578]:
+              - paragraph [ref=e579]: "Home care agency winners announced: mid-December 2025"
+          - paragraph [ref=e580]: To be considered for the 2026 award, we suggest exceeding the following reviews metrics by the qualification deadline ...
+          - paragraph [ref=e581]: "FOR SENIOR CARE AGENCIES AND SENIOR LIVING COMMUNITIES (with resident capacity of 31+):"
+          - paragraph [ref=e582]: "FOR CARE HOMES OR SMALL HOUSING:"
+          - heading "Quality Assurance Steps" [level=2] [ref=e583]
+          - paragraph [ref=e584]: "After the October 15th deadline, Caring audits all finalist profiles to confirm integrity and compliance. The audit includes:"
+          - list [ref=e585]:
+            - listitem [ref=e586]:
+              - paragraph [ref=e587]:
+                - text: Checking that all published reviews meet
+                - link "guidelines" [ref=e588] [cursor=pointer]:
+                  - /url: https://www.caring.com/about/review_guidelines
+                - text: (evaluating them as a collection for each profile, in addition to the individual screening each went through when published). Communities and agencies must avoid adding the reviews for their customers — Caring can help any seniors who need that assistance in participating.
+            - listitem [ref=e589]:
+              - paragraph [ref=e590]: Verifying state-based licensing information for care levels where required, and ensuring the license information on the profile matches
+            - listitem [ref=e591]:
+              - paragraph [ref=e592]: "For regulated care levels of senior living: Analyzing two years of inspection reports and citations. Finalists can be excluded from the winner list for serious deficiencies, a high volume of minor citations, or repeated year-over-year citations."
+            - listitem [ref=e593]:
+              - paragraph [ref=e594]: Screening of public news reports
+          - paragraph [ref=e595]: These steps help ensure the award maintains consumer trust and truly represents the best service providers nationwide.
+          - heading "Valid Reviews Only" [level=2] [ref=e596]
+          - paragraph [ref=e597]: One of the most common mistakes is asking the wrong people to give reviews on Caring.com.
+          - paragraph [ref=e598]: "Here’s who may participate in our high integrity program:"
+          - heading "Tools to Build Your Reputation" [level=2] [ref=e599]
+          - paragraph [ref=e600]:
+            - text: During
+            - link "the “Time to Shine” webinar for Caring Stars 2026" [ref=e601] [cursor=pointer]:
+              - /url: https://partners.caring.com/events/caring-stars-2026-time-to-shine/
+            - text: ", we discussed the many services Caring offers to get and respond to reviews."
+          - paragraph [ref=e602]: HOW TO GET REVIEWS
+          - list [ref=e603]:
+            - listitem [ref=e604]:
+              - paragraph [ref=e605]: "Online Review Forms: Every Caring.com profile has a dedicated review link you can share directly with cognitively-healthy seniors and their families. -Caring’s senior living partners can use Partner Portal to email this link directly to potential reviewers and track how many reviews you generate."
+            - listitem [ref=e606]:
+              - paragraph [ref=e607]: "Review Call-in Line: For Caring’s referral partners, we offer a free “Review Us on Caring” handout with the phone number for our award-winning review call in line. -This is an excellent option for seniors who aren’t yet comfortable online — and it frequently results in very detailed, authentic reviews. We also have other reviews-by-phone services for Caring partners too — for both senior living and senior care."
+            - listitem [ref=e608]:
+              - paragraph [ref=e609]:
+                - text: "Activated Insights Integration: If your home care agency is using Activated Insights (formerly Home Care Pulse), be sure to"
+                - link "opt into this program" [ref=e610] [cursor=pointer]:
+                  - /url: https://activatedinsights.my.site.com/help/s/article/opt-in-or-out-of-integration-with-caringcom
+                - text: that takes some of the consumer feedback collected in their surveys and transmits reviews for Caring.com profiles.
+          - paragraph [ref=e611]: "Once you have reviews published on your profile, don’t miss the opportunity to respond to them:"
+          - paragraph [ref=e612]:
+            - text: As announced earlier this summer, we also now have a
+            - link "partnership with ResponseScribe" [ref=e613] [cursor=pointer]:
+              - /url: https://partners.caring.com/using-response-scribe-to-respond-to-reviews/
+            - text: to help craft your responses. It comes with
+            - link "a free 14-day trial" [ref=e614] [cursor=pointer]:
+              - /url: https://app.responsescribe.com/get-started/?referral_code=BlfxrT3Opv
+            - text: for reviews on both Caring and Google.
+          - separator [ref=e615]
+          - heading "Take Action Now!" [level=2] [ref=e616]
+          - paragraph [ref=e617]: The October 15th deadline will be here sooner than you think, so don't delay in building your Caring.com profile for Caring Stars 2026 consideration. Don't be outshined by your local competitors — be among those featured for excellence in Caring Stars 2026.
+          - paragraph [ref=e618]: "Here's what just some of the 2025 winners have had to say about this honor for their organizations:"
+          - paragraph [ref=e619]:
+            - text: Have questions? Please reach out to
+            - link "reviews@caring.com" [ref=e620] [cursor=pointer]:
+              - /url: mailto:reviews@caring.com
+            - text: or (650) 762-8190 for support.
+  - generic [ref=e622]:
+    - generic [ref=e624]: Browse Resource Categories
+    - generic [ref=e626]:
+      - link "Home Care Agencies" [ref=e628] [cursor=pointer]:
+        - /url: /resources/?category=Home Care Agencies
+      - link "Caring Stars" [ref=e630] [cursor=pointer]:
+        - /url: /resources/?category=Caring Stars
+      - link "Testimonials" [ref=e632] [cursor=pointer]:
+        - /url: /resources/?category=Testimonials
+      - link "Senior Living Communities" [ref=e634] [cursor=pointer]:
+        - /url: /resources/?category=Senior Living Communities
+      - link "Partner Success (Client Services)" [ref=e636] [cursor=pointer]:
+        - /url: /resources/?category=Partner Success (Client Services)
+  - generic [ref=e638]:
+    - heading "Showcase Your Senior Living Community & Boost Sales Today!" [level=2] [ref=e639]
+    - paragraph [ref=e640]: Join us as a Caring Partner for access to our insider tools.
+    - group "Request a demo" [ref=e642]:
+      - paragraph [ref=e643]: Request a Demo
+      - img [ref=e645]
+  - generic [ref=e647]:
+    - generic [ref=e650]:
+      - generic [ref=e652]:
+        - paragraph [ref=e654]: Our services
+        - link "Get Referrals" [ref=e656] [cursor=pointer]:
+          - /url: /contact-us/
+        - link "Consumer Reviews" [ref=e658] [cursor=pointer]:
+          - /url: /reviews/
+      - generic [ref=e660]:
+        - paragraph [ref=e662]: Who We Are
+        - link "About Caring.com" [ref=e664] [cursor=pointer]:
+          - /url: https://careers.caring.com/about-us/
+        - link "Meet the Team" [ref=e666] [cursor=pointer]:
+          - /url: https://careers.caring.com/leadership/
+        - link "Expert Contributors" [ref=e668] [cursor=pointer]:
+          - /url: /expert-contributors/
+      - generic [ref=e670]:
+        - paragraph [ref=e672]: Other Helpful Links
+        - link "Terms" [ref=e674] [cursor=pointer]:
+          - /url: https://www.caring.com/about/terms/
+        - link "Privacy" [ref=e676] [cursor=pointer]:
+          - /url: https://www.caring.com/about/privacy/
+        - link "Newsroom" [ref=e678] [cursor=pointer]:
+          - /url: https://www.caring.com/about/news/
+        - link "Go to Caring.com" [ref=e680] [cursor=pointer]:
+          - /url: https://www.caring.com/
+    - generic [ref=e681]:
+      - paragraph [ref=e684]: Caring is a portfolio of senior living and senior care websites helping millions of seniors and their families research and connect to the most appropriate services and support for their specific situations. Our mission is to help as many seniors as possible through empathetic, expert guidance.
+      - generic [ref=e686]:
+        - generic [ref=e688]:
+          - img "Caring Logo White"
+        - link "Linkedin" [ref=e690] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/caring-com
+          - generic [ref=e692]: 
+        - link "Youtube" [ref=e694] [cursor=pointer]:
+          - /url: https://www.youtube.com/user/caringcom
+          - generic [ref=e696]: 
+        - link "Facebook" [ref=e698] [cursor=pointer]:
+          - /url: https://www.facebook.com/caringcom/
+          - generic [ref=e700]: 

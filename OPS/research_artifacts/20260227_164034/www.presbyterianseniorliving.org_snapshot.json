@@ -1,0 +1,103 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e5]:
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "Employment" [ref=e11] [cursor=pointer]:
+            - /url: //www.presbyterianseniorliving.org/employment
+        - listitem [ref=e12]:
+          - generic [ref=e13] [cursor=pointer]:
+            - link "Donations" [ref=e14]:
+              - /url: "?#form=DonateNow"
+            - list [ref=e15]:
+              - listitem:
+                - link "Donate Online" [ref=e16]:
+                  - /url: "?#form=DonateNow"
+              - listitem:
+                - link "More Opportunities to Give" [ref=e17]:
+                  - /url: https://www.presbyterianseniorliving.org/support-our-mission
+      - generic [ref=e19]:
+        - link "Presbyterian Senior Living" [ref=e21] [cursor=pointer]:
+          - /url: //www.presbyterianseniorliving.org/
+          - img "Presbyterian Senior Living" [ref=e22]
+        - generic [ref=e24]: 
+      - text:       
+      - generic [ref=e29]:
+        - link "Resident Bill Pay" [ref=e30] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/resident-bill-pay
+          - text: Resident
+          - strong [ref=e31]: Bill Pay
+        - link "Phone Directory" [ref=e32] [cursor=pointer]:
+          - /url: //www.presbyterianseniorliving.org/community-phone-directory
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - link "Presbyterian Senior Living" [ref=e36] [cursor=pointer]:
+            - /url: //www.presbyterianseniorliving.org/
+            - img "Presbyterian Senior Living" [ref=e37]
+          - generic [ref=e39]: 
+        - navigation "Navigation Menu" [ref=e41]:
+          - menu [ref=e42]:
+            - menuitem "Home" [ref=e43] [cursor=pointer]
+            - menuitem "Services" [ref=e44] [cursor=pointer]
+            - menu [ref=e45]:
+              - menuitem "Our Services" [ref=e46] [cursor=pointer]
+              - menuitem "Independent Living" [ref=e47] [cursor=pointer]
+              - menuitem "Personal Care / Assisted Living" [ref=e48] [cursor=pointer]:
+                - text: Personal Care / Assisted Living
+                - generic [ref=e49]: 
+              - menuitem "Transitional Care" [ref=e50] [cursor=pointer]:
+                - text: Transitional Care
+                - generic [ref=e51]: 
+              - menuitem "Skilled Nursing" [ref=e52] [cursor=pointer]
+              - menuitem "Memory Care" [ref=e53] [cursor=pointer]
+              - menuitem "Respite Care" [ref=e54] [cursor=pointer]
+              - menuitem "At-Home Services" [ref=e55] [cursor=pointer]
+              - menuitem "End-of-Life and Comfort Care" [ref=e56] [cursor=pointer]
+            - menuitem "Our Communities" [ref=e57] [cursor=pointer]
+            - menu [ref=e58]:
+              - menuitem "Community List" [ref=e59] [cursor=pointer]
+              - menuitem "Community Map" [ref=e60] [cursor=pointer]
+            - menuitem "About Us" [ref=e61] [cursor=pointer]
+            - menu [ref=e62]:
+              - menuitem "Mission, Vision & Values" [ref=e63] [cursor=pointer]
+              - menuitem "Employment" [ref=e64] [cursor=pointer]
+              - menuitem "Thrive Wellness" [ref=e65] [cursor=pointer]
+              - menuitem "Quality Measures" [ref=e66] [cursor=pointer]
+              - menuitem "Leadership Team" [ref=e67] [cursor=pointer]
+              - menuitem "Media Inquiries" [ref=e68] [cursor=pointer]
+              - menuitem "Information & Financials" [ref=e69] [cursor=pointer]
+              - menuitem "Events" [ref=e70] [cursor=pointer]
+            - menuitem "Support Our Mission" [ref=e71] [cursor=pointer]
+            - menu [ref=e72]:
+              - menuitem "Donate Online Now" [ref=e73] [cursor=pointer]
+              - menuitem "Opportunities to Give" [ref=e74] [cursor=pointer]
+              - menuitem "Partners In Mission Program" [ref=e75] [cursor=pointer]
+              - menuitem "Bequests and Planned Giving" [ref=e76] [cursor=pointer]
+              - menuitem "Volunteer" [ref=e77] [cursor=pointer]
+            - menuitem "Getting Started" [ref=e78] [cursor=pointer]
+            - menu [ref=e79]:
+              - menuitem "Learning Resources" [ref=e80] [cursor=pointer]
+              - menuitem "Blog" [ref=e81] [cursor=pointer]
+              - menuitem "Guides" [ref=e82] [cursor=pointer]
+            - menuitem "News and Updates" [ref=e83] [cursor=pointer]
+            - menuitem "Contact" [ref=e84] [cursor=pointer]
+        - link "Donate Now" [ref=e86] [cursor=pointer]:
+          - /url: //info.presbyterianseniorliving.org/online-donations
+    - generic [ref=e89]:
+      - link "Presbyterian Senior Living" [ref=e91] [cursor=pointer]:
+        - /url: //www.presbyterianseniorliving.org/
+        - img "Presbyterian Senior Living" [ref=e92]
+      - generic [ref=e94]: 
+  - generic [ref=e100]:
+    - generic [ref=e109]:
+      - heading "At PSL, we create Senior Living solutions that enable you to thrive at every stage of life" [level=1] [ref=e110]
+      - paragraph [ref=e111]:
+        - link "See Communities" [ref=e113] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/community-list
+    - generic [ref=e126]:
+      - heading "Who Is Presbyterian Senior Living?" [level=2] [ref=e127]
+      - paragraph [ref=e128]: PSL is a mission-driven organization and trusted leader in aging services that inspires individuals to thrive.
+      - paragraph [ref=e129]: Building on a legacy of 97 years, we provide residential and care services to more than 6,000 seniors in 27 locations across the mid-Atlantic region of Pennsylvania, Maryland, Ohio and Delaware.
+      - paragraph [ref=e130]:
+        - link "Mission, Vision & Values" [ref=e132] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/mission-vision-values

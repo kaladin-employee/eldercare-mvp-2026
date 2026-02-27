@@ -1,0 +1,387 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e5]:
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "Employment" [ref=e11] [cursor=pointer]:
+            - /url: //www.presbyterianseniorliving.org/employment
+        - listitem [ref=e12]:
+          - generic [ref=e13] [cursor=pointer]:
+            - link "Donations" [ref=e14]:
+              - /url: "?#form=DonateNow"
+            - list [ref=e15]:
+              - listitem:
+                - link "Donate Online" [ref=e16]:
+                  - /url: "?#form=DonateNow"
+              - listitem:
+                - link "More Opportunities to Give" [ref=e17]:
+                  - /url: https://www.presbyterianseniorliving.org/support-our-mission
+      - generic [ref=e19]:
+        - link "Presbyterian Senior Living" [ref=e21] [cursor=pointer]:
+          - /url: //www.presbyterianseniorliving.org/
+          - img "Presbyterian Senior Living" [ref=e22]
+        - generic [ref=e24]: 
+      - text:       
+      - generic [ref=e29]:
+        - link "Resident Bill Pay" [ref=e30] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/resident-bill-pay
+          - text: Resident
+          - strong [ref=e31]: Bill Pay
+        - link "Phone Directory" [ref=e32] [cursor=pointer]:
+          - /url: //www.presbyterianseniorliving.org/community-phone-directory
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - link "Presbyterian Senior Living" [ref=e36] [cursor=pointer]:
+            - /url: //www.presbyterianseniorliving.org/
+            - img "Presbyterian Senior Living" [ref=e37]
+          - generic [ref=e39]: 
+        - navigation "Navigation Menu" [ref=e41]:
+          - menu [ref=e42]:
+            - menuitem "Home" [ref=e43] [cursor=pointer]
+            - generic [ref=e44]: 
+            - menuitem "Services" [ref=e45] [cursor=pointer]
+            - text:  
+            - generic [ref=e46]: 
+            - menuitem "Our Communities" [ref=e47] [cursor=pointer]
+            - generic [ref=e48]: 
+            - menuitem "About Us" [ref=e49] [cursor=pointer]
+            - generic [ref=e50]: 
+            - menuitem "Support Our Mission" [ref=e51] [cursor=pointer]
+            - generic [ref=e52]: 
+            - menuitem "Getting Started" [ref=e53] [cursor=pointer]
+            - menuitem "News and Updates" [ref=e54] [cursor=pointer]
+            - menuitem "Contact" [ref=e55] [cursor=pointer]
+        - link "Donate Now" [ref=e57] [cursor=pointer]:
+          - /url: //info.presbyterianseniorliving.org/online-donations
+    - generic [ref=e60]:
+      - link "Presbyterian Senior Living" [ref=e62] [cursor=pointer]:
+        - /url: //www.presbyterianseniorliving.org/
+        - img "Presbyterian Senior Living" [ref=e63]
+      - generic [ref=e65]: 
+  - generic [ref=e71]:
+    - generic [ref=e80]:
+      - heading "At PSL, we create Senior Living solutions that enable you to thrive at every stage of life" [level=1] [ref=e81]
+      - paragraph [ref=e82]:
+        - link "See Communities" [ref=e84] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/community-list
+    - generic [ref=e90]:
+      - generic [ref=e97]:
+        - heading "Who Is Presbyterian Senior Living?" [level=2] [ref=e98]
+        - paragraph [ref=e99]: PSL is a mission-driven organization and trusted leader in aging services that inspires individuals to thrive.
+        - paragraph [ref=e100]: Building on a legacy of 97 years, we provide residential and care services to more than 6,000 seniors in 27 locations across the mid-Atlantic region of Pennsylvania, Maryland, Ohio and Delaware.
+        - paragraph [ref=e101]:
+          - link "Mission, Vision & Values" [ref=e103] [cursor=pointer]:
+            - /url: https://www.presbyterianseniorliving.org/mission-vision-values
+      - text:           X     
+    - generic [ref=e109]:
+      - heading "Just starting your journey? Discover resources to help your decision-making." [level=4] [ref=e111]
+      - paragraph [ref=e113]:
+        - link "Waypoints Learning Center" [ref=e115] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/waypoints-learning-center
+    - generic [ref=e121]:
+      - generic [ref=e124]:
+        - heading "Enjoy Life on Your Own Terms" [level=2] [ref=e125]
+        - paragraph [ref=e126]: Whether it’s the freedom that comes from residing in an independent living community or a helping hand to maintain your or a senior loved one’s quality of life, PSL offers both choice and flexibility. We harness the power of teamwork to enrich residents' lives at every stage of the aging journey.
+      - generic [ref=e130]:
+        - generic [ref=e133]:
+          - link [ref=e134] [cursor=pointer]:
+            - /url: https://www.presbyterianseniorliving.org/services/independent-living
+          - generic [ref=e137]:
+            - heading "Independent Living" [level=3] [ref=e139]:
+              - link "Independent Living" [ref=e140] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/services/independent-living
+            - paragraph [ref=e141]:
+              - link "Learn More" [ref=e142] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/services/independent-living
+        - generic [ref=e145]:
+          - link [ref=e146] [cursor=pointer]:
+            - /url: https://www.presbyterianseniorliving.org/personal-care-assisted-living
+          - generic [ref=e149]:
+            - heading "Personal Care and Assisted Living" [level=3] [ref=e151]:
+              - link "Personal Care and Assisted Living" [ref=e152] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/personal-care-assisted-living
+            - paragraph [ref=e153]:
+              - link "Learn More" [ref=e154] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/personal-care-assisted-living
+        - generic [ref=e157]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: https://www.presbyterianseniorliving.org/services/skilled-nursing-and-rehab
+          - generic [ref=e161]:
+            - heading "Skilled Nursing and Rehabilitation" [level=3] [ref=e163]:
+              - link "Skilled Nursing and Rehabilitation" [ref=e164] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/services/skilled-nursing-and-rehab
+            - paragraph [ref=e165]:
+              - link "Learn More" [ref=e166] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/services/skilled-nursing-and-rehab
+        - generic [ref=e169]:
+          - link [ref=e170] [cursor=pointer]:
+            - /url: https://www.presbyterianseniorliving.org/services/memory-care
+          - generic [ref=e173]:
+            - heading "Memory Care" [level=3] [ref=e175]:
+              - link "Memory Care" [ref=e176] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/services/memory-care
+            - paragraph [ref=e177]:
+              - link "Learn More" [ref=e178] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/services/memory-care
+        - generic [ref=e181]:
+          - link [ref=e182] [cursor=pointer]:
+            - /url: https://www.presbyterianseniorliving.org/services/respite-care
+          - generic [ref=e185]:
+            - heading "Respite Care" [level=3] [ref=e187]:
+              - link "Respite Care" [ref=e188] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/services/respite-care
+            - paragraph [ref=e189]:
+              - link "Learn More" [ref=e190] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/services/respite-care
+        - generic [ref=e193]:
+          - link [ref=e194] [cursor=pointer]:
+            - /url: https://www.presbyterianseniorliving.org/services/at-home-services
+          - generic [ref=e197]:
+            - heading "At-Home Services" [level=3] [ref=e199]:
+              - link "At-Home Services" [ref=e200] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/services/at-home-services
+            - paragraph [ref=e201]:
+              - link "Learn More" [ref=e202] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/services/at-home-services
+        - generic [ref=e205]:
+          - link [ref=e206] [cursor=pointer]:
+            - /url: https://www.presbyterianseniorliving.org/services/end-of-life-and-comfort-care
+          - generic [ref=e209]:
+            - heading "End of Life and Comfort Care" [level=3] [ref=e211]:
+              - link "End of Life and Comfort Care" [ref=e212] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/services/end-of-life-and-comfort-care
+            - paragraph [ref=e213]:
+              - link "Learn More" [ref=e214] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/services/end-of-life-and-comfort-care
+      - paragraph [ref=e218]:
+        - link "Find Communities Near You" [ref=e220] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/community-list
+    - generic [ref=e228]:
+      - generic [ref=e231]:
+        - heading "Take the Next Step" [level=2] [ref=e232]
+        - paragraph [ref=e233]:
+          - strong [ref=e234]: Every person's journey unfolds a little differently. When it comes time to make an informed choice about senior living options, here are a few ways you can learn more about how PSL can help you thrive in any stage of life. Learn more about the benefits our communities can offer you.
+      - generic [ref=e237]:
+        - generic [ref=e240]:
+          - img "step-1" [ref=e242]
+          - generic [ref=e246]:
+            - heading "Visit the Waypoints Learning Center" [level=3] [ref=e247]
+            - paragraph [ref=e248]: PSL wants to be a valuable resource for helping you discover your senior living options. Start your journey here.
+            - paragraph [ref=e249]:
+              - text: Visit the
+              - link "Waypoints Learning Center." [ref=e250] [cursor=pointer]:
+                - /url: /waypoints-learning-center
+        - generic [ref=e253]:
+          - img "step-2" [ref=e255]
+          - generic [ref=e259]:
+            - heading "Choose a Community" [level=3] [ref=e260]
+            - paragraph [ref=e261]: With more than 27 locations spanning 4 states, you’ll likely find a PSL community in your desired area.
+            - paragraph [ref=e262]:
+              - text: Visit our
+              - link "community listing" [ref=e263] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/community-list
+              - text: to search for a PSL community near you.
+        - generic [ref=e266]:
+          - img "step-3" [ref=e268]
+          - generic [ref=e272]:
+            - heading "Contact Us" [level=3] [ref=e273]
+            - paragraph [ref=e274]: Our trusted advisors will learn more about your situation so we can help guide you to a choice. We will go at your pace.
+            - paragraph [ref=e275]:
+              - link "Start the conversation" [ref=e276] [cursor=pointer]:
+                - /url: https://www.presbyterianseniorliving.org/contact-us
+      - paragraph [ref=e279]:
+        - link "See Communities" [ref=e281] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/community-list
+    - generic [ref=e288]:
+      - generic [ref=e290]:
+        - heading "What Residents Say About PSL" [level=2] [ref=e291]
+        - paragraph [ref=e292]: There’s no better way to get a true picture of what life is like in a senior living community than directly from residents and their loved ones. Here’s what PSL families have to say about us.
+      - generic [ref=e294]:
+        - generic [ref=e295]:
+          - generic [ref=e297]:
+            - generic [ref=e299]:
+              - heading "“The staff has been working very hard to meet the diverse needs of our community. They go out of their way to be supportive, answer questions, and lead with kindness. ”" [level=3] [ref=e300]
+              - paragraph [ref=e305]: Resident | Kirkland Village
+            - generic [ref=e307]:
+              - img [ref=e308]
+              - heading "“I am totally at home with the community. The residents are wonderful, the staff helpful, and most of all, I am completely comfortable here. I feel this is my home. I feel safe and secure.”" [level=3] [ref=e313]
+              - paragraph [ref=e318]: Resident | Cathedral Village
+            - generic [ref=e320]:
+              - img [ref=e321]
+              - heading "\"Everything has been wonderful, and the staff has been wonderful with my mom.\"" [level=3] [ref=e326]
+              - paragraph [ref=e331]: Adult Child of Resident | Presbyterian Home at Williamsport
+            - generic [ref=e333]:
+              - img [ref=e334]
+              - heading "\"I am very appreciative of the positive, compassionate environment and friendships my mother has made. I feel secure in the fact that staff is keeping her safe, healthy, and well-socialized – which is extremely important to both our qualities of life.\"" [level=3] [ref=e339]
+              - paragraph [ref=e344]: Adult Child of Resident | Westminster Village in Dover
+            - generic [ref=e346]:
+              - img [ref=e347]
+              - heading "“The staff and residents were very welcoming when we moved in. It is a wonderful place to be. So glad that we get to spend the rest of our years here.”" [level=3] [ref=e352]
+              - paragraph [ref=e357]: Resident | Quincy Village
+            - generic [ref=e359]:
+              - img [ref=e360]
+              - heading "“The community is friendly and welcoming and offers an upbeat atmosphere. There is a lot of homegrown entertainment that is positive and inclusive.\"" [level=3] [ref=e365]
+              - paragraph [ref=e370]: Resident | Quincy Village
+          - img [ref=e372]
+          - img [ref=e378]
+        - list [ref=e383]:
+          - listitem [ref=e384] [cursor=pointer]
+          - listitem [ref=e385]
+          - listitem [ref=e386]
+          - listitem [ref=e387]
+          - listitem [ref=e388]
+          - listitem [ref=e389]
+    - generic [ref=e402]:
+      - heading "Why Choose PSL?" [level=2] [ref=e403]
+      - paragraph [ref=e404]: "There are a number of factors that play a role in making an informed decision for yourself or a senior loved one. Here are a few of the many reasons to consider a PSL community:"
+      - generic [ref=e405]:
+        - generic [ref=e407]:
+          - heading "Peace of Mind" [level=3] [ref=e408]
+          - paragraph [ref=e409]: Many of our locations are life-plan communities. That means as residents’ needs change, they can seamlessly transition from one type of care to another. What remains the same, no matter which community or level of care a senior requires, is our dedication to being a positive force in aging.
+        - generic [ref=e411]:
+          - heading "Trusted Partner" [level=3] [ref=e412]
+          - paragraph [ref=e413]: Seniors and their families can feel confident knowing PSL has been enriching the lives of older adults for over 95 years. We are able to attract and retain the highest quality team members because of our strong reputation in the communities we serve. This translates to an organization that respects the individual and seeks to understand different perspectives.
+        - generic [ref=e415]:
+          - heading "Responsible Stewardship" [level=3] [ref=e416]
+          - paragraph [ref=e417]: The knowledge that your senior living community is part of a nonprofit organization that prioritizes resident health and happiness over financial gain is another advantage. Families can rest assured that PSL is a good steward of resources, making decisions based on what is best for residents and team members, not stockholders.
+      - paragraph [ref=e418]:
+        - link "See Communities" [ref=e420] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/community-list
+    - generic [ref=e425]:
+      - generic [ref=e428]:
+        - heading "See Yourself at PSL" [level=2] [ref=e429]
+        - paragraph [ref=e430]: Wondering what daily life really looks like at PSL? This is it!
+      - generic [ref=e434]:
+        - link [ref=e436] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/hubfs/Community_Site_Assets/CCRCs/Ware_Presbyterian_Village/Floor_Plans_and_Photos/Photos/FloorPlansandPhotos_PhotoGallery31.jpg
+        - link [ref=e438] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/hubfs/Community_Site_Assets/CCRCs/Ware_Presbyterian_Village/Floor_Plans_and_Photos/Photos/FloorPlansandPhotos_PhotoGallery11_WPV.jpg
+        - link [ref=e440] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/hubfs/Community_Site_Assets/CCRCs/Green_Ridge_Village/Floor_Plans_and_Photos/Photos/FloorPlansandPhotos_PhotoGallery25_GRV.jpg
+        - link [ref=e442] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/hubfs/Eblast_Community_Site_Assets/Ware_Presbyerian_Village/Walking_With_Grandkids_WARE.jpg
+        - link [ref=e444] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/hubfs/PSL_Image_Owned_Assets/Lifelong_Fitness_1_CathedralVillage_145.jpg
+        - link [ref=e446] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/hubfs/Community_Site_Assets/CCRCs/Ware_Presbyterian_Village/Floor_Plans_and_Photos/Photos/FloorPlansandPhotos_PhotoGallery24_WPV.jpg
+    - generic [ref=e452]:
+      - generic [ref=e455]:
+        - heading "Upcoming Events" [level=2] [ref=e456]
+        - paragraph [ref=e457]: With life enrichment activities to meet every interest, you can be as busy as you choose to be at Presbyterian Senior Living communities. Here are a few upcoming events designed to ensure the body, mind, and spirit thrive.
+      - paragraph [ref=e460]:
+        - link "See All Events" [ref=e462] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/events
+    - generic [ref=e474]:
+      - heading "Embrace a New Chapter in Life" [level=2] [ref=e475]
+      - paragraph [ref=e476]: Like what you’ve learned about Presbyterian Senior Living so far? Contact us today to learn more or talk with an expert about your options. You’ll discover what’s possible when an organization collectively embraces aspirational aging.
+      - paragraph [ref=e477]:
+        - link "Connect With Us" [ref=e479] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/contact-us
+        - link "Community Finder" [ref=e481] [cursor=pointer]:
+          - /url: https://www.presbyterianseniorliving.org/community-list
+    - generic [ref=e486]:
+      - generic [ref=e489]:
+        - heading "Latest From Our Learning Center" [level=2] [ref=e490]
+        - paragraph [ref=e491]: PSL seeks to be an open educational resource. From navigating senior living and care options and advice for family caregivers to the latest news on healthy aging, you’ll find a rich variety of information on the PSL blog.
+        - paragraph [ref=e492]: Whether you choose a PSL community or another option, we're here to help.
+      - generic [ref=e495]:
+        - generic [ref=e497]:
+          - link [ref=e498] [cursor=pointer]:
+            - /url: https://www.presbyterianseniorliving.org/blog/where-to-live-in-retirement
+          - 'heading "Age in Place or Move: Deciding Where to Live in Retirement" [level=4] [ref=e501]':
+            - 'link "Age in Place or Move: Deciding Where to Live in Retirement" [ref=e502] [cursor=pointer]':
+              - /url: https://www.presbyterianseniorliving.org/blog/where-to-live-in-retirement
+          - paragraph [ref=e504]:
+            - link "Read More" [ref=e505] [cursor=pointer]:
+              - /url: https://www.presbyterianseniorliving.org/blog/where-to-live-in-retirement
+        - generic [ref=e507]:
+          - link [ref=e508] [cursor=pointer]:
+            - /url: https://www.presbyterianseniorliving.org/blog/wellness-benefits-of-life-plan-communities
+          - 'heading "Aging Well: Discover the Wellness Benefits of a Life Plan Community" [level=4] [ref=e511]':
+            - 'link "Aging Well: Discover the Wellness Benefits of a Life Plan Community" [ref=e512] [cursor=pointer]':
+              - /url: https://www.presbyterianseniorliving.org/blog/wellness-benefits-of-life-plan-communities
+          - paragraph [ref=e514]:
+            - link "Read More" [ref=e515] [cursor=pointer]:
+              - /url: https://www.presbyterianseniorliving.org/blog/wellness-benefits-of-life-plan-communities
+        - generic [ref=e517]:
+          - link [ref=e518] [cursor=pointer]:
+            - /url: https://www.presbyterianseniorliving.org/blog/ommunicsupport-multilingual-team-members
+          - heading "PSL Enhances Communication, Training to Support Multilingual Team Members" [level=4] [ref=e521]:
+            - link "PSL Enhances Communication, Training to Support Multilingual Team Members" [ref=e522] [cursor=pointer]:
+              - /url: https://www.presbyterianseniorliving.org/blog/ommunicsupport-multilingual-team-members
+          - paragraph [ref=e524]:
+            - link "Read More" [ref=e525] [cursor=pointer]:
+              - /url: https://www.presbyterianseniorliving.org/blog/ommunicsupport-multilingual-team-members
+  - contentinfo [ref=e530]:
+    - generic [ref=e532]:
+      - generic [ref=e533]:
+        - link "":
+          - /url: //www.linkedin.com/company/presbyterian-senior-living
+          - generic [ref=e534] [cursor=pointer]: 
+        - link "":
+          - /url: //www.facebook.com/presbyterianseniorliving
+          - generic [ref=e535] [cursor=pointer]: 
+      - generic [ref=e536]:
+        - generic [ref=e537]:
+          - heading "Services" [level=5] [ref=e538]
+          - navigation "Navigation Menu" [ref=e540]:
+            - menu [ref=e541]:
+              - menuitem "Independent Living" [ref=e542] [cursor=pointer]
+              - menuitem "Personal Care / Assisted Living" [ref=e543] [cursor=pointer]
+              - menuitem "Transitional Care" [ref=e544] [cursor=pointer]
+              - menuitem "Skilled Nursing" [ref=e545] [cursor=pointer]
+              - menuitem "Memory Care" [ref=e546] [cursor=pointer]
+              - menuitem "Respite Care" [ref=e547] [cursor=pointer]
+              - menuitem "At-Home Services" [ref=e548] [cursor=pointer]
+              - menuitem "End-of-Life and Comfort Care" [ref=e549] [cursor=pointer]
+        - generic [ref=e550]:
+          - heading "Communities" [level=5] [ref=e551]
+          - navigation "Navigation Menu" [ref=e553]:
+            - menu [ref=e554]:
+              - menuitem "Pennsylvania Communities" [ref=e555] [cursor=pointer]
+              - menuitem "Delaware Communities" [ref=e556] [cursor=pointer]
+              - menuitem "Maryland Communities" [ref=e557] [cursor=pointer]
+              - menuitem "Ohio Communities" [ref=e558] [cursor=pointer]
+        - generic [ref=e559]:
+          - heading "About Us" [level=5] [ref=e560]
+          - navigation "Navigation Menu" [ref=e562]:
+            - menu [ref=e563]:
+              - menuitem "Mission, Vision & Values" [ref=e564] [cursor=pointer]
+              - menuitem "Employment" [ref=e565] [cursor=pointer]
+              - menuitem "Thrive Wellness" [ref=e566] [cursor=pointer]
+              - menuitem "Quality Measures" [ref=e567] [cursor=pointer]
+              - menuitem "Leadership Team" [ref=e568] [cursor=pointer]
+              - menuitem "Media Inquiries" [ref=e569] [cursor=pointer]
+              - menuitem "Information & Financials" [ref=e570] [cursor=pointer]
+              - menuitem "Events" [ref=e571] [cursor=pointer]
+              - menuitem "Covid-19 Information" [ref=e572] [cursor=pointer]
+        - generic [ref=e573]:
+          - heading "Support Our Mission" [level=5] [ref=e574]
+          - navigation "Navigation Menu" [ref=e576]:
+            - menu [ref=e577]:
+              - menuitem "Donate Online Now" [ref=e578] [cursor=pointer]
+              - menuitem "Opportunities to Give" [ref=e579] [cursor=pointer]
+              - menuitem "Planned & Other Giving Options" [ref=e580] [cursor=pointer]
+      - link "Contact Us" [ref=e582] [cursor=pointer]:
+        - /url: //info.presbyterianseniorliving.org/contact-us
+      - generic [ref=e583]:
+        - paragraph [ref=e584]: "Call: 717.502.8840"
+        - paragraph [ref=e585]:
+          - link "One Trinity Drive East, Suite 201 Dillsburg, PA 17019" [ref=e586] [cursor=pointer]:
+            - /url: https://www.google.com/maps/place/1+Trinity+Dr+E+%23201,+Dillsburg,+PA+17019/@40.1352011,-77.019049,17z/data=!3m1!4b1!4m5!3m4!1s0x89c8e5fa062a3a07:0xc0d32c1b16332bcb!8m2!3d40.135197!4d-77.016855
+      - generic [ref=e587]:
+        - img "Logos for Equal Housing Opportunity, LeadingAge, Sage Care Platinum Membmer, Aspire to Excellence, and Accessibility Standards"
+    - navigation "Navigation Menu" [ref=e594]:
+      - menu [ref=e595]:
+        - menuitem "Notice of Privacy Practices" [ref=e596] [cursor=pointer]
+        - menuitem "Online Privacy Policy" [ref=e597] [cursor=pointer]
+        - menuitem "Terms and Conditions" [ref=e598] [cursor=pointer]
+        - menuitem "Board Login" [ref=e599] [cursor=pointer]
+        - menuitem "Contact the Webmaster" [ref=e600] [cursor=pointer]
+  - generic:
+    - complementary:
+      - dialog "Virtual Assistant" [ref=e601] [cursor=pointer]:
+        - generic [ref=e602]:
+          - button "Community Assistant" [ref=e603]
+          - button "Close chat" [ref=e605]:
+            - img [ref=e606]

@@ -1,0 +1,212 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#fl-main-content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - paragraph [ref=e14]:
+        - text: "NEWS: Medisafe's PATHWAYS, Eisai and Biogen Recognized for Innovation in 2025 MedTech Breakthrough Award"
+        - link "See more" [ref=e15] [cursor=pointer]:
+          - /url: https://www.globenewswire.com/news-release/2025/05/08/3077392/0/en/Medisafe-PATHWAYS-Eisai-and-Biogen-Recognized-for-Alzheimer-s-Disease-Innovation-in-2025-MedTech-Breakthrough-Awards-Program.html
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - figure [ref=e24]:
+            - link "Medisafe" [ref=e26] [cursor=pointer]:
+              - /url: /
+              - img "Medisafe"
+          - generic [ref=e27]:
+            - generic: 
+          - generic [ref=e29]:
+            - text:  
+            - button [ref=e33] [cursor=pointer]:
+              - generic [ref=e34]: 
+            - img [ref=e38]
+        - generic [ref=e40]:
+          - generic:
+            - generic:
+              - generic:
+                - navigation:
+                  - generic:
+                    - list:
+                      - listitem
+                  - text: 
+    - text:            
+    - main [ref=e41]:
+      - article [ref=e45]:
+        - generic [ref=e47]:
+          - paragraph [ref=e65]
+          - generic [ref=e69]:
+            - generic [ref=e71]:
+              - generic [ref=e72]:
+                - paragraph [ref=e73]:
+                  - img "Innovation" [ref=e74]
+                - heading "Behavioral AI" [level=3] [ref=e75]
+              - paragraph [ref=e77]: Medisafe revolutionizes medication engagement through advanced technology to meet patients' needs.
+            - generic [ref=e79]:
+              - generic [ref=e80]:
+                - paragraph [ref=e81]:
+                  - img "Proven" [ref=e82]
+                - heading "Validated" [level=3] [ref=e83]
+              - paragraph [ref=e85]: Medisafe delivers proven guidance to increase adherence and extend persistence.
+            - generic [ref=e87]:
+              - generic [ref=e88]:
+                - paragraph [ref=e89]:
+                  - img "Personalized" [ref=e90]
+                - heading "Personalized" [level=3] [ref=e91]
+              - paragraph [ref=e93]: Medisafe’s patient-centric approach is at the center of everything we do.
+          - region "Content Slider" [ref=e100]:
+            - generic [ref=e102]:
+              - generic [ref=e105]:
+                - generic [ref=e107]:
+                  - 'heading "AWARD-WINNER: Pathways for HCPs, Clinics, Infusion Centers" [level=2] [ref=e108]'
+                  - generic [ref=e109]:
+                    - paragraph [ref=e110]: Discover Pathways – the complimentary web-based tool that offers an organized and easy-to-understand approach to managing patient care. It is designed for the FDA-approved monoclonal antibodies indicated for Alzheimer’s disease.of personalized engagement at the precise moments that matter.
+                    - paragraph [ref=e111]:
+                      - link "SEE MORE" [ref=e112] [cursor=pointer]:
+                        - /url: https://get.medisafe.com/medisafe-pathways/
+                      - link "SEE THE AWARD" [ref=e113] [cursor=pointer]:
+                        - /url: https://www.medisafe.com/medisafe-pathways-eisai-and-biogen-recognized-for-alzheimers-disease-innovation-in-2025-medtech-breakthrough-awards-program/
+                - img "pathways" [ref=e118]
+              - generic "content slider buttons":
+                - button "previous" [ref=e119] [cursor=pointer]:
+                  - generic [ref=e121]: 
+                - button "next" [ref=e122] [cursor=pointer]:
+                  - generic [ref=e124]: 
+          - generic [ref=e128]:
+            - generic [ref=e130]:
+              - heading "New! Medisafe VIA" [level=2] [ref=e133]:
+                - link "New! Medisafe VIA" [ref=e134] [cursor=pointer]:
+                  - /url: https://medisafevia.com
+              - paragraph [ref=e138]:
+                - text: Discover VIA
+                - strong [ref=e139]: –
+                - text: Medisafe's
+                - link "breakthrough Voice Intelligent Agent" [ref=e140] [cursor=pointer]:
+                  - /url: https://medisafevia.com
+                  - text: breakthrough
+                  - emphasis [ref=e141]: Voice Intelligent Agent
+                - text: transforming how specialty brands activate, engage, and retain patients. Try it now - get a call for yourself and see.
+              - button "See More and Get a Call from VIA" [ref=e145] [cursor=pointer]:
+                - generic [ref=e146]: 
+                - text: See More and Get a Call from VIA
+            - figure [ref=e151]:
+              - img "Medisafe VIA" [ref=e153]
+          - region "Content Slider" [ref=e160]:
+            - generic [ref=e162]:
+              - generic [ref=e167]:
+                - 'heading "Retention: Dynamic Personalization" [level=2] [ref=e168]'
+                - generic [ref=e169]:
+                  - paragraph [ref=e170]: See the power of personalized engagement at the precise moments that matter. Our digital solutions deliver personalized and immediate support directly into patients' hands, breaking through barriers with complete treatment journey design, behavior-based interventions, simplified patient enrollment and more.
+                  - paragraph [ref=e171]:
+                    - link "SEE MORE" [ref=e172] [cursor=pointer]:
+                      - /url: /adherence-and-persistence
+              - generic "content slider buttons":
+                - button "previous" [ref=e177] [cursor=pointer]:
+                  - generic [ref=e179]: 
+                - button "next" [ref=e180] [cursor=pointer]:
+                  - generic [ref=e182]: 
+          - generic [ref=e186]:
+            - generic [ref=e188]:
+              - heading "PDURS-Ready in 2025" [level=2] [ref=e189]
+              - paragraph [ref=e191]:
+                - text: Medisafe is ready - catch up on the upcoming FDA guidelines for
+                - link "Prescription Drug Use-Related Software" [ref=e192] [cursor=pointer]:
+                  - /url: http://www.pdurs.com
+                - text: solutions for pharma and life science companies in 2025.
+              - button "Learn More on PDURS" [ref=e196] [cursor=pointer]
+            - figure [ref=e199]:
+              - img "PFURS" [ref=e201]
+          - generic [ref=e207]:
+            - 'heading "Insights: When Patients are Most Likely to Skip Doses" [level=2] [ref=e208]'
+            - paragraph [ref=e210]:
+              - text: Fridays and Saturdays are the toughest adherence days of the week reported by people who use Medisafe. Medisafe's
+              - link "Just-In-Time-Interventions technology" [ref=e211] [cursor=pointer]:
+                - /url: https://medisafe.com/jiti/
+              - text: enables targeted, personalized interventions to improve adherence and persistence.
+            - button "Visit Our Data Insights" [ref=e215] [cursor=pointer]
+          - region "Content Slider" [ref=e225]:
+            - generic [ref=e227]:
+              - generic [ref=e232]:
+                - heading "Jessica Had a Seizure" [level=2] [ref=e233]
+                - generic [ref=e234]:
+                  - paragraph [ref=e235]: "\"I had a seizure and woke up with aphasia, which means I couldn't talk...I was put on 8 different medications and couldn’t keep track of all that. I downloaded a few applications and the one that worked best was Medisafe. I’m not relying on anybody to tell me when to take my meds anymore.\""
+                  - paragraph [ref=e236]:
+                    - strong [ref=e237]: Jessica
+                    - text: "|"
+                    - emphasis [ref=e238]: Medisafer since 2015
+              - generic "content slider buttons":
+                - button "previous" [ref=e241] [cursor=pointer]:
+                  - generic [ref=e243]: 
+                - button "next" [ref=e244] [cursor=pointer]:
+                  - generic [ref=e246]: 
+          - generic [ref=e249]:
+            - heading "The Latest From Medisafe" [level=2] [ref=e256]
+            - region "Posts Carousel" [ref=e261]:
+              - generic [ref=e263]:
+                - generic "carousel buttons":
+                  - button "previous" [ref=e265] [cursor=pointer]:
+                    - generic [ref=e267]: 
+                  - button "next" [ref=e268] [cursor=pointer]:
+                    - generic [ref=e270]: 
+            - paragraph [ref=e275]:
+              - link "VIEW ALL" [ref=e276] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=e283]:
+            - generic [ref=e285]:
+              - heading "Patient Journey Management" [level=2] [ref=e286]
+              - paragraph [ref=e288]: Dosage scheduling? Time-of-day scheduling? Adjustments? Reasons for skipping?
+            - button "Contact Us" [ref=e294] [cursor=pointer]
+    - contentinfo [ref=e295]:
+      - generic [ref=e299]:
+        - figure [ref=e304]:
+          - link "Medisafe Logo" [ref=e306] [cursor=pointer]:
+            - /url: /
+            - img "Medisafe Logo" [ref=e307]
+        - generic [ref=e309]:
+          - heading "Company" [level=5] [ref=e312]
+          - navigation "Menu" [ref=e316]:
+            - list [ref=e317]:
+              - listitem [ref=e318]:
+                - menuitem "About Us" [ref=e319] [cursor=pointer]
+              - listitem [ref=e320]:
+                - menuitem "Careers" [ref=e321] [cursor=pointer]
+        - generic [ref=e323]:
+          - heading "Contact Us" [level=5] [ref=e326]
+          - navigation "Menu" [ref=e330]:
+            - list [ref=e331]:
+              - listitem [ref=e332]:
+                - menuitem "Schedule a Demo" [ref=e333] [cursor=pointer]
+              - listitem [ref=e334]:
+                - menuitem "Partnership Opportunities" [ref=e335] [cursor=pointer]
+              - listitem [ref=e336]:
+                - menuitem "Media Inquiry" [ref=e337] [cursor=pointer]
+              - listitem [ref=e338]:
+                - menuitem "Support Question" [ref=e339] [cursor=pointer]
+              - listitem [ref=e340]:
+                - menuitem "PostScripts Podcast" [ref=e341] [cursor=pointer]
+        - generic [ref=e343]:
+          - heading "Download Medisafe" [level=5] [ref=e346]
+          - paragraph [ref=e350]:
+            - link "Get it on Google Play" [ref=e351] [cursor=pointer]:
+              - /url: https://medisafe.app.link/oZtjM7miZlb
+              - img "Get it on Google Play" [ref=e352]
+            - link "Download on the App Store" [ref=e353] [cursor=pointer]:
+              - /url: https://medisafe.app.link/epAgvEjiZlb
+              - img "Download on the App Store" [ref=e354]
+        - generic [ref=e359]:
+          - paragraph [ref=e360]:
+            - generic [ref=e361]: Boston, MA
+          - paragraph [ref=e362]:
+            - link "(888) 289-5236" [ref=e364] [cursor=pointer]:
+              - /url: tel:8882895236
+            - link "[email protected]" [ref=e365] [cursor=pointer]:
+              - /url: /cdn-cgi/l/email-protection#3b484e4b4b54494f7b565e5f52485a5d5e15585456
+      - paragraph [ref=e375]:
+        - generic [ref=e376]: © Medisafe. All Rights Reserved
+        - link "Privacy Policy" [ref=e377] [cursor=pointer]:
+          - /url: /privacy-policy
+        - text: "|"
+        - link "Terms and Conditions" [ref=e378] [cursor=pointer]:
+          - /url: /terms-and-conditions
+        - text: "|"
+        - link "Consumer Health Data Policy" [ref=e379] [cursor=pointer]:
+          - /url: https://www.medisafe.com/consumer-health-data-privacy-policy/

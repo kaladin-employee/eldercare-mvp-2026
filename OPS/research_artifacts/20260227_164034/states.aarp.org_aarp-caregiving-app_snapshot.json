@@ -1,0 +1,324 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#aarp-u-end-of-header"
+  - generic [ref=e7]:
+    - generic [ref=e20]:
+      - generic [ref=e22]:
+        - navigation [ref=e24]:
+          - button "Press Space or Enter to open the AARP Menu" [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - link "AARP Logo Header White 139x36" [ref=e32] [cursor=pointer]:
+            - /url: https://www.aarp.org?intcmp=GLOBAL-HDR-BTN-CLK-LOGO-UXDIA
+            - img "AARP Logo Header White 139x36" [ref=e33]
+          - generic:
+            - list:
+              - listitem
+              - listitem
+              - listitem
+              - listitem
+          - generic [ref=e34]:
+            - generic:
+              - generic:
+                - paragraph:
+                  - link "Help":
+                    - /url: https://help.aarp.org/s/?intcmp=HelpDefaultTest12
+          - generic: "|"
+          - button "Open Search" [ref=e37] [cursor=pointer]
+        - generic [ref=e43]: Content starts here
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic: Help
+    - generic [ref=e50]:
+      - heading "AARP in Your State" [level=1] [ref=e53]
+      - paragraph [ref=e56]: Find AARP offices in your state with news, events, programs and more.
+    - separator [ref=e58]
+    - generic [ref=e63]:
+      - generic [ref=e65]:
+        - heading "Alabama" [level=4] [ref=e68]:
+          - link "Alabama" [ref=e69] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/alabama/
+        - heading "Alaska" [level=4] [ref=e72]:
+          - link "Alaska" [ref=e73] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/alaska/
+        - heading "Arizona" [level=4] [ref=e76]:
+          - link "Arizona" [ref=e77] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/arizona/
+        - heading "Arkansas" [level=4] [ref=e80]:
+          - link "Arkansas" [ref=e81] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/arkansas/
+        - heading "California" [level=4] [ref=e84]:
+          - link "California" [ref=e85] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/california/
+      - generic [ref=e87]:
+        - heading "Colorado" [level=4] [ref=e90]:
+          - link "Colorado" [ref=e91] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/colorado/
+        - heading "Connecticut" [level=4] [ref=e94]:
+          - link "Connecticut" [ref=e95] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/connecticut/
+        - heading "Delaware" [level=4] [ref=e98]:
+          - link "Delaware" [ref=e99] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/delaware/
+        - heading "Florida" [level=4] [ref=e102]:
+          - link "Florida" [ref=e103] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/florida/
+        - heading "Georgia" [level=4] [ref=e106]:
+          - link "Georgia" [ref=e107] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/georgia/
+      - generic [ref=e109]:
+        - heading "Hawaii" [level=4] [ref=e112]:
+          - link "Hawaii" [ref=e113] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/hawaii/
+        - heading "Idaho" [level=4] [ref=e116]:
+          - link "Idaho" [ref=e117] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/idaho/
+        - heading "Illinois" [level=4] [ref=e120]:
+          - link "Illinois" [ref=e121] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/illinois/
+        - heading "Indiana" [level=4] [ref=e124]:
+          - link "Indiana" [ref=e125] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/indiana/
+        - heading "Iowa" [level=4] [ref=e128]:
+          - link "Iowa" [ref=e129] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/iowa/
+      - generic [ref=e131]:
+        - heading "Kansas" [level=4] [ref=e134]:
+          - link "Kansas" [ref=e135] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/kansas/
+        - heading "Kentucky" [level=4] [ref=e138]:
+          - link "Kentucky" [ref=e139] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/kentucky/
+        - heading "Louisiana" [level=4] [ref=e142]:
+          - link "Louisiana" [ref=e143] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/louisiana/
+        - heading "Maine" [level=4] [ref=e146]:
+          - link "Maine" [ref=e147] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/maine/
+        - heading "Maryland" [level=4] [ref=e150]:
+          - link "Maryland" [ref=e151] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/maryland/
+    - separator [ref=e155]
+    - generic [ref=e160]:
+      - generic [ref=e162]:
+        - heading "Massachusetts" [level=4] [ref=e165]:
+          - link "Massachusetts" [ref=e166] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/massachusetts/
+        - heading "Michigan" [level=4] [ref=e169]:
+          - link "Michigan" [ref=e170] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/michigan/
+        - heading "Minnesota" [level=4] [ref=e173]:
+          - link "Minnesota" [ref=e174] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/minnesota/
+        - heading "Mississippi" [level=4] [ref=e177]:
+          - link "Mississippi" [ref=e178] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/mississippi/
+        - heading "Missouri" [level=4] [ref=e181]:
+          - link "Missouri" [ref=e182] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/missouri/
+      - generic [ref=e184]:
+        - heading "Montana" [level=4] [ref=e187]:
+          - link "Montana" [ref=e188] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/montana/
+        - heading "Nebraska" [level=4] [ref=e191]:
+          - link "Nebraska" [ref=e192] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/nebraska/
+        - heading "Nevada" [level=4] [ref=e195]:
+          - link "Nevada" [ref=e196] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/nevada/
+        - heading "New Hampshire" [level=4] [ref=e199]:
+          - link "New Hampshire" [ref=e200] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/new-hampshire/
+        - heading "New Jersey" [level=4] [ref=e203]:
+          - link "New Jersey" [ref=e204] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/new-jersey/
+      - generic [ref=e206]:
+        - heading "New Mexico" [level=4] [ref=e209]:
+          - link "New Mexico" [ref=e210] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/new-mexico/
+        - heading "New York" [level=4] [ref=e213]:
+          - link "New York" [ref=e214] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/new-york/
+        - heading "North Carolina" [level=4] [ref=e217]:
+          - link "North Carolina" [ref=e218] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/north-carolina/
+        - heading "North Dakota" [level=4] [ref=e221]:
+          - link "North Dakota" [ref=e222] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/north-dakota/
+        - heading "Ohio" [level=4] [ref=e225]:
+          - link "Ohio" [ref=e226] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/ohio/
+      - generic [ref=e228]:
+        - heading "Oklahoma" [level=4] [ref=e231]:
+          - link "Oklahoma" [ref=e232] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/oklahoma/
+        - heading "Oregon" [level=4] [ref=e235]:
+          - link "Oregon" [ref=e236] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/oregon/
+        - heading "Pennsylvania" [level=4] [ref=e239]:
+          - link "Pennsylvania" [ref=e240] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/pennsylvania/
+        - heading "Puerto Rico" [level=4] [ref=e243]:
+          - link "Puerto Rico" [ref=e244] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/puerto-rico/
+        - heading "Rhode Island" [level=4] [ref=e247]:
+          - link "Rhode Island" [ref=e248] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/rhode-island/
+    - separator [ref=e252]
+    - generic [ref=e257]:
+      - generic [ref=e259]:
+        - heading "South Carolina" [level=4] [ref=e262]:
+          - link "South Carolina" [ref=e263] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/south-carolina/
+        - heading "South Dakota" [level=4] [ref=e266]:
+          - link "South Dakota" [ref=e267] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/south-dakota/
+        - heading "Tennessee" [level=4] [ref=e270]:
+          - link "Tennessee" [ref=e271] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/tennessee/
+        - heading "Texas" [level=4] [ref=e274]:
+          - link "Texas" [ref=e275] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/texas/
+        - heading "Utah" [level=4] [ref=e278]:
+          - link "Utah" [ref=e279] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/utah/
+      - generic [ref=e281]:
+        - heading "Vermont" [level=4] [ref=e284]:
+          - link "Vermont" [ref=e285] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/vermont/
+        - heading "Virgin Islands" [level=4] [ref=e288]:
+          - link "Virgin Islands" [ref=e289] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/virgin-islands/
+        - heading "Virginia" [level=4] [ref=e292]:
+          - link "Virginia" [ref=e293] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/virginia/
+        - heading "Washington" [level=4] [ref=e296]:
+          - link "Washington" [ref=e297] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/washington/
+        - heading "Washington DC" [level=4] [ref=e300]:
+          - link "Washington DC" [ref=e301] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/washington-dc/
+      - generic [ref=e303]:
+        - heading "West Virginia" [level=4] [ref=e306]:
+          - link "West Virginia" [ref=e307] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/west-virginia/
+        - heading "Wisconsin" [level=4] [ref=e310]:
+          - link "Wisconsin" [ref=e311] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/wisconsin/
+        - heading "Wyoming" [level=4] [ref=e314]:
+          - link "Wyoming" [ref=e315] [cursor=pointer]:
+            - /url: https://www.aarp.org/states/wyoming/
+    - contentinfo [ref=e324]:
+      - generic [ref=e325]:
+        - generic [ref=e326]:
+          - generic:
+            - generic [ref=e327]:
+              - link "AARP Logo" [ref=e329] [cursor=pointer]:
+                - /url: /
+                - img "AARP Logo" [ref=e331]
+              - paragraph [ref=e334]: AARP is a nonprofit, nonpartisan organization that empowers people to choose how they live as they age.
+            - navigation "Footer" [ref=e335]:
+              - generic [ref=e337]:
+                - link "About Us" [ref=e340] [cursor=pointer]:
+                  - /url: https://www.aarp.org/about-aarp/?intcmp=GLOBAL-FTR-LNK-CLK-ABOUT_US-UXDIA
+                  - paragraph [ref=e341]: About Us
+                - link "Donate" [ref=e344] [cursor=pointer]:
+                  - /url: https://action.aarp.org/ADV_Donation_Form?intcmp=GLOBAL-FTR-LNK-CLK-DONATE-UXDIA
+                - link "Volunteer" [ref=e347] [cursor=pointer]:
+                  - /url: https://www.aarp.org/volunteer/?intcmp=GLOBAL-FTR-LNK-CLK-VOLUNTEER-UXDIA
+                - link "Membership" [ref=e350] [cursor=pointer]:
+                  - /url: /membership/?intcmp=FTR-LINKS-MEM-MB-UXDIA
+                  - paragraph [ref=e351]: Membership
+                - link "AARP Rewards" [ref=e354] [cursor=pointer]:
+                  - /url: https://www.aarp.org/rewards/?intcmp=GLOBAL-FTR-LNK-CLK-REWARDS-UXDIA
+              - generic [ref=e356]:
+                - link "Advertise with AARP" [ref=e359] [cursor=pointer]:
+                  - /url: https://advertise.aarp.org/?intcmp=GLOBAL-FTR-LNK-CLK-ADVERTISE_WITH_AARP-UXDIA
+                - link "Contact Us" [ref=e362] [cursor=pointer]:
+                  - /url: https://help.aarp.org/s/article/contact-aarp?intcmp=GLOBAL-FTR-LNK-CLK-CONTACT-UXDIA
+                - link "Careers at AARP" [ref=e365] [cursor=pointer]:
+                  - /url: https://careers.aarp.org/careers-home/?intcmp=GLOBAL-FTR-LNK-CLK-CAREERS-UXDIA
+                - link "AARP Services Inc." [ref=e368] [cursor=pointer]:
+                  - /url: https://www.aarp.org/about-aarp/aarp-services/?intcmp=GLOBAL-FTR-LNK-CLK-AARP_SERVICES_INC-UXDIA
+                - link "Policy & Research" [ref=e371] [cursor=pointer]:
+                  - /url: https://www.aarp.org/pri/?intcmp=GLOBAL-FTR-LNK-CLK-PRI-UXDIA
+                  - paragraph [ref=e372]: Policy & Research
+              - generic [ref=e374]:
+                - link "Newsletters" [ref=e377] [cursor=pointer]:
+                  - /url: https://www.aarp.org/newsletters/?intcmp=GLOBAL-FTR-LNK-CLK-NEWSLETTERS-UXDIA
+                  - paragraph [ref=e378]: Newsletters
+                - link "AARP In Your City" [ref=e381] [cursor=pointer]:
+                  - /url: https://www.aarp.org/states/local/?intcmp=GLOBAL-FTR-LNK-CLK-LOCAL-UXDIA
+                  - paragraph [ref=e382]: AARP In Your City
+                - link "AARP En Español" [ref=e385] [cursor=pointer]:
+                  - /url: https://www.aarp.org/espanol/?intcmp=GLOBAL-FTR-LNK-CLK-ESPANOL-UXDIA
+                  - paragraph [ref=e386]: AARP En Español
+                - link "AARP樂齡會" [ref=e389] [cursor=pointer]:
+                  - /url: https://chinese.aarp.org/?intcmp=GLOBAL-FTR-LNK-CLK-CHINESE-UXDIA
+                  - paragraph [ref=e390]: AARP樂齡會
+                - link "Press Center" [ref=e393] [cursor=pointer]:
+                  - /url: https://press.aarp.org?intcmp=GLOBAL-FTR-LNK-CLK-PRESS_CENTER-UXDIA
+              - generic [ref=e395]:
+                - link "AARP Foundation" [ref=e398] [cursor=pointer]:
+                  - /url: https://www.aarp.org/aarp-foundation/?intcmp=GLOBAL-FTR-LNK-CLK-AARP_FOUNDATION-UXDIA
+                  - paragraph [ref=e399]: AARP Foundation
+                - link "Wish of a Lifetime" [ref=e402] [cursor=pointer]:
+                  - /url: https://wishofalifetime.org/?intcmp=GLOBAL-FTR-LNK-CLK-WISHLIFTM-UXDIA
+                  - paragraph [ref=e403]: Wish of a Lifetime
+                - link "Senior Planet | OATS" [ref=e406] [cursor=pointer]:
+                  - /url: https://seniorplanet.org/?intcmp=GLOBAL-FTR-LNK-CLK-SENIORPLANETOATS-UXDIA
+                  - paragraph [ref=e407]: Senior Planet | OATS
+                - link "AgeTech Collaborative™" [ref=e410] [cursor=pointer]:
+                  - /url: https://agetechcollaborative.org/?intcmp=GLOBAL-FTR-LNK-CLK-AGETECH-UXDIA
+                  - paragraph [ref=e411]: AgeTech Collaborative™
+                - link "Legal Counsel for the Elderly" [ref=e414] [cursor=pointer]:
+                  - /url: /legal-counsel-for-elderly/?intcmp=GLOBAL-FTR-LNK-CLK-LEGAL_COUNSEL-UXDIA
+                  - paragraph [ref=e415]: Legal Counsel for the Elderly
+        - generic [ref=e417]:
+          - list [ref=e421]:
+            - listitem [ref=e422]:
+              - link "Sitemap" [ref=e423] [cursor=pointer]:
+                - /url: https://www.aarp.org/sitemap/?intcmp=GLOBAL-FTR-LNK-CLK-SITEMAP-UXDIA
+            - listitem [ref=e424]:
+              - link "AARP Privacy Hub" [ref=e425] [cursor=pointer]:
+                - /url: /privacy/?intcmp=GLOBAL-FTR-LNK-CLK-PRIVACYPOLICY-UXDIA
+            - listitem [ref=e426]:
+              - link "Terms of Service" [ref=e427] [cursor=pointer]:
+                - /url: https://www.aarp.org/about-aarp/terms-of-service/?intcmp=GLOBAL-FTR-LNK-CLK-TERMSOFSERVICE-UXDIA
+            - listitem [ref=e428]:
+              - link "Accessibility Statement" [ref=e429] [cursor=pointer]:
+                - /url: /about-aarp/accessibility-statement/?intcmp=GLOBAL-FTR-LNK-CLK-ACCESSIBILITY-UXDIA
+            - listitem [ref=e430]:
+              - link "AARP Rewards Terms & Conditions" [ref=e431] [cursor=pointer]:
+                - /url: https://www.aarp.org/about-aarp/rewards-terms-and-conditions/?intcmp=GLOBAL-FTR-LNK-CLK-REWARDSTERMSCOND-UXDIA
+            - listitem [ref=e432]:
+              - link "Copyright Information" [ref=e433] [cursor=pointer]:
+                - /url: https://www.aarp.org/about-aarp/aarp-website-copyright-information/?intcmp=GLOBAL-FTR-LNK-CLK-COPYRIGHT-UXDIA
+            - listitem [ref=e434]:
+              - link "Vulnerability Disclosure Program" [ref=e435] [cursor=pointer]:
+                - /url: /about-aarp/vulnerability-disclosure-program/?intcmp=GLOBAL-FTR-LNK-CLK-ACCESSIBILITY-UXDIA
+            - listitem [ref=e436]:
+              - link "Ad Choices" [ref=e437] [cursor=pointer]:
+                - /url: http://optout.aboutads.info/
+            - listitem [ref=e438]:
+              - link "Your Privacy Choices" [ref=e439] [cursor=pointer]:
+                - /url: https://www.aarp.org/privacy/?intcmp=GLOBAL-FTR-LNK-CLK-PRIVACYPOLICY-UXDIA#anchor-privacy
+            - listitem [ref=e440]: Cobrowse
+          - list [ref=e443]:
+            - listitem [ref=e444]:
+              - link "Follow us on Facebook" [ref=e445] [cursor=pointer]:
+                - /url: https://www.facebook.com/AARP
+                - img "Facebook" [ref=e446]
+            - listitem [ref=e447]:
+              - link "Visit our Twitter profile" [ref=e448] [cursor=pointer]:
+                - /url: https://twitter.com/AARP
+                - img "Twitter" [ref=e449]
+            - listitem [ref=e450]:
+              - link "Link to Instagram page" [ref=e451] [cursor=pointer]:
+                - /url: https://www.instagram.com/aarp/
+                - img "Instagram" [ref=e452]
+            - listitem [ref=e453]:
+              - link "Visit LinkedIn" [ref=e454] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/aarp
+                - img "LinkedIn" [ref=e455]

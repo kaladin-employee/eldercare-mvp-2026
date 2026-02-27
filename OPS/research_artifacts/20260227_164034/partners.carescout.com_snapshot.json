@@ -1,0 +1,203 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e4]:
+    - link "CareScout Partner Hub Logo" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]:
+        - img [ref=e7]
+        - generic [ref=e20]: Partner Hub
+    - generic [ref=e21]:
+      - button "toggle navigation menu" [ref=e22]:
+        - img [ref=e23]
+      - navigation [ref=e25]:
+        - list [ref=e28]:
+          - listitem [ref=e29]:
+            - link "Why CareScout" [ref=e31] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e32]:
+            - button "show link and child menus for Partner with Us" [ref=e33]:
+              - generic [ref=e34]: Partner with Us
+              - img [ref=e35]
+          - listitem [ref=e37]:
+            - button "show link and child menus for Discover Our Solutions" [ref=e38]:
+              - generic [ref=e39]: Discover Our Solutions
+              - img [ref=e40]
+          - listitem [ref=e42]:
+            - button "show link and child menus for Resources" [ref=e43]:
+              - generic [ref=e44]: Resources
+              - img [ref=e45]
+    - list [ref=e47]:
+      - listitem [ref=e48]:
+        - link "Why CareScout" [ref=e50] [cursor=pointer]:
+          - /url: /about
+      - listitem [ref=e51]:
+        - button "Partner with Us" [ref=e52]:
+          - text: Partner with Us
+          - img [ref=e53]
+        - list [ref=e56]:
+          - listitem [ref=e57]:
+            - link "Providers" [ref=e59] [cursor=pointer]:
+              - /url: /providers
+          - listitem [ref=e60]:
+            - link "LTCi Carriers" [ref=e62] [cursor=pointer]:
+              - /url: /ltci-carriers
+          - listitem [ref=e63]:
+            - link "Financial Professionals" [ref=e65] [cursor=pointer]:
+              - /url: /financial-professionals
+      - listitem [ref=e66]:
+        - button "Discover Our Solutions" [ref=e67]:
+          - text: Discover Our Solutions
+          - img [ref=e68]
+        - list [ref=e71]:
+          - listitem [ref=e72]:
+            - link "CareScout Quality Network" [ref=e74] [cursor=pointer]:
+              - /url: /cqn
+          - listitem [ref=e75]:
+            - link "Care Assessments" [ref=e77] [cursor=pointer]:
+              - /url: /assessments
+          - listitem [ref=e78]:
+            - link "Long Term Care Insurance" [ref=e80] [cursor=pointer]:
+              - /url: /long-term-care-insurance
+      - listitem [ref=e81]:
+        - button "Resources" [ref=e82]:
+          - text: Resources
+          - img [ref=e83]
+        - list [ref=e86]:
+          - listitem [ref=e87]:
+            - link "Articles, expert advice and tips" [ref=e89] [cursor=pointer]:
+              - /url: /resources
+          - listitem [ref=e90]:
+            - link "Partner marketing toolkit" [ref=e92] [cursor=pointer]:
+              - /url: /resources/marketing-toolkit
+  - main [ref=e93]:
+    - generic [ref=e94]:
+      - generic [ref=e95]:
+        - generic [ref=e97]:
+          - img [ref=e98]
+          - img [ref=e105]
+          - img [ref=e112]
+        - generic [ref=e120]:
+          - heading "Welcome to the CareScout Partner Hub" [level=1] [ref=e121]:
+            - text: Welcome to the
+            - text: CareScout Partner Hub
+          - paragraph [ref=e123]: You’ve found the gathering place for businesses to learn about partnering with us.
+      - generic [ref=e125]:
+        - generic [ref=e128]:
+          - button "toggle video pause/play" [ref=e129]:
+            - img [ref=e132]
+          - generic [ref=e134]: Short video of elderly woman swimming.
+        - generic [ref=e136]:
+          - heading "Your business, elevated." [level=2] [ref=e137]
+          - paragraph [ref=e138]: CareScout’s mission is to simplify and dignify the aging experience – and create a long-term care system where everyone wins. Including you. Find out how a partnership with CareScout can elevate your business.
+      - generic [ref=e142]:
+        - img [ref=e145]
+        - generic [ref=e148]:
+          - generic [ref=e149]: Long-term care providers
+          - paragraph [ref=e151]:
+            - text: Connect with
+            - link "care seekers" [ref=e152] [cursor=pointer]:
+              - /url: https://www.carescout.com/providers?services=Quality%20Network&zipCode=
+            - text: ", get recognized for quality care, and strengthen your person-centered care practices."
+          - link "Join our Quality Network" [ref=e155] [cursor=pointer]:
+            - /url: /providers
+      - generic [ref=e157]:
+        - img "Nurse friendly conversation with residents" [ref=e160]
+        - generic [ref=e161]:
+          - generic [ref=e162]:
+            - heading "LTC insurers" [level=2] [ref=e163]
+            - paragraph [ref=e164]:
+              - text: Get expert
+              - link "clinical assessments" [ref=e165] [cursor=pointer]:
+                - /url: /assessments
+              - text: and help your policyholders
+              - link "find quality care" [ref=e166] [cursor=pointer]:
+                - /url: https://www.carescout.com/providers?services=Quality%20Network&zipCode=
+              - text: to better manage costs.
+          - link "Bend the curve" [ref=e168] [cursor=pointer]:
+            - /url: /ltci-carriers
+      - generic [ref=e170]:
+        - generic [ref=e173]:
+          - button "toggle video pause/play" [ref=e174]:
+            - img [ref=e177]
+          - generic [ref=e179]: Short video of elderly woman riding in her wheelchair.
+        - generic [ref=e180]:
+          - generic [ref=e181]:
+            - heading "Better planned is better delivered" [level=2] [ref=e182]
+            - paragraph [ref=e183]: CareScout is changing the aging care experience – from how older adults plan for a brighter future to how they and their families find, choose, and feel confident about care.
+            - paragraph [ref=e184]: The results can be pretty amazing. See how providers in our Quality Network deliver person-centered care.
+          - link "View videos" [ref=e186] [cursor=pointer]:
+            - /url: https://www.carescout.com/stories?storyType=
+  - contentinfo [ref=e187]:
+    - generic [ref=e188]:
+      - img [ref=e190]
+      - generic [ref=e203]:
+        - generic [ref=e205]:
+          - paragraph [ref=e206]: Need Help?
+          - list [ref=e207]:
+            - listitem [ref=e208]:
+              - link "Partner Resources" [ref=e209] [cursor=pointer]:
+                - /url: /resources
+            - listitem [ref=e210]:
+              - link "Quality Network" [ref=e211] [cursor=pointer]:
+                - /url: /providers
+            - listitem [ref=e212]:
+              - link "Provider Portal" [ref=e213] [cursor=pointer]:
+                - /url: https://providers.carescout.com
+            - listitem [ref=e214]:
+              - link "Contact Us" [ref=e215] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e217]:
+          - paragraph [ref=e218]: Company
+          - list [ref=e219]:
+            - listitem [ref=e220]:
+              - link "About" [ref=e221] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e222]:
+              - link "Leadership" [ref=e223] [cursor=pointer]:
+                - /url: https://www.carescout.com/leadership
+            - listitem [ref=e224]:
+              - link "Field Team Jobs" [ref=e225] [cursor=pointer]:
+                - /url: https://www.carescout.com/field-team-recruitment
+            - listitem [ref=e226]:
+              - link "Corporate Careers" [ref=e227] [cursor=pointer]:
+                - /url: https://www.carescout.com/careers
+        - generic [ref=e229]:
+          - paragraph [ref=e230]: More Info
+          - list [ref=e231]:
+            - listitem [ref=e232]:
+              - link "CareScout.com" [ref=e233] [cursor=pointer]:
+                - /url: https://www.carescout.com/
+            - listitem [ref=e234]:
+              - link "Newsroom" [ref=e235] [cursor=pointer]:
+                - /url: https://www.carescout.com/newsroom
+        - generic [ref=e237]:
+          - paragraph [ref=e238]: Legal
+          - list [ref=e239]:
+            - listitem [ref=e240]:
+              - link "Privacy Policy" [ref=e241] [cursor=pointer]:
+                - /url: https://www.carescout.com/privacy-policy
+            - listitem [ref=e242]:
+              - link "Washington Privacy Policy" [ref=e243] [cursor=pointer]:
+                - /url: https://www.carescout.com/privacy-policy-wa
+            - listitem [ref=e244]:
+              - link "Terms of Use" [ref=e245] [cursor=pointer]:
+                - /url: https://www.carescout.com/terms-of-use
+            - listitem [ref=e246]:
+              - link "Accessibility" [ref=e247] [cursor=pointer]:
+                - /url: https://www.carescout.com/accessibility
+    - generic [ref=e248]:
+      - generic [ref=e250]:
+        - generic:
+          - paragraph
+        - list [ref=e251]:
+          - listitem [ref=e252]:
+            - link "CareScout on Facebook" [ref=e253] [cursor=pointer]:
+              - /url: https://www.facebook.com/CareScoutLLC
+              - generic [ref=e254]: Link to https://www.facebook.com/CareScoutLLC - CareScout on Facebook
+              - img [ref=e255]
+          - listitem [ref=e257]:
+            - link "CareScout on LinkedIn" [ref=e258] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/carescout/
+              - generic [ref=e259]: Link to https://www.linkedin.com/company/carescout/ - CareScout on LinkedIn
+              - img [ref=e260]
+      - paragraph [ref=e263]: "\"Growing old is mandatory, but growing up is optional!\" - Walt Disney"
+  - generic [ref=e264]: 748401:1

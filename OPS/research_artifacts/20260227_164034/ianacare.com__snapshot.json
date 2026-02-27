@@ -1,0 +1,205 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - contentinfo "contentinfo" [ref=e4]:
+      - generic [ref=e5]:
+        - banner [ref=e6]:
+          - link "ianacare's logo in the color black" [ref=e10] [cursor=pointer]:
+            - /url: https://ianacare.com/
+            - img "ianacare's logo in the color black" [ref=e11]
+        - banner [ref=e12]:
+          - button "Menu Toggle" [ref=e16] [cursor=pointer]:
+            - generic [ref=e17]: 
+            - text: 
+  - main [ref=e18]:
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - heading "Check if you qualify for the No-Cost Medicare GUIDE Program" [level=2] [ref=e27]
+        - link "CHECK ELIGIBILITY" [ref=e31] [cursor=pointer]:
+          - /url: https://hubs.li/Q03TP2ly0
+          - generic [ref=e33]: CHECK ELIGIBILITY
+      - heading "I Am Not Alone Care" [level=1] [ref=e47]
+      - generic [ref=e53]:
+        - heading "CMS GUIDE MODEL" [level=2] [ref=e56]
+        - heading "ianacare is your partner to fulfill GUIDE program requirements" [level=2] [ref=e59]
+        - link "LEARN MORE" [ref=e63] [cursor=pointer]:
+          - /url: https://ianacare.com/plans-and-providers-cms-guide-model/
+          - generic [ref=e65]: LEARN MORE
+      - heading "Proven to build trust & engagement with patients and caregivers" [level=2] [ref=e72]
+      - generic [ref=e76]:
+        - generic [ref=e80]:
+          - generic [ref=e83]:
+            - generic [ref=e84]: "0"
+            - generic [ref=e85]: K
+          - paragraph [ref=e88]:
+            - strong [ref=e89]: ianacare
+            - strong [ref=e90]: members served
+        - generic [ref=e94]:
+          - generic [ref=e97]:
+            - generic [ref=e98]: "0"
+            - generic [ref=e99]: "%"
+          - paragraph [ref=e102]:
+            - strong [ref=e103]: of members are caring
+            - strong [ref=e104]: for themselves
+        - generic [ref=e108]:
+          - generic [ref=e111]:
+            - generic [ref=e112]: "0"
+            - generic [ref=e113]: "%"
+          - paragraph [ref=e116]:
+            - text: receive
+            - strong [ref=e117]: advanced care
+            - strong [ref=e118]: planning support
+      - generic [ref=e124]:
+        - generic [ref=e126]:
+          - link [ref=e129] [cursor=pointer]:
+            - /url: https://ianacare.com/plans-and-providers/
+          - paragraph [ref=e132]:
+            - link "We mobilize family care team to deliver home-based care plans" [ref=e134] [cursor=pointer]:
+              - /url: https://ianacare.com/plans-and-providers/
+        - generic [ref=e136]:
+          - link [ref=e139] [cursor=pointer]:
+            - /url: https://ianacare.com/employers/
+          - paragraph [ref=e142]:
+            - link "An inclusive benefit designed to increase productivity & retention" [ref=e144] [cursor=pointer]:
+              - /url: https://ianacare.com/employers/
+        - generic [ref=e146]:
+          - link [ref=e149] [cursor=pointer]:
+            - /url: https://ianacare.com/caregivers/
+          - paragraph [ref=e152]:
+            - link "Support for every aspect of caring for a loved one, personalized for your journey" [ref=e154] [cursor=pointer]:
+              - /url: https://ianacare.com/caregivers/
+      - generic [ref=e158]:
+        - heading "Trusted by caregivers and patients from these partners" [level=2] [ref=e161]
+        - region "Logos" [ref=e164]:
+          - generic [ref=e165]:
+            - group "1 of 10" [ref=e166]:
+              - figure [ref=e167]:
+                - img "-XoPobW-anduril" [ref=e168]
+            - group "2 of 10" [ref=e169]:
+              - figure [ref=e170]:
+                - img "cooley-logo-red-web" [ref=e171]
+            - group "3 of 10" [ref=e172]:
+              - figure [ref=e173]:
+                - img "Otsuka_Holdings_logo" [ref=e174]
+            - group "4 of 10" [ref=e175]:
+              - figure [ref=e176]:
+                - img "cuningham-logo-black" [ref=e177]
+            - group "5 of 10" [ref=e178]:
+              - figure [ref=e179]:
+                - img "Elevance_Health_Logo_2022" [ref=e180]
+            - group "6 of 10" [ref=e181]:
+              - figure [ref=e182]:
+                - img "Hewlett_Packard_Enterprise_logo" [ref=e183]
+            - group "7 of 10" [ref=e184]:
+              - figure [ref=e185]:
+                - img "Chegg_logo" [ref=e186]
+            - group "8 of 10" [ref=e187]:
+              - figure [ref=e188]:
+                - img "H&R_Block_icon" [ref=e189]
+            - group "9 of 10" [ref=e190]:
+              - figure [ref=e191]:
+                - img "Unum_Group_logo" [ref=e192]
+            - group "10 of 10" [ref=e193]:
+              - figure [ref=e194]:
+                - img "CD_NOTag_PMS_2-Color_Coated_R" [ref=e195]
+      - generic [ref=e199]:
+        - heading "iana = I Am Not Alone" [level=2] [ref=e202]
+        - heading "Delivering real impact for patients and their families" [ref=e205]
+      - heading "Advisors & Advocates" [level=2] [ref=e219]
+      - iframe [ref=e235]:
+        
+  - contentinfo [ref=e248]:
+    - contentinfo "contentinfo" [ref=e249]:
+      - generic [ref=e250]:
+        - generic [ref=e252]:
+          - link "ianacare's logo in the color white" [ref=e255] [cursor=pointer]:
+            - /url: https://ianacare.com
+            - img "ianacare's logo in the color white" [ref=e256]
+          - generic [ref=e258]:
+            - img "Visual display of compliance logos"
+        - generic [ref=e260]:
+          - heading "Product" [level=2] [ref=e263]
+          - generic [ref=e265]:
+            - paragraph [ref=e266]:
+              - link "For Caregivers" [ref=e267] [cursor=pointer]:
+                - /url: http://ianacare.com/caregivers
+            - paragraph [ref=e268]:
+              - link "Download" [ref=e269] [cursor=pointer]:
+                - /url: https://ianacare.com/download/
+            - paragraph [ref=e270]:
+              - link "Help Center" [ref=e271] [cursor=pointer]:
+                - /url: https://ianacare.zendesk.com
+        - generic [ref=e273]:
+          - heading "Partners" [level=2] [ref=e276]
+          - generic [ref=e278]:
+            - paragraph [ref=e279]:
+              - link "Plans & Providers" [ref=e280] [cursor=pointer]:
+                - /url: http://www.ianacare.com/plans-and-providers
+            - paragraph [ref=e281]:
+              - link "CMS GUIDE Model" [ref=e282] [cursor=pointer]:
+                - /url: https://ianacare.com/plans-and-providers-cms-guide-model/
+            - paragraph [ref=e283]:
+              - link "Employers" [ref=e284] [cursor=pointer]:
+                - /url: https://ianacare.com/employers/
+            - paragraph [ref=e285]:
+              - link "Advisors" [ref=e286] [cursor=pointer]:
+                - /url: https://ianacare.com/advisors-and-advocates/
+        - generic [ref=e288]:
+          - heading "Resources" [level=2] [ref=e291]
+          - generic [ref=e293]:
+            - paragraph [ref=e294]:
+              - link "News & Media" [ref=e295] [cursor=pointer]:
+                - /url: https://ianacare.com/press/
+            - paragraph [ref=e296]:
+              - link "Resource Center" [ref=e297] [cursor=pointer]:
+                - /url: https://ianacare.com/resource-center/
+            - paragraph [ref=e298]:
+              - link "Podcast" [ref=e299] [cursor=pointer]:
+                - /url: https://ianacare.com/podcast/
+        - generic [ref=e301]:
+          - heading "Company" [level=2] [ref=e304]
+          - generic [ref=e306]:
+            - paragraph [ref=e307]:
+              - link "About" [ref=e308] [cursor=pointer]:
+                - /url: https://ianacare.com/about
+            - paragraph [ref=e309]:
+              - link "Contact" [ref=e310] [cursor=pointer]:
+                - /url: https://ianacare.com/contact/
+            - paragraph [ref=e311]:
+              - link "Careers" [ref=e312] [cursor=pointer]:
+                - /url: https://ianacare.com/careers/
+        - generic [ref=e314]:
+          - generic [ref=e316]:
+            - generic "opens in new window" [ref=e319]:
+              - link "opens in new window" [ref=e322] [cursor=pointer]:
+                - /url: https://www.facebook.com/ianacare
+                - generic [ref=e323]: 
+            - generic "opens in new window" [ref=e326]:
+              - link "opens in new window" [ref=e329] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/ianacare/
+                - generic [ref=e330]: 
+            - generic "opens in new window" [ref=e333]:
+              - link "opens in new window" [ref=e336] [cursor=pointer]:
+                - /url: https://twitter.com/ianacare
+                - generic [ref=e337]: 
+            - generic "opens in new window" [ref=e340]:
+              - link "opens in new window" [ref=e343] [cursor=pointer]:
+                - /url: https://www.instagram.com/ianacare/
+                - generic [ref=e344]: 
+          - link "image of download badge for the Apple App Store" [ref=e347] [cursor=pointer]:
+            - /url: https://itunes.apple.com/us/app/iana-caregiver-coordination/id1441737626
+            - img "image of download badge for the Apple App Store" [ref=e348]
+          - link "photo of Google Play badge App download" [ref=e351] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.ianacare.ianacare
+            - img "photo of Google Play badge App download" [ref=e352]
+    - generic [ref=e361]:
+      - generic [ref=e363]:
+        - paragraph [ref=e366]: ©
+        - generic [ref=e368]: "2026"
+        - paragraph [ref=e371]: ianacare. All rights reserved.
+      - paragraph [ref=e376]:
+        - link "Terms" [ref=e377] [cursor=pointer]:
+          - /url: https://ianacare.com/terms-of-use/
+        - link "Privacy" [ref=e378] [cursor=pointer]:
+          - /url: https://ianacare.com/privacy-policy/

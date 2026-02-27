@@ -1,0 +1,620 @@
+- generic [ref=e3]:
+  - navigation [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - img "App Store" [ref=e9]:
+          - img
+        - navigation [ref=e10]:
+          - button "App Store for iPhone" [ref=e11] [cursor=pointer]:
+            - generic "App Store for iPhone" [ref=e12]:
+              - generic [ref=e13]: for iPhone
+              - img
+      - generic [ref=e18]:
+        - img
+        - textbox "Search" [ref=e19]
+    - generic [ref=e21]:
+      - list [ref=e23]:
+        - listitem [ref=e24]:
+          - button "Today" [ref=e25] [cursor=pointer]:
+            - generic [ref=e26]:
+              - generic [ref=e27]:
+                - img
+              - generic [ref=e28]: Today
+        - listitem [ref=e29]:
+          - button "Games" [ref=e30] [cursor=pointer]:
+            - generic [ref=e31]:
+              - generic [ref=e32]:
+                - img
+              - generic [ref=e33]: Games
+        - listitem [ref=e34]:
+          - button "Apps" [ref=e35] [cursor=pointer]:
+            - generic [ref=e36]:
+              - generic [ref=e37]:
+                - img
+              - generic [ref=e38]: Apps
+        - listitem [ref=e39]:
+          - button "Arcade" [ref=e40] [cursor=pointer]:
+            - generic [ref=e41]:
+              - generic [ref=e42]:
+                - img
+              - generic [ref=e43]: Arcade
+      - generic [ref=e44]:
+        - heading "Platform" [level=3] [ref=e45]
+        - list [ref=e46]:
+          - listitem [ref=e47]:
+            - link "iPhone" [ref=e48] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/iphone/today
+              - generic [ref=e49]:
+                - generic [ref=e50]:
+                  - img
+                - generic [ref=e51]: iPhone
+          - listitem [ref=e52]:
+            - link "iPad" [ref=e53] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/ipad/today
+              - generic [ref=e54]:
+                - generic [ref=e55]:
+                  - img
+                - generic [ref=e56]: iPad
+          - listitem [ref=e57]:
+            - link "Mac" [ref=e58] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/mac/discover
+              - generic [ref=e59]:
+                - generic [ref=e60]:
+                  - img
+                - generic [ref=e61]: Mac
+          - listitem [ref=e62]:
+            - link "Vision" [ref=e63] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/vision/apps-and-games
+              - generic [ref=e64]:
+                - generic [ref=e65]:
+                  - img
+                - generic [ref=e66]: Vision
+          - listitem [ref=e67]:
+            - link "Watch" [ref=e68] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/watch/apps-and-games
+              - generic [ref=e69]:
+                - generic [ref=e70]:
+                  - img
+                - generic [ref=e71]: Watch
+          - listitem [ref=e72]:
+            - link "TV" [ref=e73] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/tv/discover
+              - generic [ref=e74]:
+                - generic [ref=e75]:
+                  - img
+                - generic [ref=e76]: TV
+  - generic [ref=e77]:
+    - main [ref=e78]:
+      - generic [ref=e79]:
+        - generic [ref=e90]:
+          - heading "YCare Health" [level=1] [ref=e91]
+          - heading "Care for yourself, your family" [level=2] [ref=e92]
+          - paragraph [ref=e93]: Free · In‑App Purchases · Designed for iPad
+          - button "Share" [ref=e95] [cursor=pointer]:
+            - img
+            - text: Share
+        - list [ref=e101]:
+          - listitem [ref=e102]:
+            - link [ref=e104] [cursor=pointer]:
+              - /url: "#productRatings"
+              - generic [ref=e106]:
+                - term [ref=e107]:
+                  - generic [ref=e108]: 4 Ratings
+                - definition [ref=e109]:
+                  - generic [ref=e110]: "4.3"
+                  - list [ref=e111]:
+                    - listitem [ref=e112]:
+                      - img
+                    - listitem [ref=e113]:
+                      - img
+                    - listitem [ref=e114]:
+                      - img
+                    - listitem [ref=e115]:
+                      - img
+                    - listitem [ref=e116]:
+                      - generic [ref=e117]:
+                        - img
+                      - img
+          - listitem [ref=e118]:
+            - link [ref=e120] [cursor=pointer]:
+              - /url: "#information"
+              - generic [ref=e122]:
+                - term [ref=e123]:
+                  - generic [ref=e124]: Ages
+                - definition [ref=e125]:
+                  - generic [ref=e126]: 16+
+                  - generic [ref=e127]: Years
+          - listitem [ref=e128]:
+            - link [ref=e130] [cursor=pointer]:
+              - /url: "#information"
+              - generic [ref=e132]:
+                - term [ref=e133]:
+                  - generic [ref=e134]: Category
+                - definition [ref=e135]:
+                  - generic [ref=e139]: Medical
+          - listitem [ref=e140]:
+            - link [ref=e142] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/developer/ecare21-inc/id1002022383
+              - generic [ref=e144]:
+                - term [ref=e145]:
+                  - generic [ref=e146]: Developer
+                - definition [ref=e147]:
+                  - generic [ref=e148]:
+                    - img
+                  - generic [ref=e149]: eCare21, Inc
+          - listitem [ref=e150]:
+            - link [ref=e152] [cursor=pointer]:
+              - /url: "#information"
+              - generic [ref=e154]:
+                - term [ref=e155]:
+                  - generic [ref=e156]: Language
+                - definition [ref=e157]:
+                  - generic [ref=e158]: EN
+                  - generic [ref=e159]: + 3 More
+          - listitem [ref=e160]:
+            - link [ref=e162] [cursor=pointer]:
+              - /url: "#information"
+              - generic [ref=e164]:
+                - term [ref=e165]:
+                  - generic [ref=e166]: Size
+                - definition [ref=e167]:
+                  - generic [ref=e168]: "53.5"
+                  - generic [ref=e169]: MB
+        - list [ref=e174]:
+          - listitem [ref=e175]:
+            - article [ref=e177]
+          - listitem [ref=e181]:
+            - article [ref=e183]
+          - listitem [ref=e187]:
+            - article [ref=e189]
+          - listitem [ref=e193]:
+            - article [ref=e195]
+          - listitem [ref=e199]:
+            - article [ref=e201]
+          - listitem [ref=e205]:
+            - article [ref=e207]
+          - listitem [ref=e211]
+          - listitem [ref=e212]
+        - button "iPhone, iPad" [ref=e214] [cursor=pointer]:
+          - generic [ref=e215]:
+            - generic [ref=e216]:
+              - generic [ref=e217]:
+                - img
+              - generic [ref=e218]:
+                - img
+            - generic [ref=e219]: iPhone, iPad
+          - generic [ref=e220]:
+            - img
+        - article [ref=e223]:
+          - paragraph
+          - generic [ref=e225]: "YCare is the next thing in personal health, teaming up with doctors to provide you with on the go care. Simplifying your journey to better health by bringing all the metrics you track through any medical devices or wearables (weight, blood pressure, glucose, and more) into one simple app. YCare uses Apple Health to collect your health data so you can share it with your doctors or caregivers. Terms of Use: https://y.care/terms-of-use Privacy Policy: https://y.care/privacy-policy Note: Continued use of GPS running in the background can dramatically decrease battery life."
+          - button "more" [ref=e226] [cursor=pointer]
+          - paragraph
+        - generic [ref=e227]:
+          - link "Ratings & Reviews" [ref=e229] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/app/1002022384?see-all=reviews&platform=iphone
+            - generic [ref=e230]:
+              - heading "Ratings & Reviews" [level=2] [ref=e231]
+              - generic [ref=e232]:
+                - img
+          - list [ref=e233]:
+            - listitem [ref=e234]:
+              - article [ref=e235]:
+                - generic [ref=e236]:
+                  - generic "4.3 out of 5" [ref=e237]:
+                    - generic [ref=e238]: "4.3"
+                    - generic [ref=e239]: out of 5
+                  - generic [ref=e240]:
+                    - generic [ref=e241]:
+                      - generic "5 star, 50%" [ref=e242]:
+                        - generic [ref=e243]:
+                          - generic [ref=e244]:
+                            - img
+                          - generic [ref=e245]:
+                            - img
+                          - generic [ref=e246]:
+                            - img
+                          - generic [ref=e247]:
+                            - img
+                          - generic [ref=e248]:
+                            - img
+                      - generic "4 star, 25%" [ref=e251]:
+                        - generic [ref=e252]:
+                          - generic [ref=e253]:
+                            - img
+                          - generic [ref=e254]:
+                            - img
+                          - generic [ref=e255]:
+                            - img
+                          - generic [ref=e256]:
+                            - img
+                      - generic "3 star, 25%" [ref=e259]:
+                        - generic [ref=e260]:
+                          - generic [ref=e261]:
+                            - img
+                          - generic [ref=e262]:
+                            - img
+                          - generic [ref=e263]:
+                            - img
+                      - generic "2 star, 0%" [ref=e266]:
+                        - generic [ref=e267]:
+                          - generic [ref=e268]:
+                            - img
+                          - generic [ref=e269]:
+                            - img
+                      - generic "1 star, 0%" [ref=e271]:
+                        - generic [ref=e273]:
+                          - img
+                    - generic [ref=e275]: 4 Ratings
+        - list [ref=e280]:
+          - listitem [ref=e281]:
+            - article [ref=e283]:
+              - generic [ref=e284]:
+                - generic [ref=e285]:
+                  - heading [level=3] [ref=e286]:
+                    - generic [ref=e287]: Patient
+                  - list [ref=e289]:
+                    - listitem [ref=e290]:
+                      - img
+                    - listitem [ref=e291]:
+                      - img
+                    - listitem [ref=e292]:
+                      - img
+                    - listitem [ref=e293]:
+                      - img
+                    - listitem [ref=e294]:
+                      - img
+                - generic [ref=e295]:
+                  - time [ref=e296]: 02/06/2020
+                  - paragraph [ref=e299]: alishaleigh93
+              - paragraph [ref=e302]: Easy to use. I like the functions in the app but adding an area for notes and being able to email the data would be make it perfect for me.
+          - listitem [ref=e303]:
+            - article [ref=e305]:
+              - generic [ref=e306]:
+                - generic [ref=e307]:
+                  - heading [level=3] [ref=e308]:
+                    - generic [ref=e309]: Useful for healthy life.
+                  - list [ref=e311]:
+                    - listitem [ref=e312]:
+                      - img
+                    - listitem [ref=e313]:
+                      - img
+                    - listitem [ref=e314]:
+                      - img
+                    - listitem [ref=e315]:
+                      - img
+                    - listitem [ref=e316]:
+                      - img
+                - generic [ref=e317]:
+                  - time [ref=e318]: 12/07/2016
+                  - paragraph [ref=e321]: lyka144
+              - paragraph [ref=e324]: I found this app help several times. Very good to cover other grounds. I like that i can keep all medical care in one place. This helps open communication with out doctors and gain unknown knowledge. The handling of this app is more simple and more convenient to use. This also provides single point continues care solution. I strongly recommend to this app is more important and useful.
+          - listitem [ref=e325]:
+            - article [ref=e327]:
+              - generic [ref=e328]:
+                - generic [ref=e329]:
+                  - heading [level=3] [ref=e330]:
+                    - generic [ref=e331]: Great app
+                  - list [ref=e333]:
+                    - listitem [ref=e334]:
+                      - img
+                    - listitem [ref=e335]:
+                      - img
+                    - listitem [ref=e336]:
+                      - img
+                    - listitem [ref=e337]:
+                      - img
+                    - listitem [ref=e338]:
+                      - img
+                - generic [ref=e339]:
+                  - time [ref=e340]: 03/31/2017
+                  - paragraph [ref=e343]: ShakiirCottonm386198
+              - paragraph [ref=e346]: I got an app just 2 weeks ago, so can’t say much, but so far it’s been really helpful. I hired a new carer for my grandmother and I’ve been constantly worried if it’s gonna work out well. She already had a Fitbit and this app helps as I can check up on her vitals and see if she’s fine anytime.
+          - listitem [ref=e347]:
+            - article [ref=e349]:
+              - generic [ref=e350]:
+                - generic [ref=e351]:
+                  - heading [level=3] [ref=e352]:
+                    - generic [ref=e353]: Good app
+                  - list [ref=e355]:
+                    - listitem [ref=e356]:
+                      - img
+                    - listitem [ref=e357]:
+                      - img
+                    - listitem [ref=e358]:
+                      - img
+                    - listitem [ref=e359]:
+                      - img
+                    - listitem [ref=e360]:
+                      - img
+                - generic [ref=e361]:
+                  - time [ref=e362]: 10/13/2016
+                  - paragraph [ref=e365]: AlexOTP99
+              - paragraph [ref=e368]: I got an app just 2 weeks ago, so can’t say much, but so far it’s been really helpful. I hired a new carer for my grandmother and I’ve been constantly worried if it’s gonna work out well. She already had a Fitbit and this app helps as I can check up on her vitals and see if she’s fine anytime.
+          - listitem [ref=e369]
+          - listitem [ref=e370]
+          - listitem [ref=e371]
+          - listitem [ref=e372]
+        - generic [ref=e373]:
+          - button "What’s New" [ref=e375] [cursor=pointer]:
+            - generic [ref=e377]:
+              - heading "What’s New" [level=2] [ref=e378]
+              - generic [ref=e379]:
+                - img
+          - article [ref=e380]:
+            - generic [ref=e381]:
+              - paragraph
+              - generic [ref=e384]: Bug fixes and performance improvements.
+              - button "more" [ref=e385] [cursor=pointer]
+              - paragraph
+              - generic [ref=e386]:
+                - heading "Version 3.10.0" [level=4] [ref=e387]
+                - time [ref=e388]: 3d ago
+        - generic [ref=e389]:
+          - button "App Privacy" [ref=e391] [cursor=pointer]:
+            - link "App Privacy" [ref=e393]:
+              - /url: "#"
+              - generic [ref=e394]:
+                - heading "App Privacy" [level=2] [ref=e395]
+                - generic [ref=e396]:
+                  - img
+          - paragraph [ref=e400]:
+            - text: The developer, eCare21, Inc, indicated that the app’s privacy practices may include handling of data as described below. For more information, see the
+            - link "Developer’s Privacy Policy" [ref=e401] [cursor=pointer]:
+              - /url: https://y.care/privacy-policy
+              - text: developer’s privacy policy
+            - text: .
+        - list [ref=e403]:
+          - listitem [ref=e404]:
+            - article [ref=e405]:
+              - generic [ref=e406]:
+                - img
+              - heading "Data Not Linked to You" [level=2] [ref=e407]
+              - paragraph [ref=e408]: "The following data may be collected but it is not linked to your identity:"
+              - list [ref=e409]:
+                - listitem [ref=e410]:
+                  - generic [ref=e411]:
+                    - img
+                  - text: Health & Fitness
+                - listitem [ref=e412]:
+                  - generic [ref=e413]:
+                    - img
+                  - text: Location
+                - listitem [ref=e414]:
+                  - generic [ref=e415]:
+                    - img
+                  - text: Contact Info
+                - listitem [ref=e416]:
+                  - generic [ref=e417]:
+                    - img
+                  - text: Usage Data
+                - listitem [ref=e418]:
+                  - generic [ref=e419]:
+                    - img
+                  - text: Diagnostics
+        - paragraph [ref=e421]:
+          - text: Privacy practices may vary, for example, based on the features you use or your age.
+          - link "Learn More" [ref=e422] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/iphone/story/id1538632801
+        - generic [ref=e423]:
+          - heading "Accessibility" [level=2] [ref=e427]
+          - paragraph [ref=e431]:
+            - text: The developer has not yet indicated which accessibility features this app supports.
+            - link "Learn More" [ref=e432] [cursor=pointer]:
+              - /url: https://apps.apple.com/story/id1814164299
+        - generic [ref=e433]:
+          - heading "Information" [level=2] [ref=e436]
+          - list [ref=e438]:
+            - listitem [ref=e439]:
+              - term [ref=e440]: Seller
+              - list [ref=e441]:
+                - listitem [ref=e442]:
+                  - generic [ref=e443]: eCare21, Inc
+            - listitem [ref=e444]:
+              - term [ref=e445]: Size
+              - list [ref=e446]:
+                - listitem [ref=e447]:
+                  - generic [ref=e448]: 53.5 MB
+            - listitem [ref=e449]:
+              - term [ref=e450]: Category
+              - list [ref=e451]:
+                - listitem [ref=e452]:
+                  - generic [ref=e453]: Medical
+            - listitem [ref=e454]:
+              - term [ref=e455]: Compatibility
+              - group [ref=e456]:
+                - generic "Requires iOS 16.0 or later." [ref=e457] [cursor=pointer]:
+                  - text: Requires iOS 16.0 or later.
+                  - img
+            - listitem [ref=e458]:
+              - term [ref=e459]: Location
+              - list [ref=e460]:
+                - listitem [ref=e461]:
+                  - generic [ref=e462]: This app may use your location even when it isn’t open, which can decrease device battery life.
+            - listitem [ref=e463]:
+              - term [ref=e464]: Languages
+              - group [ref=e465]:
+                - generic "English and 3 more" [ref=e466] [cursor=pointer]:
+                  - text: English and 3 more
+                  - img
+            - listitem [ref=e467]:
+              - term [ref=e468]: Age Rating
+              - group [ref=e469]:
+                - generic "16+" [ref=e470] [cursor=pointer]:
+                  - text: 16+
+                  - img
+            - listitem [ref=e471]:
+              - term [ref=e472]: In-App Purchases
+              - group [ref=e473]:
+                - generic "Yes" [ref=e474] [cursor=pointer]:
+                  - text: "Yes"
+                  - img
+            - listitem [ref=e475]:
+              - term [ref=e476]: Copyright
+              - list [ref=e477]:
+                - listitem [ref=e478]:
+                  - generic [ref=e479]: © YCare, Inc.
+        - generic [ref=e481]:
+          - listitem [ref=e482]:
+            - link "Developer Website" [ref=e484] [cursor=pointer]:
+              - /url: https://y.care
+              - text: Developer Website
+              - img
+          - listitem [ref=e485]:
+            - link "Privacy Policy" [ref=e487] [cursor=pointer]:
+              - /url: https://y.care/privacy-policy
+              - text: Privacy Policy
+              - img
+        - generic [ref=e488]:
+          - link "More by eCare21, Inc" [ref=e490] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/developer/ecare21-inc/id1002022383
+            - generic [ref=e491]:
+              - heading "More by eCare21, Inc" [level=2] [ref=e492]
+              - generic [ref=e493]:
+                - img
+          - list [ref=e497]:
+            - listitem [ref=e498]:
+              - link [ref=e502] [cursor=pointer]:
+                - /url: https://apps.apple.com/us/app/ycare-careteam/id1581108229
+                - generic [ref=e507]:
+                  - heading [level=3] [ref=e510]: YCare CareTeam
+                  - paragraph [ref=e513]: "Care: anytime... anywhere!"
+                - generic [ref=e515]: View
+        - generic [ref=e516]:
+          - link "You Might Also Like" [ref=e518] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/app/1002022384?see-all=customers-also-bought-apps&platform=iphone
+            - generic [ref=e519]:
+              - heading "You Might Also Like" [level=2] [ref=e520]
+              - generic [ref=e521]:
+                - img
+          - list [ref=e525]:
+            - listitem [ref=e526]:
+              - link [ref=e530] [cursor=pointer]:
+                - /url: https://apps.apple.com/us/app/all-well-senior-care/id1510913089
+                - generic [ref=e535]:
+                  - heading [level=3] [ref=e538]: All Well Senior Care
+                  - paragraph [ref=e541]: Senior care & caregiver app
+                - generic [ref=e543]: View
+            - listitem [ref=e544]:
+              - link [ref=e548] [cursor=pointer]:
+                - /url: https://apps.apple.com/us/app/careven/id1502309849
+                - generic [ref=e553]:
+                  - heading [level=3] [ref=e556]: CareVen
+                  - paragraph [ref=e559]: Care platform for your family
+                - generic [ref=e561]: View
+            - listitem [ref=e562]:
+              - link [ref=e566] [cursor=pointer]:
+                - /url: https://apps.apple.com/us/app/eldercheck-now/id1050773399
+                - generic [ref=e571]:
+                  - heading [level=3] [ref=e574]: ElderCheck Now
+                  - paragraph [ref=e577]: Combat Social Isolation
+                - generic [ref=e579]: View
+            - listitem [ref=e580]:
+              - link [ref=e584] [cursor=pointer]:
+                - /url: https://apps.apple.com/us/app/carely-health/id6740733500
+                - generic [ref=e589]:
+                  - heading [level=3] [ref=e592]: Carely Health
+                  - paragraph [ref=e595]: Connected Care at Home
+                - generic [ref=e597]: View
+            - listitem [ref=e598]:
+              - link [ref=e602] [cursor=pointer]:
+                - /url: https://apps.apple.com/us/app/verifycare-caregiving-app/id1522911986
+                - generic [ref=e607]:
+                  - heading [level=3] [ref=e610]: VerifyCare | Caregiving App
+                  - paragraph [ref=e613]: Meds, vitals, appointments+
+                - generic [ref=e615]: View
+            - listitem [ref=e616]:
+              - link [ref=e620] [cursor=pointer]:
+                - /url: https://apps.apple.com/us/app/outpatient/id1361834541
+                - generic [ref=e625]:
+                  - heading [level=3] [ref=e628]: Outpatient
+                  - paragraph [ref=e631]: Simplify Caregiving
+                - generic [ref=e633]: View
+            - listitem [ref=e634]:
+              - link [ref=e638] [cursor=pointer]:
+                - /url: https://apps.apple.com/us/app/carepredict-touchpoint/id1482153011
+                - generic [ref=e643]:
+                  - heading [level=3] [ref=e646]: CarePredict TouchPoint
+                  - paragraph [ref=e649]: Healthcare
+                - generic [ref=e651]: View
+            - listitem [ref=e652]:
+              - link [ref=e656] [cursor=pointer]:
+                - /url: https://apps.apple.com/us/app/medisafe-carezone-pillmemo/id6499107849
+                - generic [ref=e661]:
+                  - heading [level=3] [ref=e664]: "Medisafe Carezone: PillMemo"
+                  - paragraph [ref=e667]: Med Timer & Pill Counter
+                - generic [ref=e669]: View
+            - listitem [ref=e670]:
+              - link [ref=e674] [cursor=pointer]:
+                - /url: https://apps.apple.com/us/app/i-ally/id1580580499
+                - generic [ref=e679]:
+                  - heading [level=3] [ref=e682]: I-Ally
+                  - paragraph [ref=e685]: For family caregivers
+                - generic [ref=e687]: View
+            - listitem [ref=e688]:
+              - link [ref=e692] [cursor=pointer]:
+                - /url: https://apps.apple.com/us/app/smart-pillbox-mypillpal/id6475014711
+                - generic [ref=e697]:
+                  - heading [level=3] [ref=e700]: Smart Pillbox - MyPillPal
+                  - paragraph [ref=e703]: Daily Medication reminder
+                - generic [ref=e705]: View
+    - generic [ref=e707]:
+      - generic [ref=e709]:
+        - button "United States" [ref=e710] [cursor=pointer]
+        - list [ref=e711]:
+          - listitem [ref=e712]:
+            - link "This page is available in Español (México)" [ref=e713] [cursor=pointer]:
+              - /url: "?l=es-MX"
+              - text: Español (México)
+          - listitem [ref=e714]:
+            - link "This page is available in العربية" [ref=e715] [cursor=pointer]:
+              - /url: "?l=ar"
+              - text: العربية
+          - listitem [ref=e716]:
+            - link "This page is available in Русский" [ref=e717] [cursor=pointer]:
+              - /url: "?l=ru"
+              - text: Русский
+          - listitem [ref=e718]:
+            - link "This page is available in 简体中文" [ref=e719] [cursor=pointer]:
+              - /url: "?l=zh-Hans-CN"
+              - text: 简体中文
+          - listitem [ref=e720]:
+            - link "This page is available in Français (France)" [ref=e721] [cursor=pointer]:
+              - /url: "?l=fr-FR"
+              - text: Français (France)
+          - listitem [ref=e722]:
+            - link "This page is available in 한국어" [ref=e723] [cursor=pointer]:
+              - /url: "?l=ko"
+              - text: 한국어
+          - listitem [ref=e724]:
+            - link "This page is available in Português (Brazil)" [ref=e725] [cursor=pointer]:
+              - /url: "?l=pt-BR"
+              - text: Português (Brazil)
+          - listitem [ref=e726]:
+            - link "This page is available in Tiếng Việt" [ref=e727] [cursor=pointer]:
+              - /url: "?l=vi"
+              - text: Tiếng Việt
+          - listitem [ref=e728]:
+            - link "This page is available in 繁體中文 (台灣)" [ref=e729] [cursor=pointer]:
+              - /url: "?l=zh-Hant-TW"
+              - text: 繁體中文 (台灣)
+      - generic [ref=e730]:
+        - paragraph [ref=e731]:
+          - generic [ref=e732]:
+            - text: Copyright © 2026
+            - link "Apple Inc." [ref=e733] [cursor=pointer]:
+              - /url: https://www.apple.com
+          - text: All rights reserved.
+        - list [ref=e734]:
+          - listitem [ref=e735]:
+            - link "Internet Service Terms" [ref=e736] [cursor=pointer]:
+              - /url: https://www.apple.com/legal/internet-services/
+          - listitem [ref=e737]:
+            - link "App Store & Privacy" [ref=e738] [cursor=pointer]:
+              - /url: https://www.apple.com/legal/privacy/data/en/app-store/
+          - listitem [ref=e739]:
+            - link "Cookie Warning" [ref=e740] [cursor=pointer]:
+              - /url: https://www.apple.com/privacy/use-of-cookies/
+          - listitem [ref=e741]:
+            - link "Support" [ref=e742] [cursor=pointer]:
+              - /url: https://support.apple.com/billing

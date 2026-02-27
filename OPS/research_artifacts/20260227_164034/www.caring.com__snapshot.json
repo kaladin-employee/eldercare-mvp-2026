@@ -1,0 +1,794 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - img "Toggle menu" [ref=e8] [cursor=pointer]
+      - link "Caring.com" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - img "Caring.com" [ref=e14]
+      - navigation
+      - link "Phone" [ref=e17] [cursor=pointer]:
+        - /url: tel:+18005580653
+        - img [ref=e18]
+  - main [ref=e24]:
+    - generic [ref=e25]:
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - heading "We've helped over 100,000 seniors find a senior living community!" [level=1] [ref=e31]
+          - paragraph [ref=e33]:
+            - superscript [ref=e34]: Whether you're looking for a senior living community or help with in-home care, Caring is here to help make this process easier —
+            - superscript [ref=e35]: for free.
+        - generic [ref=e36]:
+          - separator [ref=e37]
+          - paragraph [ref=e38]: Where are you looking for care?
+          - generic [ref=e41]:
+            - textbox "search-keyword" [ref=e43]:
+              - /placeholder: Enter City, State or Zip
+            - generic [ref=e45]: Search
+          - 'link "Or speak to a Caring Family Advisor now: (800) 558-0653" [ref=e46] [cursor=pointer]':
+            - /url: tel:+8005580653
+            - 'heading "Or speak to a Caring Family Advisor now: (800) 558-0653" [level=5] [ref=e48]'
+      - generic [ref=e57]:
+        - img "A gradient cream background featuring the 2026 Caring Stars Badge is placed in the center of the image. 2026. Caring Stars. Top Rated on Caring.com with the Caring.com flower logo. The Caring Stars 2026 badge resembles a seal." [ref=e59]
+        - generic [ref=e60]:
+          - heading "Explore 2026's top-rated communities and agencies" [level=2] [ref=e61]
+          - paragraph [ref=e62]: The Caring Stars award is based on online reviews from seniors and their families, and serves as a trustworthy source for those seeking senior living and care.
+        - link "Read More" [ref=e64] [cursor=pointer]:
+          - /url: https://www.caring.com/bestseniorliving
+          - button "Read More" [ref=e65]
+      - generic [ref=e70]:
+        - generic [ref=e77]:
+          - heading "Family Advisors You Can Trust" [level=2] [ref=e78]
+          - paragraph [ref=e80]:
+            - text: Our Family Advisors set us apart in the industry with their expertise and
+            - text: passion, going above and beyond to help everyone they speak with.
+        - generic [ref=e82]:
+          - img "Family Advisor, Jenny" [ref=e84]
+          - generic [ref=e85]:
+            - heading "Jenny" [level=3] [ref=e86]
+            - heading "Senior Family Advisor, 6 years" [level=4] [ref=e87]
+            - paragraph [ref=e89]:
+              - text: Jenny enjoys working with families and seniors, assisting them with their senior care and service needs.
+              - text: "\"There is great satisfaction when I find the right services for a senior in need and I give a family peace of mind,\" she says. \"I'm passionate about the work I do. At the end of every day, I know that I am making a difference in a family's life.\""
+          - generic [ref=e90]:
+            - separator [ref=e91]
+            - blockquote [ref=e92]:
+              - paragraph [ref=e94]: Jenny was 100 times more helpful than what we could have expected. Amazed at the wealth of knowledge and support. Within one day we had all options available to us covered and discussed with an abundance of ideas and helpful direction. Thank you so much for making this difficult task easy.
+              - generic [ref=e96]:
+                - img "Scott Care Seeker" [ref=e97]
+                - generic [ref=e98]:
+                  - heading "Scott" [level=3] [ref=e99]
+                  - heading "Care seeker in January 2024" [level=4] [ref=e100]
+        - group [ref=e106]:
+          - button "Speak to a Family Advisor" [ref=e108] [cursor=pointer]
+      - generic [ref=e110]:
+        - generic [ref=e111]:
+          - heading "Navigate care with confidence" [level=2] [ref=e112]
+          - paragraph [ref=e113]: Take a brief quiz to find the care you need and get community recommendations near you.
+          - list [ref=e114]:
+            - listitem [ref=e115]:
+              - generic [ref=e116]: Unlock Pricing Info
+              - generic [ref=e117]: Unlock pricing from our directory of top rated communities
+            - listitem [ref=e118]:
+              - generic [ref=e119]: Personalize Your Results
+              - generic [ref=e120]: Receive a personalized list of communities that fit your needs
+            - listitem [ref=e121]:
+              - generic [ref=e122]: Compare Communities
+              - generic [ref=e123]: Compare using personalized list to find your best match
+          - button "Get Started" [ref=e124] [cursor=pointer]
+        - generic [ref=e125]:
+          - heading "Get Personalized Recommendations & Pricing" [level=3] [ref=e127]
+          - generic [ref=e128]:
+            - generic [ref=e131]: What type of care is needed?
+            - generic [ref=e132]:
+              - generic [ref=e133] [cursor=pointer]:
+                - radio "Need hands-on help with most tasks throughout the day"
+                - generic [ref=e135]: Need hands-on help with most tasks throughout the day
+              - generic [ref=e136] [cursor=pointer]:
+                - radio "Need reminders or some help with daily tasks like dressing, meals, or medications"
+                - generic [ref=e138]: Need reminders or some help with daily tasks like dressing, meals, or medications
+              - generic [ref=e139] [cursor=pointer]:
+                - radio "Very independent — able to manage everything themselves"
+                - generic [ref=e141]: Very independent — able to manage everything themselves
+      - generic [ref=e144]:
+        - img [ref=e146]
+        - generic [ref=e148]:
+          - heading "Estimate your senior living budget" [level=2] [ref=e150]
+          - generic [ref=e151]:
+            - generic [ref=e152]:
+              - img [ref=e153]
+              - generic [ref=e156]: Learn your monthly senior living budget in a just a few steps
+            - generic [ref=e157]:
+              - img [ref=e158]
+              - generic [ref=e161]: Get a curated list of communities that match your financial needs
+        - button "Find Matches" [ref=e162] [cursor=pointer]
+      - generic [ref=e167]:
+        - generic [ref=e168]:
+          - heading "Everything you need for your search" [level=2] [ref=e170]
+          - paragraph [ref=e172]: We work to ensure you are well-equipped to make the best decision for you and your loved ones.
+          - generic [ref=e173]:
+            - generic [ref=e174]:
+              - img [ref=e176]
+              - paragraph [ref=e179]: Detailed costs and photos
+              - paragraph [ref=e181]: Get comprehensive and up-to-date information for senior living and care providers.
+            - generic [ref=e182]:
+              - img [ref=e184]
+              - paragraph [ref=e187]: Thousands of listings
+              - paragraph [ref=e189]: View your options all in one place by using our free senior care directory, with listings across the U.S.
+            - generic [ref=e190]:
+              - img [ref=e192]
+              - paragraph [ref=e196]: Seasoned Family Advisors
+              - paragraph [ref=e198]: We help you explore the best options for you and your loved one based on your location and budget.
+            - generic [ref=e199]:
+              - img [ref=e201]
+              - paragraph [ref=e204]: Reviews from customers
+              - paragraph [ref=e206]: Learn about providers from seniors and their families, including details on food, atmosphere and staff.
+        - generic [ref=e208]:
+          - generic [ref=e209]: Find senior living facilities in any city
+          - generic [ref=e210]:
+            - textbox "Search by city or zip code" [ref=e211]
+            - button "Clear location" [ref=e212] [cursor=pointer]:
+              - img [ref=e213]
+            - button "Search" [ref=e216] [cursor=pointer]
+      - generic [ref=e226]:
+        - heading "Speak to a Caring Family Advisor" [level=2] [ref=e227]
+        - heading "We'll help narrow your search with recommended options that best meet your care, lifestyle, and budgetary needs." [level=3] [ref=e228]:
+          - paragraph [ref=e229]: We'll help narrow your search with recommended options that best meet your care, lifestyle, and budgetary needs.
+        - group [ref=e230]:
+          - generic [ref=e231]:
+            - button "Start Your Free Consultation" [ref=e232] [cursor=pointer]
+            - link "Call Us at (855) 948-3865" [ref=e233] [cursor=pointer]:
+              - /url: tel:tel:+18559483865
+              - img [ref=e235]
+              - text: Call Us at (855) 948-3865
+      - generic [ref=e238]:
+        - heading "Learn more about senior living and senior care" [level=2] [ref=e239]
+        - paragraph [ref=e241]:
+          - text: There are multiple types of care and communities available, so it's
+          - text: important to know which is the best fit for your needs.
+        - generic [ref=e242]:
+          - generic [ref=e243]:
+            - img [ref=e245]
+            - paragraph [ref=e248]: Assisted living
+            - paragraph [ref=e250]:
+              - text: At costs ranging from $1,200 to $8,000 per month,
+              - link "assisted living" [ref=e251] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living
+              - text: communities are a great choice for someone who needs help with activities of daily living, such as eating, grooming and bathing. Many also offer respite care (short-term stays).
+            - link "Learn More" [ref=e253] [cursor=pointer]:
+              - /url: https://www.caring.com/senior-living/assisted-living
+          - generic [ref=e254]:
+            - img [ref=e256]
+            - paragraph [ref=e259]: Memory care
+            - paragraph [ref=e261]:
+              - link "Memory care" [ref=e262] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities
+              - text: communities are specially designed living environments for people with Alzheimer's or other dementias. You can expect that staff members have extra training to help people with memory loss. Costs are $3,000 per month and up. Some also provide respite care.
+            - link "Learn More" [ref=e264] [cursor=pointer]:
+              - /url: https://www.caring.com/senior-living/memory-care-facilities
+          - generic [ref=e265]:
+            - img [ref=e267]
+            - paragraph [ref=e270]: In-home care
+            - paragraph [ref=e272]:
+              - text: For help with driving, getting around the house, meal preparation, companionship, and light housekeeping, hire a professional caregiver through an
+              - link "in-home care" [ref=e273] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care
+              - text: agency. Caregivers can be hired on a one-time basis or a regular monthly schedule. Rates usually range from $20 to $40 per hour.
+            - link "Learn More" [ref=e275] [cursor=pointer]:
+              - /url: https://www.caring.com/senior-care/in-home-care
+          - generic [ref=e276]:
+            - img [ref=e278]
+            - paragraph [ref=e281]: Independent living
+            - paragraph [ref=e283]:
+              - link "Independent living" [ref=e284] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/independent-living
+              - text: communities are great for residents who want to enjoy the perks of community living, but who don't need regular assistance with activities of daily living. Costs range from $1,000 to $4,000 per month.
+            - link "Learn More" [ref=e286] [cursor=pointer]:
+              - /url: https://www.caring.com/senior-living/independent-living
+          - generic [ref=e287]:
+            - img [ref=e289]
+            - paragraph [ref=e292]: Nursing homes
+            - paragraph [ref=e294]:
+              - text: Also called skilled nursing facilities (SNFs),
+              - link "nursing homes" [ref=e295] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/nursing-homes
+              - text: are staffed by skilled medical professionals who can provide 24-hour support. Some also offer short-term stays for someone who is transferring from the hospital but not yet ready to go home.
+            - link "Learn More" [ref=e297] [cursor=pointer]:
+              - /url: https://www.caring.com/senior-living/nursing-homes
+          - generic [ref=e298]:
+            - img [ref=e300]
+            - paragraph [ref=e303]: Hospice
+            - paragraph [ref=e305]:
+              - link "Hospice care" [ref=e306] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/hospices
+              - text: helps provide comfort to your loved one in their last days. Care teams specialize in keeping pain and suffering to a minimum. This care is often provided at home, but care teams can also go to a hospital or other care facility to provide relief.
+            - link "Learn More" [ref=e308] [cursor=pointer]:
+              - /url: https://www.caring.com/senior-care/hospices
+      - generic [ref=e313]:
+        - paragraph [ref=e314]: I’m so thankful there is a service available that helped me navigate the daunting task of learning how to choose a facility for my mother. There is so much to take into consideration that I never thought of.
+        - generic [ref=e315]:
+          - paragraph [ref=e316]: Trusted Customer
+          - paragraph [ref=e317]: 5-star review from 8/23/22
+      - generic [ref=e326]:
+        - generic [ref=e330]:
+          - heading "Share a review to help others like you" [level=3] [ref=e331]
+          - paragraph [ref=e333]:
+            - text: Firsthand reviews provide immense value to seniors and their families with similar needs and preferences as they navigate their search.
+            - text: We host the longest-running, highest-integrity senior living reviews program on the web — with over 400,000 consumer reviews published. We hope you’ll add yours today too!
+        - link "Write a Review" [ref=e338] [cursor=pointer]:
+          - /url: https://www.caring.com/review_submissions/new
+      - generic [ref=e341]:
+        - generic [ref=e342]:
+          - heading "Top resources for seniors and caregivers" [level=2] [ref=e343]
+          - paragraph [ref=e345]: We have thousands of expert-written articles to help you learn more about care options.
+        - generic [ref=e346]:
+          - generic [ref=e347]:
+            - link "Estate Planning Read more" [ref=e348] [cursor=pointer]:
+              - /url: https://www.caring.com/resources/wills-survey
+              - text: Estate Planning
+              - button "Read more" [ref=e349]
+            - img "Senior couple meeting with agent" [ref=e351]
+          - generic [ref=e353]:
+            - link "Paying for Care Read more" [ref=e354] [cursor=pointer]:
+              - /url: https://www.caring.com/resources/caregiver-finances
+              - text: Paying for Care
+              - button "Read more" [ref=e355]
+            - img "A wooden desk with a pencil, yellow graph paper and a calculator" [ref=e357]
+          - generic [ref=e359]:
+            - link "Alzheimer's and Other Dementias Read more" [ref=e360] [cursor=pointer]:
+              - /url: https://www.caring.com/resources/alzheimers
+              - text: Alzheimer's and Other Dementias
+              - button "Read more" [ref=e361]
+            - img "Alzheimer's and Other Dementias" [ref=e363]
+          - generic [ref=e365]:
+            - link "Senior Living Guide Read more" [ref=e366] [cursor=pointer]:
+              - /url: https://www.caring.com/senior-living
+              - text: Senior Living Guide
+              - button "Read more" [ref=e367]
+            - img "Senior Living Guide" [ref=e369]
+          - generic [ref=e371]:
+            - link "Tough Conversations with Aging Loved Ones Read more" [ref=e372] [cursor=pointer]:
+              - /url: https://www.caring.com/resources/starting-the-conversation
+              - text: Tough Conversations with Aging Loved Ones
+              - button "Read more" [ref=e373]
+            - img "A man and a woman gardening" [ref=e375]
+          - generic [ref=e377]:
+            - link "6 Indispensable Tech Tools for Family Caregivers Read more" [ref=e378] [cursor=pointer]:
+              - /url: https://www.caring.com/resources/caregiver-technology
+              - text: 6 Indispensable Tech Tools for Family Caregivers
+              - button "Read more" [ref=e379]
+            - img "Woman in a bright room, focused on her laptop" [ref=e381]
+          - generic [ref=e383]:
+            - link "Top Rated Communities and Agencies Read more" [ref=e384] [cursor=pointer]:
+              - /url: https://www.caring.com/bestseniorliving
+              - text: Top Rated Communities and Agencies
+              - button "Read more" [ref=e385]
+            - img "Top Rated Communities and Agencies" [ref=e387]
+          - generic [ref=e389]:
+            - link "A Guide to Medicare Benefits Read more" [ref=e390] [cursor=pointer]:
+              - /url: https://www.caring.com/medicare
+              - text: A Guide to Medicare Benefits
+              - button "Read more" [ref=e391]
+            - img "A Guide to Medicare Benefits" [ref=e393]
+          - generic [ref=e395]:
+            - link "A Guide to Veterans’ Benefits Read more" [ref=e396] [cursor=pointer]:
+              - /url: https://www.caring.com/resources/veterans-benefits
+              - text: A Guide to Veterans’ Benefits
+              - button "Read more" [ref=e397]
+            - img "A Guide to Veterans’ Benefits" [ref=e399]
+      - generic [ref=e405]:
+        - generic [ref=e412]:
+          - heading "The Experts Helping Families Every Day" [level=2] [ref=e413]
+          - paragraph [ref=e415]: Our Family Advisors bring real-world caregiving experience, deep expertise, and genuine compassion to every conversation. These trusted experts guide families through some of life’s biggest decisions with clarity and care.
+        - generic [ref=e417]:
+          - img "Headshot of senior family advisor Olga Kieran." [ref=e419]
+          - generic [ref=e420]:
+            - heading "Olga K." [level=3] [ref=e421]
+            - heading "Senior Family Advisor, 9 years" [level=4] [ref=e422]
+            - generic [ref=e423]:
+              - paragraph [ref=e424]:
+                - text: Olga has helped
+                - strong [ref=e425]: 1,200+ families
+                - text: move into senior living communities, approaching every conversation with the same care she’d want for her own mother. Supporting families through the same challenges she faced with her own elderly loved ones is truly meaningful to her, and she considers it an honor to help others navigate this stage with clarity and compassion.
+              - paragraph [ref=e426]
+              - paragraph [ref=e427]: She never forgets that each caller is a real person; someone’s mom, dad, or loved one, and that perspective guides the compassion and respect she brings to every family she supports.
+          - generic [ref=e428]:
+            - separator [ref=e429]
+            - blockquote [ref=e430]:
+              - generic [ref=e431]:
+                - paragraph [ref=e432]
+                - paragraph [ref=e433]:
+                  - emphasis [ref=e434]:
+                    - strong [ref=e435]: “
+                    - text: I once worked with a woman who’d been discharged from the hospital to an Airbnb with no family to help her. The property owner called me, worried, and he didn’t feel right just leaving her there alone as she was dioriented. Together, we quickly found a senior living community that could offer the support she needed.
+                - paragraph [ref=e436]
+                - paragraph [ref=e437]:
+                  - emphasis [ref=e438]:
+                    - text: The community partner picked her up, had her assessed by a nurse, and moved her into a fully furnished apartment the very same day. I was incredibly grateful that the Airbnb owner trusted his instincts and reached out. His compassion, and our teamwork, truly changed her outcome.
+                    - strong [ref=e439]: ”
+              - generic [ref=e442]:
+                - heading "— A Success Story from Olga" [level=3] [ref=e443]
+                - heading [level=4]
+        - group [ref=e449]:
+          - generic [ref=e450]:
+            - link "Learn More About Olga" [ref=e451] [cursor=pointer]:
+              - /url: /experts/olga-k
+            - link "Meet More Experts" [ref=e452] [cursor=pointer]:
+              - /url: https://www.caring.com/experts
+        - generic [ref=e454]:
+          - heading "Featured In:" [level=2] [ref=e455]
+          - generic [ref=e456]:
+            - img "AARP logo" [ref=e458]
+            - img "The Wall Street Journal Logo" [ref=e460]
+            - img "Better Homes & Gardens Logo" [ref=e462]
+            - img "CBS News Logo" [ref=e464]
+      - generic [ref=e467]:
+        - heading "Want to do your own research?" [level=2] [ref=e468]
+        - paragraph [ref=e470]: We have everything you need to get started based on your location.
+      - generic [ref=e475]:
+        - generic [ref=e477]:
+          - heading "Select your state and browse our filterable database to begin" [level=4] [ref=e479]
+          - list [ref=e481]:
+            - listitem [ref=e482]:
+              - link "Alabama" [ref=e483] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/alabama
+            - listitem [ref=e484]:
+              - link "Alaska" [ref=e485] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/alaska
+            - listitem [ref=e486]:
+              - link "Arizona" [ref=e487] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/arizona
+            - listitem [ref=e488]:
+              - link "Arkansas" [ref=e489] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/arkansas
+            - listitem [ref=e490]:
+              - link "California" [ref=e491] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/california
+            - listitem [ref=e492]:
+              - link "Colorado" [ref=e493] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/colorado
+            - listitem [ref=e494]:
+              - link "Connecticut" [ref=e495] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/connecticut
+            - listitem [ref=e496]:
+              - link "Delaware" [ref=e497] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/delaware
+            - listitem [ref=e498]:
+              - link "District Of Columbia" [ref=e499] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/district-of-columbia
+            - listitem [ref=e500]:
+              - link "Florida" [ref=e501] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/florida
+            - listitem [ref=e502]:
+              - link "Georgia" [ref=e503] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/georgia
+            - listitem [ref=e504]:
+              - link "Hawaii" [ref=e505] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/hawaii
+            - listitem [ref=e506]:
+              - link "Idaho" [ref=e507] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/idaho
+            - listitem [ref=e508]:
+              - link "Illinois" [ref=e509] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/illinois
+            - listitem [ref=e510]:
+              - link "Indiana" [ref=e511] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/indiana
+            - listitem [ref=e512]:
+              - link "Iowa" [ref=e513] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/iowa
+            - listitem [ref=e514]:
+              - link "Kansas" [ref=e515] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/kansas
+            - listitem [ref=e516]:
+              - link "Kentucky" [ref=e517] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/kentucky
+            - listitem [ref=e518]:
+              - link "Louisiana" [ref=e519] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/louisiana
+            - listitem [ref=e520]:
+              - link "Maine" [ref=e521] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/maine
+            - listitem [ref=e522]:
+              - link "Maryland" [ref=e523] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/maryland
+            - listitem [ref=e524]:
+              - link "Massachusetts" [ref=e525] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/massachusetts
+            - listitem [ref=e526]:
+              - link "Michigan" [ref=e527] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/michigan
+            - listitem [ref=e528]:
+              - link "Minnesota" [ref=e529] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/minnesota
+            - listitem [ref=e530]:
+              - link "Mississippi" [ref=e531] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/mississippi
+            - listitem [ref=e532]:
+              - link "Missouri" [ref=e533] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/missouri
+            - listitem [ref=e534]:
+              - link "Montana" [ref=e535] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/montana
+            - listitem [ref=e536]:
+              - link "Nebraska" [ref=e537] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/nebraska
+            - listitem [ref=e538]:
+              - link "Nevada" [ref=e539] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/nevada
+            - listitem [ref=e540]:
+              - link "New Hampshire" [ref=e541] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/new-hampshire
+            - listitem [ref=e542]:
+              - link "New Jersey" [ref=e543] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/new-jersey
+            - listitem [ref=e544]:
+              - link "New Mexico" [ref=e545] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/new-mexico
+            - listitem [ref=e546]:
+              - link "New York" [ref=e547] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/new-york
+            - listitem [ref=e548]:
+              - link "North Carolina" [ref=e549] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/north-carolina
+            - listitem [ref=e550]:
+              - link "North Dakota" [ref=e551] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/north-dakota
+            - listitem [ref=e552]:
+              - link "Ohio" [ref=e553] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/ohio
+            - listitem [ref=e554]:
+              - link "Oklahoma" [ref=e555] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/oklahoma
+            - listitem [ref=e556]:
+              - link "Oregon" [ref=e557] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/oregon
+            - listitem [ref=e558]:
+              - link "Pennsylvania" [ref=e559] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/pennsylvania
+            - listitem [ref=e560]:
+              - link "Rhode Island" [ref=e561] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/rhode-island
+            - listitem [ref=e562]:
+              - link "South Carolina" [ref=e563] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/south-carolina
+            - listitem [ref=e564]:
+              - link "South Dakota" [ref=e565] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/south-dakota
+            - listitem [ref=e566]:
+              - link "Tennessee" [ref=e567] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/tennessee
+            - listitem [ref=e568]:
+              - link "Texas" [ref=e569] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/texas
+            - listitem [ref=e570]:
+              - link "Utah" [ref=e571] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/utah
+            - listitem [ref=e572]:
+              - link "Vermont" [ref=e573] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/vermont
+            - listitem [ref=e574]:
+              - link "Virginia" [ref=e575] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/virginia
+            - listitem [ref=e576]:
+              - link "Washington" [ref=e577] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/washington
+            - listitem [ref=e578]:
+              - link "West Virginia" [ref=e579] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/west-virginia
+            - listitem [ref=e580]:
+              - link "Wisconsin" [ref=e581] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/wisconsin
+            - listitem [ref=e582]:
+              - link "Wyoming" [ref=e583] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/wyoming
+        - generic [ref=e585]:
+          - heading "Find Assisted Living in these popular cities" [level=4] [ref=e587]
+          - list [ref=e589]:
+            - listitem [ref=e590]:
+              - link "Assisted Living in Albuquerque" [ref=e591] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/new-mexico/albuquerque
+            - listitem [ref=e592]:
+              - link "Assisted Living in Atlanta" [ref=e593] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/georgia/atlanta
+            - listitem [ref=e594]:
+              - link "Assisted Living in Baltimore" [ref=e595] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/maryland/baltimore
+            - listitem [ref=e596]:
+              - link "Assisted Living in Chicago" [ref=e597] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/illinois/chicago
+            - listitem [ref=e598]:
+              - link "Assisted Living in Cincinnati" [ref=e599] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/ohio/cincinnati
+            - listitem [ref=e600]:
+              - link "Assisted Living in Denver" [ref=e601] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/colorado/denver
+            - listitem [ref=e602]:
+              - link "Assisted Living in Houston" [ref=e603] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/texas/houston
+            - listitem [ref=e604]:
+              - link "Assisted Living in Indianapolis" [ref=e605] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/indiana/indianapolis
+            - listitem [ref=e606]:
+              - link "Assisted Living in Knoxville" [ref=e607] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/tennessee/knoxville
+            - listitem [ref=e608]:
+              - link "Assisted Living in Las Vegas" [ref=e609] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/nevada/las-vegas
+            - listitem [ref=e610]:
+              - link "Assisted Living in Los Angeles" [ref=e611] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/california/los-angeles
+            - listitem [ref=e612]:
+              - link "Assisted Living in Louisville" [ref=e613] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/kentucky/louisville
+            - listitem [ref=e614]:
+              - link "Assisted Living in Miami" [ref=e615] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/florida/miami
+            - listitem [ref=e616]:
+              - link "Assisted Living in Oklahoma City" [ref=e617] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/oklahoma/oklahoma-city
+            - listitem [ref=e618]:
+              - link "Assisted Living in Phoenix" [ref=e619] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/arizona/phoenix
+            - listitem [ref=e620]:
+              - link "Assisted Living in Pittsburgh" [ref=e621] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/pennsylvania/pittsburgh
+            - listitem [ref=e622]:
+              - link "Assisted Living in Portland" [ref=e623] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/oregon/portland
+            - listitem [ref=e624]:
+              - link "Assisted Living in Seattle" [ref=e625] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/assisted-living/washington/seattle
+        - generic [ref=e627]:
+          - heading "Find Memory Care in these popular cities" [level=4] [ref=e629]
+          - list [ref=e631]:
+            - listitem [ref=e632]:
+              - link "Memory Care in Albuquerque" [ref=e633] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/new-mexico/albuquerque
+            - listitem [ref=e634]:
+              - link "Memory Care in Atlanta" [ref=e635] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/georgia/atlanta
+            - listitem [ref=e636]:
+              - link "Memory Care in Baltimore" [ref=e637] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/maryland/baltimore
+            - listitem [ref=e638]:
+              - link "Memory Care in Charlotte" [ref=e639] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/north-carolina/charlotte
+            - listitem [ref=e640]:
+              - link "Memory Care in Cincinnati" [ref=e641] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/ohio/cincinnati
+            - listitem [ref=e642]:
+              - link "Memory Care in Colorado Springs" [ref=e643] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/colorado/colorado-springs
+            - listitem [ref=e644]:
+              - link "Memory Care in Greenville" [ref=e645] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/south-carolina/greenville
+            - listitem [ref=e646]:
+              - link "Memory Care in Houston" [ref=e647] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/texas/houston
+            - listitem [ref=e648]:
+              - link "Memory Care in Jacksonville" [ref=e649] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/florida/jacksonville
+            - listitem [ref=e650]:
+              - link "Memory Care in Knoxville" [ref=e651] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/tennessee/knoxville
+            - listitem [ref=e652]:
+              - link "Memory Care in Las Vegas" [ref=e653] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/nevada/las-vegas
+            - listitem [ref=e654]:
+              - link "Memory Care in Louisville" [ref=e655] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/kentucky/louisville
+            - listitem [ref=e656]:
+              - link "Memory Care in Oklahoma City" [ref=e657] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/oklahoma/oklahoma-city
+            - listitem [ref=e658]:
+              - link "Memory Care in Overland Park" [ref=e659] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/kansas/overland-park
+            - listitem [ref=e660]:
+              - link "Memory Care in Pittsburgh" [ref=e661] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/pennsylvania/pittsburgh
+            - listitem [ref=e662]:
+              - link "Memory Care in Salem" [ref=e663] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/oregon/salem
+            - listitem [ref=e664]:
+              - link "Memory Care in San Diego" [ref=e665] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/california/san-diego
+            - listitem [ref=e666]:
+              - link "Memory Care in Tucson" [ref=e667] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-living/memory-care-facilities/arizona/tucson
+        - generic [ref=e669]:
+          - heading "Find Home Care in these popular cities" [level=4] [ref=e671]
+          - list [ref=e673]:
+            - listitem [ref=e674]:
+              - link "Home Care in Atlanta" [ref=e675] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/georgia/atlanta
+            - listitem [ref=e676]:
+              - link "Home Care in Charlotte" [ref=e677] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/north-carolina/charlotte
+            - listitem [ref=e678]:
+              - link "Home Care in Chicago" [ref=e679] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/illinois/chicago
+            - listitem [ref=e680]:
+              - link "Home Care in Cleveland" [ref=e681] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/ohio/cleveland
+            - listitem [ref=e682]:
+              - link "Home Care in Denver" [ref=e683] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/colorado/denver
+            - listitem [ref=e684]:
+              - link "Home Care in Fairfax" [ref=e685] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/virginia/fairfax
+            - listitem [ref=e686]:
+              - link "Home Care in Houston" [ref=e687] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/texas/houston
+            - listitem [ref=e688]:
+              - link "Home Care in Kansas City" [ref=e689] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/kansas/kansas-city
+            - listitem [ref=e690]:
+              - link "Home Care in Los Angeles" [ref=e691] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/california/los-angeles
+            - listitem [ref=e692]:
+              - link "Home Care in Miami" [ref=e693] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/florida/miami
+            - listitem [ref=e694]:
+              - link "Home Care in New York" [ref=e695] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/new-york/new-york
+            - listitem [ref=e696]:
+              - link "Home Care in Philadelphia" [ref=e697] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/pennsylvania/philadelphia
+            - listitem [ref=e698]:
+              - link "Home Care in Phoenix" [ref=e699] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/arizona/phoenix
+            - listitem [ref=e700]:
+              - link "Home Care in Seattle" [ref=e701] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/washington/seattle
+            - listitem [ref=e702]:
+              - link "Home Care in Silver Spring" [ref=e703] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/maryland/silver-spring
+            - listitem [ref=e704]:
+              - link "Home Care in Stamford" [ref=e705] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/connecticut/stamford
+            - listitem [ref=e706]:
+              - link "Home Care in Trenton" [ref=e707] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/new-jersey/trenton
+            - listitem [ref=e708]:
+              - link "Home Care in Washington" [ref=e709] [cursor=pointer]:
+                - /url: https://www.caring.com/senior-care/in-home-care/district-of-columbia/washington
+  - contentinfo [ref=e711]:
+    - generic [ref=e713]:
+      - generic [ref=e714]:
+        - generic [ref=e717]:
+          - img "Caring.com" [ref=e719]
+          - generic [ref=e720]:
+            - paragraph [ref=e721]: Caring.com is a leading online destination for caregivers seeking information and support as they care for aging parents, spouses, and other loved ones. We offer thousands of original articles, helpful tools, advice from more than 50 leading experts, a community of caregivers, and a comprehensive directory of caregiving services.
+            - paragraph [ref=e722]
+            - paragraph [ref=e723]:
+              - text: The material on this site is for informational purposes only and is not a substitute for legal, financial, professional, or medical advice or diagnosis or treatment. By using our website, you agree to the
+              - link "Terms of Use" [ref=e725] [cursor=pointer]:
+                - /url: /about/terms
+              - text: and
+              - link "Privacy Policy" [ref=e727] [cursor=pointer]:
+                - /url: /about/privacy
+              - text: .
+        - generic [ref=e729]:
+          - generic [ref=e730]:
+            - paragraph [ref=e731]: Our Services
+            - list [ref=e732]:
+              - listitem [ref=e733]:
+                - paragraph [ref=e734]:
+                  - link "Senior Living Directory" [ref=e735] [cursor=pointer]:
+                    - /url: /senior-living
+              - listitem [ref=e736]:
+                - paragraph [ref=e737]:
+                  - link "Senior Care Directory" [ref=e738] [cursor=pointer]:
+                    - /url: /senior-care
+              - listitem [ref=e739]:
+                - paragraph [ref=e740]:
+                  - link "Resources" [ref=e741] [cursor=pointer]:
+                    - /url: /resources
+              - listitem [ref=e742]:
+                - paragraph [ref=e743]:
+                  - link "Senior Products" [ref=e744] [cursor=pointer]:
+                    - /url: /senior-products
+              - listitem [ref=e745]:
+                - paragraph [ref=e746]:
+                  - link "Sitemap" [ref=e747] [cursor=pointer]:
+                    - /url: /sitemap
+              - listitem [ref=e748]:
+                - paragraph [ref=e749]:
+                  - link "Terms of Use" [ref=e750] [cursor=pointer]:
+                    - /url: /about/terms
+              - listitem [ref=e751]:
+                - paragraph [ref=e752]:
+                  - link "Privacy Policy" [ref=e753] [cursor=pointer]:
+                    - /url: /about/privacy
+              - listitem [ref=e754]:
+                - paragraph [ref=e755]:
+                  - link "Do Not Sell My Personal Information" [ref=e756] [cursor=pointer]:
+                    - /url: /about/privacy/do-not-sell
+          - generic [ref=e757]:
+            - paragraph [ref=e758]: Partners
+            - list [ref=e759]:
+              - listitem [ref=e760]:
+                - paragraph [ref=e761]:
+                  - link "Senior Living Partner Sign In" [ref=e762] [cursor=pointer]:
+                    - /url: https://partner-portal.caring.com/auth/sign-in
+              - listitem [ref=e763]:
+                - paragraph [ref=e764]:
+                  - link "Home Care Partner Sign In" [ref=e765] [cursor=pointer]:
+                    - /url: https://myportal.caring.com
+              - listitem [ref=e766]:
+                - paragraph [ref=e767]:
+                  - link "Get Referrals" [ref=e768] [cursor=pointer]:
+                    - /url: /partners/get-referrals
+              - listitem [ref=e769]:
+                - paragraph [ref=e770]:
+                  - link "For Our Partners" [ref=e771] [cursor=pointer]:
+                    - /url: https://partners.caring.com
+          - generic [ref=e772]:
+            - paragraph [ref=e773]: Who We Are
+            - list [ref=e774]:
+              - listitem [ref=e775]:
+                - paragraph [ref=e776]:
+                  - link "About Caring.com" [ref=e777] [cursor=pointer]:
+                    - /url: /about
+              - listitem [ref=e778]:
+                - paragraph [ref=e779]:
+                  - link "Meet Our Experts" [ref=e780] [cursor=pointer]:
+                    - /url: /experts
+              - listitem [ref=e781]:
+                - paragraph [ref=e782]:
+                  - link "News & Press Center" [ref=e783] [cursor=pointer]:
+                    - /url: /about/news
+              - listitem [ref=e784]:
+                - paragraph [ref=e785]:
+                  - link "How We Make Money" [ref=e786] [cursor=pointer]:
+                    - /url: /about/how-we-make-money
+              - listitem [ref=e787]:
+                - paragraph [ref=e788]:
+                  - link "Reviews FAQ" [ref=e789] [cursor=pointer]:
+                    - /url: /about/reviews_faq
+              - listitem [ref=e790]:
+                - paragraph [ref=e791]:
+                  - link "Careers" [ref=e792] [cursor=pointer]:
+                    - /url: https://careers.caring.com/careers/
+              - listitem [ref=e793]:
+                - paragraph [ref=e794]:
+                  - link "Contact Us" [ref=e795] [cursor=pointer]:
+                    - /url: /about/contact
+          - generic [ref=e796]:
+            - paragraph [ref=e797]: Find Care
+            - list [ref=e798]:
+              - listitem [ref=e799]:
+                - paragraph [ref=e800]:
+                  - link "Assisted Living Near Me" [ref=e801] [cursor=pointer]:
+                    - /url: /senior-living/assisted-living
+              - listitem [ref=e802]:
+                - paragraph [ref=e803]:
+                  - link "Senior Living Near Me" [ref=e804] [cursor=pointer]:
+                    - /url: /senior-living
+              - listitem [ref=e805]:
+                - paragraph [ref=e806]:
+                  - link "Independent Living Near Me" [ref=e807] [cursor=pointer]:
+                    - /url: /senior-living/independent-living
+              - listitem [ref=e808]:
+                - paragraph [ref=e809]:
+                  - link "Home Care Near Me" [ref=e810] [cursor=pointer]:
+                    - /url: /senior-care/in-home-care
+              - listitem [ref=e811]:
+                - paragraph [ref=e812]:
+                  - link "Memory Care Near Me" [ref=e813] [cursor=pointer]:
+                    - /url: /senior-living/memory-care-facilities
+              - listitem [ref=e814]:
+                - paragraph [ref=e815]:
+                  - link "Nursing Homes Near Me" [ref=e816] [cursor=pointer]:
+                    - /url: /senior-living/nursing-homes
+      - separator [ref=e817]
+      - generic [ref=e818]:
+        - paragraph [ref=e819]: © 2026 Caring, LLC. All rights reserved.
+        - group [ref=e820]:
+          - generic [ref=e821]:
+            - link "LinkedIn" [ref=e822] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/caring-com
+              - img [ref=e823]
+            - link "Footer" [ref=e825] [cursor=pointer]:
+              - /url: https://www.facebook.com/caringcom
+              - img [ref=e826]

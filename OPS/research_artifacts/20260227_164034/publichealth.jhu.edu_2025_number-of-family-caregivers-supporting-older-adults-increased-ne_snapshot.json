@@ -1,0 +1,209 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - banner [ref=e5]:
+        - generic [ref=e7]:
+          - link "Home" [ref=e10] [cursor=pointer]:
+            - /url: /
+            - img "Home" [ref=e11]
+          - button "Toggle menus" [ref=e12] [cursor=pointer]:
+            - generic: Toggle menus
+      - main [ref=e14]:
+        - article [ref=e16]:
+          - generic [ref=e17]:
+            - generic [ref=e21]:
+              - generic [ref=e22]:
+                - generic [ref=e23]: Bloomberg School
+                - heading "Number of Family Caregivers Supporting Older Adults Increased Nearly One-Third Between 2011 and 2022" [level=1] [ref=e24]
+                - paragraph [ref=e27]:
+                  - emphasis [ref=e28]: Study finds caregiver experiences remained generally stable—except for those caring for older adults with dementia
+              - generic [ref=e29]:
+                - generic [ref=e30]:
+                  - generic [ref=e31]: Published
+                  - time [ref=e33]: February 04, 2025
+                - link "Aging" [ref=e36] [cursor=pointer]:
+                  - /url: https://publichealth.jhu.edu/topics/aging-and-public-health
+            - generic [ref=e37]:
+              - generic [ref=e38]:
+                - figure [ref=e42]:
+                  - img "Image of middle aged woman helping an older woman out of bed" [ref=e45]
+                - generic [ref=e50]:
+                  - paragraph [ref=e51]: The number of family caregivers supporting older adults living in home and residential-care settings increased 32%, from 18.2 million to 24.1 million, between 2011 and 2022, according to a new study led by researchers at the Johns Hopkins Bloomberg School of Public Health and the University of Michigan’s Institute for Social Research.
+                  - paragraph [ref=e52]:
+                    - text: The
+                    - link "study" [ref=e53] [cursor=pointer]:
+                      - /url: https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2024.00978?journalCode=hlthaff
+                    - text: ", published online February 3 in"
+                    - emphasis [ref=e54]: Health Affairs
+                    - text: ", found that care hours provided by family and other unpaid caregivers to older adults with dementia increased by nearly 50%, from an average of 21.4 hours per week in 2011 to 31.0 hours in 2022. The authors say this increase may be due in part to a rise in the number of caregivers living with those they assist."
+                  - paragraph [ref=e55]: For their analysis, the researchers used the National Health and Aging Trends Study (NHATS) and the National Study of Caregiving (NSOC) from 2011 and 2022. NHATS interviews a representative group of older adults enrolled in Medicare each year about their daily activities, while the NSOC gathers information annually on unpaid and family caregivers. The study included samples of older adults who received help with self-care, mobility, or household activities for health or functioning reasons, and the family or unpaid caregivers who assisted them. About 12% of unpaid caregivers in 2022 were non-family, such as friends or neighbors, with the balance of caregivers identifying themselves as relatives.
+                  - paragraph [ref=e56]: NHATS and NSOC are led by researchers at the Johns Hopkins Bloomberg School of Public Health and the University of Michigan’s Institute for Social Research with support from the National Institute on Aging, part of the National Institutes of Health.
+                  - paragraph [ref=e57]: The researchers found that in 2022, caregivers were assisting older adults who were generally younger, better educated, and more likely to be male than in 2011. Among older adults with dementia, the size of care networks was stable. Caregivers reported little change in caregiving difficulty or competing responsibilities, such as employment and childcare—despite reporting reduced reliance on supportive services like respite care and support groups.
+                  - paragraph [ref=e58]:
+                    - text: “Our results show remarkable stability in caregiving experiences, even as the number of caregivers has increased significantly,” says
+                    - link "Jennifer L. Wolff, PhD" [ref=e59] [cursor=pointer]:
+                      - /url: https://publichealth.jhu.edu/faculty/68/jennifer-l-wolff
+                    - text: ", director of the Roger and Flo Lipitz Center to Advance Policy in Aging and Disability. “This runs counter to the policy narrative that emphasizes dire concern about the effects of increasing demands being placed on family caregivers. However, we must address the specific challenges faced by subgroups, particularly those caring for individuals with dementia.”"
+                  - paragraph [ref=e60]: Caregiving responsibilities continue to fall primarily to women and some subgroups at greater risk for negative consequences—including caregivers to persons with dementia and those who have limited financial resources. With the population of adults age 85 and older projected to triple by 2050, researchers say there is an urgent need to address disparities in caregiver experiences.
+                  - paragraph [ref=e61]: "For their study, the researchers examined three things: changes in the number and composition of older adults receiving family care; changes in the size and profile of the older family caregiver workforce; and changes in family caregivers with respect to older adults’ dementia status. For the first category, the NHATS sample included 2,408 older adults in 2011 and 1,856 in 2022. For the second two categories, the NSOC sample included 1,969 family caregivers in 2011 and 2,122 in 2022."
+                  - paragraph [ref=e62]: The researchers note that while caregiving can be a manageable commitment for some, it proves especially challenging for the many Americans who support a person with severe disabilities or dementia. With an increasing emphasis on value-based care and aging in place, there is often an assumption that family caregivers are available and have the capacity to provide needed support.
+                  - paragraph [ref=e63]: The researchers recommend that policymakers develop strong support systems for family caregivers. Current initiatives, such as Medicaid waivers, the Medicare hospice benefit, and state-level paid family leave policies, provide targeted support. Researchers advocate for a cohesive national strategy to address caregivers’ financial, emotional, and physical challenges.
+                  - paragraph [ref=e64]: “Family caregivers are critical to our care-delivery system,” says Wolff. “Looking ahead, we must identify and support their needs to ensure they can continue providing the critical support that millions of older adults rely on.”
+                  - paragraph [ref=e65]: The study was supported by the National Institute on Aging (U01AG032947 and R01AG062477).
+                  - paragraph [ref=e66]:
+                    - text: “
+                    - link "The Number of Family Caregivers Helping Older U.S. Adults Increased From 18 Million to 24 Million, 2011–22" [ref=e67] [cursor=pointer]:
+                      - /url: https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2024.00978?journalCode=hlthaff
+                    - text: ” was written by Jennifer L. Wolff, Jennifer C. Cornman, and Vicki A. Freedman.
+                  - paragraph [ref=e68]: "# # #"
+                  - paragraph [ref=e69]:
+                    - text: "Media contacts: Kate Sam"
+                    - link "ksam2@jh.edu" [ref=e70] [cursor=pointer]:
+                      - /url: mailto:ksam2@jh.edu
+                    - text: or Kris Henry
+                    - link "khenry39@jhu.edu" [ref=e71] [cursor=pointer]:
+                      - /url: mailto:khenry39@jhu.edu
+              - generic [ref=e72]:
+                - generic [ref=e73]:
+                  - heading "More from the Bloomberg School" [level=2] [ref=e74]
+                  - list [ref=e75]:
+                    - listitem [ref=e76]:
+                      - link "Visit our newsroom" [ref=e77] [cursor=pointer]:
+                        - /url: /headlines/newsroom
+                    - listitem [ref=e78]:
+                      - link "Learn more about the Department of Health Policy and Management" [ref=e79] [cursor=pointer]:
+                        - /url: /departments/health-policy-and-management
+                - generic [ref=e81]:
+                  - heading "Related Content" [level=2] [ref=e83]
+                  - generic [ref=e84]:
+                    - article [ref=e88]:
+                      - link [ref=e89] [cursor=pointer]:
+                        - /url: /2026/majority-of-older-dually-eligible-medicaid-recipients-opt-for-self-direction
+                        - figure [ref=e91]:
+                          - img "An elderly woman seated in a wheelchair is hugged from behind by a younger woman. The two smile at the camera." [ref=e94]
+                      - heading "New Study Finds Majority of Older Dually Eligible Medicaid-Medicare Recipients in Six States Opt for Hiring and Paying Caregivers of Their Choosing" [level=3] [ref=e95]:
+                        - link "New Study Finds Majority of Older Dually Eligible Medicaid-Medicare Recipients in Six States Opt for Hiring and Paying Caregivers of Their Choosing" [ref=e96] [cursor=pointer]:
+                          - /url: /2026/majority-of-older-dually-eligible-medicaid-recipients-opt-for-self-direction
+                      - time [ref=e99]: January 16, 2026
+                    - article [ref=e103]:
+                      - link [ref=e104] [cursor=pointer]:
+                        - /url: /2025/the-health-and-economic-benefits-of-vaccines
+                        - figure [ref=e106]:
+                          - img "Patient speaks with their doctor following a vaccine" [ref=e109]
+                      - heading "Vaccines Do More Than Prevent Disease" [level=3] [ref=e110]:
+                        - link "Vaccines Do More Than Prevent Disease" [ref=e111] [cursor=pointer]:
+                          - /url: /2025/the-health-and-economic-benefits-of-vaccines
+                      - time [ref=e114]: November 04, 2025
+                    - article [ref=e118]:
+                      - link [ref=e119] [cursor=pointer]:
+                        - /url: /2025/federal-housing-assistance-linked-to-earlier-cancer-diagnosis-in-older-adults
+                        - figure [ref=e121]:
+                          - img "Young man talking to senior citizen" [ref=e124]
+                      - heading "Federal Housing Assistance Linked to Earlier Cancer Diagnosis in Older Adults" [level=3] [ref=e125]:
+                        - link "Federal Housing Assistance Linked to Earlier Cancer Diagnosis in Older Adults" [ref=e126] [cursor=pointer]:
+                          - /url: /2025/federal-housing-assistance-linked-to-earlier-cancer-diagnosis-in-older-adults
+                      - time [ref=e129]: October 08, 2025
+                    - article [ref=e133]:
+                      - link [ref=e134] [cursor=pointer]:
+                        - /url: /2025/what-is-the-caregiver-crisis
+                        - figure [ref=e136]:
+                          - img "A closeup of two people holding hands at a table. One of the people is younger than the other." [ref=e139]
+                      - heading "What Is the Caregiver Crisis?" [level=3] [ref=e140]:
+                        - link "What Is the Caregiver Crisis?" [ref=e141] [cursor=pointer]:
+                          - /url: /2025/what-is-the-caregiver-crisis
+                      - time [ref=e144]: July 28, 2025
+                    - article [ref=e148]:
+                      - link [ref=e149] [cursor=pointer]:
+                        - /url: /2025/grant-renewal-ensures-training-for-next-generation-of-research-on-aging-continues
+                        - figure [ref=e151]:
+                          - img "Four women standing side by side in front of presentation poster" [ref=e154]
+                      - heading "Grant Renewal Ensures Training for Next Generation of Research on Aging Continues" [level=3] [ref=e155]:
+                        - link "Grant Renewal Ensures Training for Next Generation of Research on Aging Continues" [ref=e156] [cursor=pointer]:
+                          - /url: /2025/grant-renewal-ensures-training-for-next-generation-of-research-on-aging-continues
+                      - time [ref=e159]: July 25, 2025
+    - contentinfo [ref=e160]:
+      - generic [ref=e161]:
+        - generic [ref=e162]:
+          - generic [ref=e163]:
+            - paragraph [ref=e166]:
+              - strong [ref=e167]: Johns Hopkins Bloomberg School of Public Health
+              - link "615 N. Wolfe Street, Baltimore, MD 21205" [ref=e168] [cursor=pointer]:
+                - /url: https://goo.gl/maps/p6Eowe2n6W2FuJ3k7
+            - navigation "Footer social" [ref=e169]:
+              - heading "Footer social" [level=2] [ref=e170]
+              - list [ref=e171]:
+                - listitem [ref=e172]:
+                  - link "LinkedIn" [ref=e173] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/school/johns-hopkins-bloomberg-school-of-public-health/
+                - listitem [ref=e174]:
+                  - link "Facebook" [ref=e175] [cursor=pointer]:
+                    - /url: https://www.facebook.com/JohnsHopkinsSPH
+                - listitem [ref=e176]:
+                  - link "Instagram" [ref=e177] [cursor=pointer]:
+                    - /url: https://www.instagram.com/johnshopkinssph/
+                - listitem [ref=e178]:
+                  - link "BlueSky" [ref=e179] [cursor=pointer]:
+                    - /url: https://bsky.app/profile/johnshopkinssph.bsky.social
+                - listitem [ref=e180]:
+                  - link "X (Formerly Twitter)" [ref=e181] [cursor=pointer]:
+                    - /url: https://twitter.com/JohnsHopkinsSPH
+                - listitem [ref=e182]:
+                  - link "Youtube" [ref=e183] [cursor=pointer]:
+                    - /url: https://www.youtube.com/user/JohnsHopkinsSPH
+          - navigation "Footer menu primary" [ref=e185]:
+            - heading "Footer menu primary" [level=2] [ref=e186]
+            - list [ref=e187]:
+              - listitem [ref=e188]:
+                - link "Offices & Services" [ref=e189] [cursor=pointer]:
+                  - /url: /offices-and-services
+              - listitem [ref=e190]:
+                - link "Alumni" [ref=e191] [cursor=pointer]:
+                  - /url: /alumni
+              - listitem [ref=e192]:
+                - link "Giving" [ref=e193] [cursor=pointer]:
+                  - /url: /giving
+              - listitem [ref=e194]:
+                - link "Calendars" [ref=e195] [cursor=pointer]:
+                  - /url: /calendars-at-the-bloomberg-school
+              - listitem [ref=e196]:
+                - link "Careers" [ref=e197] [cursor=pointer]:
+                  - /url: /careers
+              - listitem [ref=e198]:
+                - link "Contact Us" [ref=e199] [cursor=pointer]:
+                  - /url: /contact-us
+          - navigation "Footer menu secondary" [ref=e201]:
+            - heading "Footer menu secondary" [level=2] [ref=e202]
+            - list [ref=e203]:
+              - listitem [ref=e204]:
+                - link "Centers & Institutes Directory" [ref=e205] [cursor=pointer]:
+                  - /url: /centers-and-institutes-directory
+              - listitem [ref=e206]:
+                - link "My.PublicHealth" [ref=e207] [cursor=pointer]:
+                  - /url: https://my.publichealth.jhu.edu/
+              - listitem [ref=e208]:
+                - link "My.JH" [ref=e209] [cursor=pointer]:
+                  - /url: https://my.jh.edu/myJH/
+              - listitem [ref=e210]:
+                - link "CoursePlus" [ref=e211] [cursor=pointer]:
+                  - /url: https://courseplus.jhu.edu/
+              - listitem [ref=e212]:
+                - link "Student Information System" [ref=e213] [cursor=pointer]:
+                  - /url: https://sis.jhu.edu/
+        - generic [ref=e214]:
+          - paragraph [ref=e217]:
+            - link "Johns Hopkins University" [ref=e218] [cursor=pointer]:
+              - /url: https://www.jhu.edu/
+          - navigation "Footer menu extra" [ref=e219]:
+            - heading "Footer menu extra" [level=2] [ref=e220]
+            - list [ref=e221]:
+              - listitem [ref=e222]:
+                - link "Web Policies" [ref=e223] [cursor=pointer]:
+                  - /url: /web-policies
+              - listitem [ref=e224]:
+                - link "Accessibility" [ref=e225] [cursor=pointer]:
+                  - /url: https://accessibility.jhu.edu/
+              - listitem [ref=e226]:
+                - link "Website Help" [ref=e227] [cursor=pointer]:
+                  - /url: https://webhelp.publichealth.jhu.edu/support/tickets/new
