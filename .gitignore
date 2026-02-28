@@ -1,0 +1,8 @@
+node_modules/
+OPS/vault/runs/
+OPS/vault/LATEST
+OPS/tools/
+OPS/backups/
+*.log
+*.jsonl
+tunnel_url.txt
