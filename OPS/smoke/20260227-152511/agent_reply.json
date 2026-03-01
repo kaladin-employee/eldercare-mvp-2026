@@ -1,0 +1,8 @@
+[31m[diagnostic][39m [90mlane enqueue: lane=session:agent:builder:main queueSize=1[39m
+[31m[diagnostic][39m [90mlane dequeue: lane=session:agent:builder:main waitMs=11 queueSize=0[39m
+[31m[diagnostic][39m [90mlane enqueue: lane=main queueSize=1[39m
+[31m[diagnostic][39m [90mlane dequeue: lane=main waitMs=1 queueSize=0[39m
+[31m[diagnostic][39m [90mlane enqueue: lane=session:agent:builder:main queueSize=1[39m
+[31m[diagnostic][39m [90mlane dequeue: lane=session:agent:builder:main waitMs=1 queueSize=0[39m
+[31m[diagnostic][39m [90mlane enqueue: lane=main queueSize=1[39m
+[31m[diagnostic][39m [90mlane dequeue: lane=main waitMs=1 queueSize=0[39m

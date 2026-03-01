@@ -1,0 +1,58 @@
+OpenClaw status --all
+
+Overview
+┌─────────────────┬───────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Item            │ Value                                                                                             │
+├─────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ Version         │ 2026.2.22-2                                                                                       │
+│ OS              │ linux 6.17.0-14-generic (x64)                                                                     │
+│ Node            │ 22.22.0                                                                                           │
+│ Config          │ ~/.openclaw/openclaw.json                                                                         │
+│ Dashboard       │ http://127.0.0.1:18789/                                                                           │
+│ Tailscale       │ off                                                                                               │
+│ Channel         │ stable (default)                                                                                  │
+│ Update          │ pnpm · npm update 2026.2.26                                                                       │
+│ Gateway         │ local · ws://127.0.0.1:18789 (local loopback) · reachable 25ms · auth token                       │
+│ Security        │ Run: openclaw security audit --deep                                                               │
+│ Gateway self    │ kaladin (192.168.1.123) app 2026.2.22-2 linux 6.17.0-14-generic                                   │
+│ Gateway service │ systemd installed · enabled · running (pid 85322)                                                 │
+│ Node service    │ systemd not installed                                                                             │
+│ Agents          │ 2 total · 2 bootstrapping · 0 active · 2 sessions                                                 │
+└─────────────────┴───────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+Channels
+┌──────────┬─────────┬────────┬───────────────────────────────────────────────────────────────────────────────────────┐
+│ Channel  │ Enabled │ State  │ Detail                                                                                │
+├──────────┼─────────┼────────┼───────────────────────────────────────────────────────────────────────────────────────┤
+└──────────┴─────────┴────────┴───────────────────────────────────────────────────────────────────────────────────────┘
+
+Agents
+┌────────────┬───────────┬──────────┬──────────┬──────────────────────────────────────────────────────────────────────┐
+│ Agent      │ Bootstrap │ Sessions │ Active   │ Store                                                                │
+├────────────┼───────────┼──────────┼──────────┼──────────────────────────────────────────────────────────────────────┤
+│ lite       │ PENDING   │        1 │ 25m ago  │ ~/.openclaw/agents/lite/sessions/sessions.json                       │
+│ builder    │ PENDING   │        1 │ 21m ago  │ ~/.openclaw/agents/builder/sessions/sessions.json                    │
+└────────────┴───────────┴──────────┴──────────┴──────────────────────────────────────────────────────────────────────┘
+
+Diagnosis (read-only)
+
+Gateway connection details:
+  Gateway target: ws://127.0.0.1:18789
+  Source: local loopback
+  Config: /home/kaladin/.openclaw/openclaw.json
+  Bind: loopback
+
+✓ Config: /home/kaladin/.openclaw/openclaw.json
+✓ Restart sentinel: none
+! Port 18789
+  Port 18789 is already in use.
+  - pid 85330 kaladin: openclaw-gateway (127.0.0.1:18789)
+  - Gateway already running locally. Stop it (openclaw gateway stop) or use a different port.
+! Tailscale: off · unknown
+  error: Error: spawn tailscale ENOENT
+✓ Skills: 7 eligible · 0 missing · /home/kaladin/agent-workspace/repos/eldercareapp
+✓ Channel issues (none)
+
+Pasteable debug report. Auth tokens redacted.
+Troubleshooting: https://docs.openclaw.ai/troubleshooting
+

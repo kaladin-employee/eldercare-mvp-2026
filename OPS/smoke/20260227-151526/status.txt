@@ -1,0 +1,58 @@
+OpenClaw status
+
+Overview
+┌─────────────────┬───────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Item            │ Value                                                                                             │
+├─────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ Dashboard       │ http://127.0.0.1:18789/                                                                           │
+│ OS              │ linux 6.17.0-14-generic (x64) · node 22.22.0                                                      │
+│ Tailscale       │ off                                                                                               │
+│ Channel         │ stable (default)                                                                                  │
+│ Update          │ available · pnpm · npm update 2026.2.26                                                           │
+│ Gateway         │ local · ws://127.0.0.1:18789 (local loopback) · reachable 16ms · auth token · kaladin (192.168.1. │
+│                 │ 123) app 2026.2.22-2 linux 6.17.0-14-generic                                                      │
+│ Gateway service │ systemd installed · enabled · running (pid 82276, state active)                                   │
+│ Node service    │ systemd not installed                                                                             │
+│ Agents          │ 2 · 2 bootstrapping · sessions 2 · default lite active 23m ago                                    │
+│ Memory          │ 0 files · 0 chunks · dirty · sources memory · plugin memory-core · vector ready · fts ready ·     │
+│                 │ cache on (0)                                                                                      │
+│ Probes          │ skipped (use --deep)                                                                              │
+│ Events          │ none                                                                                              │
+│ Heartbeat       │ 30m (lite), disabled (builder)                                                                    │
+│ Sessions        │ 2 active · default qwen2.5-7b-instruct (200k ctx) · 2 stores                                      │
+└─────────────────┴───────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+Security audit
+Summary: 1 critical · 1 warn · 1 info
+  CRITICAL Small models require sandboxing and web tools disabled
+    Small models (<=300B params) detected: - lmstudio/qwen2.5-7b-instruct (7B) @ agents.defaults.model.primary (unsafe; sandbox=off; web=[off]) - lmstudio/qwen2.5-…
+    Fix: If you must use small models, enable sandboxing for all sessions (agents.defaults.sandbox.mode="all") and disable web_search/web_fetch/browser (tools.deny=["group:web","browser"]).
+  WARN Reverse proxy headers are not trusted
+    gateway.bind is loopback and gateway.trustedProxies is empty. If you expose the Control UI through a reverse proxy, configure trusted proxies so local-client c…
+    Fix: Set gateway.trustedProxies to your proxy IPs or keep the Control UI local-only.
+Full report: openclaw security audit
+Deep probe: openclaw security audit --deep
+
+Channels
+┌──────────┬─────────┬────────┬───────────────────────────────────────────────────────────────────────────────────────┐
+│ Channel  │ Enabled │ State  │ Detail                                                                                │
+├──────────┼─────────┼────────┼───────────────────────────────────────────────────────────────────────────────────────┤
+└──────────┴─────────┴────────┴───────────────────────────────────────────────────────────────────────────────────────┘
+
+Sessions
+┌─────────────────────────────────────────────────────┬────────┬─────────┬───────────────────────────┬────────────────┐
+│ Key                                                 │ Kind   │ Age     │ Model                     │ Tokens         │
+├─────────────────────────────────────────────────────┼────────┼─────────┼───────────────────────────┼────────────────┤
+│ agent:builder:main                                  │ direct │ 18m ago │ qwen2.5-coder-3b-instruct │ 4.8k/16k (29%) │
+│ agent:lite:main                                     │ direct │ 23m ago │ qwen2.5-coder-3b-instruct │ 3.1k/16k (19%) │
+└─────────────────────────────────────────────────────┴────────┴─────────┴───────────────────────────┴────────────────┘
+
+FAQ: https://docs.openclaw.ai/faq
+Troubleshooting: https://docs.openclaw.ai/troubleshooting
+
+Update available (npm 2026.2.26). Run: openclaw update
+
+Next steps:
+  Need to share?      openclaw status --all
+  Need to debug live? openclaw logs --follow
+  Need to test channels? openclaw status --deep

@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "lastTouchedVersion": "2026.2.22-2",
+    "lastTouchedAt": "2026-02-27T05:28:03.305Z"
+  },
+  "wizard": {
+    "lastRunAt": "2026-02-27T05:28:03.296Z",
+    "lastRunVersion": "2026.2.22-2",
+    "lastRunCommand": "doctor",
+    "lastRunMode": "local"
+  },
+  "browser": {
+    "enabled": true,
+    "executablePath": "/usr/bin/google-chrome-stable",
+    "defaultProfile": "openclaw",
+    "ssrfPolicy": {
+      "allowPrivateNetwork": true,
+      "allowedHostnames": [
+        "127.0.0.1",
+        "192.168.1.123",
+        "localhost"
+      ],
+      "hostnameAllowlist": [
+        "localhost",
+        "127.0.0.1",
+        "192.168.1.123"
+      ]
+    }
+  },
+  "models": {
+    "mode": "merge",
+    "providers": {
+      "lmstudio": {
+        "baseUrl": "http://127.0.0.1:1234/v1",
+        "apiKey": "lmstudio-local",
+        "api": "openai-completions",
+        "models": [
+          {
+            "id": "qwen2.5-coder-3b-instruct",
+            "name": "Qwen2.5 Coder 3B",
+            "contextWindow": 16384,
+            "maxTokens": 512
+          }
+        ]
+      }
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "lmstudio/qwen2.5-7b-instruct",
+        "fallbacks": [
+          "lmstudio/qwen2.5-coder-7b-instruct"
+        ]
+      },
+      "models": {
+        "lmstudio/qwen2.5-coder-3b-instruct": {
+          "alias": "Qwen3B"
+        },
+        "lmstudio/qwen2.5-coder-7b-instruct": {
+          "alias": "Qwen7B"
+        }
+      },
+      "workspace": "/home/kaladin/agent-workspace/repos/eldercareapp",
+      "skipBootstrap": true,
+      "bootstrapMaxChars": 1500,
+      "bootstrapTotalMaxChars": 6000,
+      "compaction": {
+        "memoryFlush": {
+          "enabled": false
+        }
+      }
+    },
+    "list": [
+      {
+        "id": "lite",
+        "workspace": "/home/kaladin/agent-workspace/repos/eldercareapp",
+        "model": "lmstudio/qwen2.5-coder-3b-instruct",
+        "identity": {
+          "name": "Lite"
+        },
+        "sandbox": {
+          "mode": "off"
+        },
+        "tools": {
+          "profile": "minimal",
+          "deny": [
+            "*"
+          ]
+        }
+      },
+      {
+        "id": "builder",
+        "workspace": "/home/kaladin/agent-workspace/repos/eldercareapp",
+        "model": {
+          "primary": "lmstudio/qwen2.5-coder-3b-instruct",
+          "fallbacks": [
+            "lmstudio/qwen2.5-coder-7b-instruct"
+          ]
+        },
+        "identity": {
+          "name": "Builder"
+        },
+        "sandbox": {
+          "mode": "off"
+        },
+        "tools": {
+          "profile": "coding",
+          "allow": [
+            "group:fs",
+            "group:runtime"
+          ]
+        }
+      }
+    ]
+  },
+  "tools": {
+    "profile": "coding",
+    "allow": [],
+    "deny": [],
+    "loopDetection": {
+      "enabled": true
+    },
+    "exec": {
+      "timeoutSec": 3600,
+      "notifyOnExit": true
+    }
+  },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "restart": true,
+    "ownerDisplay": "raw"
+  },
+  "gateway": {
+    "port": 18789,
+    "mode": "local",
+    "bind": "loopback",
+    "auth": {
+      "mode": "token",
+      "token": "57e66e8d13d6ab7cfd98f5ab05e33c18f456fe6ba99a8719"
+    }
+  }
+}

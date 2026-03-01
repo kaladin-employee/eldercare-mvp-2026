@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "format": "ai",
+  "targetId": "6FE5C363D738C6D6667ED646CD2220C0",
+  "url": "http://127.0.0.1:5173/checkin",
+  "snapshot": "- main [ref=e3]:\n  - generic [ref=e4]: Daily Check-in",
+  "refs": {
+    "e3": {
+      "role": "main"
+    },
+    "e4": {
+      "role": "generic"
+    }
+  }
+}
