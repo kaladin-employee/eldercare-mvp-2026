@@ -1,46 +1,64 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Notification from 'notificationsjs'; // Assume this is installed or use standard Notification API
+
+const styles = {
+  container: {
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+    justifyContent: 'center',
+    height: '100vh',
+    backgroundColor: '#f6c59d', // Sunset orange
+  } as const,
+  redBanner: {
+    backgroundColor: '#FF4136',
+    padding: '0.5rem 1rem',
+    borderRadius: '8px',
+    fontSize: '24px',
+    marginBottom: '1rem',
+  } as const,
+};
 
 function App() {
-  const [mode, setMode] = useState('elder');
+  const [mode, setMode] = useState<'elder' | 'caregiver'>('elder');
   const [currentTime, setCurrentTime] = useState(new Date().toLocaleTimeString());
 
   useEffect(() => {
-    let intervalId;
+    let intervalId: NodeJS.Timeout | null = null;
     if (mode === 'elder') {
       intervalId = setInterval(() => {
         const nextReminder = new Date();
         nextReminder.setHours(nextReminder.getHours() + 4);
-        Notification.requestPermission().then((permission) => {
+        Notification.requestPermission().then((permission: NotificationPermission) => {
           if (permission === 'granted') {
-            Notification.scheduleNotification({ title: 'Med Reminder', body: 'Take your medication!', time: nextReminder });
+            new Notification('Med Reminder', { body: 'Take your medication!' });
           }
         });
       }, 30 * 60 * 1000); // Check every 30 minutes
     }
 
     return () => {
-      clearInterval(intervalId);
+      if (intervalId) clearInterval(intervalId);
     };
   }, [mode]);
 
   useEffect(() => {
-    setInterval(() => {
+    const intervalId = setInterval(() => {
       setCurrentTime(new Date().toLocaleTimeString());
     }, 1000);
+    return () => clearInterval(intervalId);
   }, []);
 
   const checkIns = localStorage.getItem('checkIn');
   const recentCheckIns = checkIns ? checkIns.split(',').slice(-5) : [];
-  const lastCheckIn = new Date(Math.max(...recentCheckIns.map(checkIn => new Date(checkIn.split(' - ')[1]).getTime())));
-  const hasRecentCheckIn = new Date().getTime() - lastCheckIn.getTime() < 12 * 60 * 60 * 1000;
+  const lastCheckInTime = recentCheckIns.length ? Math.max(...recentCheckIns.map(checkIn => new Date(checkIn.split(' - ')[1]).getTime())) : 0;
+  const hasRecentCheckIn = new Date().getTime() - lastCheckInTime < 12 * 60 * 60 * 1000;
 
   const generateShareLink = () => {
-    return `https://eldercare-mvp-2026.pages.dev/caregiver?checkIns=${encodeURIComponent(checkIns)}`;
+    return `https://eldercare-mvp-2026.pages.dev/caregiver?checkIns=${encodeURIComponent(checkIns || '')}`;
   };
 
-  function handleLogin(username, password) {
+  const handleLogin = (username: string, password: string) => {
     if (username === 'caregiver' && password === 'password123') {
       setMode('caregiver');
       return true;
@@ -48,24 +66,6 @@ function App() {
       alert('Invalid credentials');
       return false;
     }
-  }
-
-  const styles = {
-    container: {
-      display: 'flex',
-      flexDirection: 'column',
-      alignItems: 'center',
-      justifyContent: 'center',
-      height: '100vh',
-      backgroundColor: '#f6c59d', // Sunset orange
-    },
-    redBanner: {
-      backgroundColor: '#FF4136',
-      padding: '0.5rem 1rem',
-      borderRadius: '8px',
-      fontSize: '24px',
-      marginBottom: '1rem',
-    },
   };
 
   return (
