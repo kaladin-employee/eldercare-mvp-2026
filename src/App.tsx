@@ -62,6 +62,7 @@ function ElderHome() {
     <>
       <h1>ElderCare Station - Elder Home</h1>
 <button onClick={() => window.location.href="/settings"} style={{fontSize: "1.5em", padding: "10px"}}>Settings</button>
+<button onClick={() => window.location.href="/settings"} style={{fontSize: "1.5em", padding: "10px"}}>Settings</button>
       <button onClick={handleToggleDarkMode} style={{fontSize: "1.5em", padding: "10px"}}>{isDarkMode ? "Light Mode" : "Dark Mode"}</button>
       <p>Current time: {time}</p>
       {reminder && <p style={{color: 'orange'}}>Reminder: Time for meds!</p>}
