@@ -1,4 +1,5 @@
-import { Routes, Route } from 'react-router-dom'
+import { useEffect } from 'react'
+import { Routes, Route, useSearchParams } from 'react-router-dom'
 import './App.css'
 
 function ElderHome() {
@@ -10,9 +11,16 @@ function CaregiverDashboard() {
 }
 
 function App() {
+  const [searchParams] = useSearchParams();
+  const mode = searchParams.get('mode') || localStorage.getItem('mode') || 'elder';
+
+  useEffect(() => {
+    localStorage.setItem('mode', mode);
+  }, [mode]);
+
   return (
     <Routes>
-      <Route path="/" element={<ElderHome />} />
+      <Route path="/" element={mode === 'caregiver' ? <CaregiverDashboard /> : <ElderHome />} />
       <Route path="/caregiver" element={<CaregiverDashboard />} />
     </Routes>
   );
