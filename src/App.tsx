@@ -23,17 +23,19 @@ function ElderHome() {
     localStorage.setItem('checkIns', JSON.stringify(checkIns));
   }, [checkIns]);
 
-  const handleOK = () => {
+  const handleCheckIn = (type: string) => {
     const now = new Date().toISOString();
-    console.log('OK check-in at', now);
-    setCheckIns(prev => [...prev, { type: 'OK', time: now }]);
+    console.log(`${type} check-in at`, now);
+    setCheckIns(prev => [...prev, { type, time: now }]);
   };
 
   return (
     <>
       <h1>ElderCare Station - Elder Home</h1>
       <p>Current time: {time}</p>
-      <button onClick={handleOK} style={{fontSize: '2em', padding: '20px'}}>OK</button>
+      <button onClick={() => handleCheckIn('OK')} style={{fontSize: '2em', padding: '20px'}}>OK</button>
+      <button onClick={() => handleCheckIn('Meds')} style={{fontSize: '2em', padding: '20px', background: '#ff8c00'}}>Meds</button>
+      <button onClick={() => handleCheckIn('Meal')} style={{fontSize: '2em', padding: '20px', background: '#4682b4'}}>Meal</button>
     </>
   );
 }
@@ -52,11 +54,11 @@ function CaregiverDashboard() {
       setCheckIns(newCheckIns);
       const lastTime = newCheckIns.length > 0 ? new Date(newCheckIns[newCheckIns.length - 1].time).getTime() : 0;
       const now = Date.now();
-      setAlert(now - lastTime > 12 * 60 * 60 * 1000); // 12 hours
+      setAlert(now - lastTime > 12 * 60 * 60 * 1000);
     };
     window.addEventListener('storage', handleStorage);
-    handleStorage(); // Initial check
-    const interval = setInterval(handleStorage, 60000); // Check every minute
+    handleStorage();
+    const interval = setInterval(handleStorage, 60000);
     return () => {
       window.removeEventListener('storage', handleStorage);
       clearInterval(interval);
