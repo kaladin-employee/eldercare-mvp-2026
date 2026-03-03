@@ -10,10 +10,15 @@ function ElderHome() {
     return () => clearInterval(timer);
   }, []);
 
+  const handleOK = () => {
+    console.log('OK check-in at', new Date().toISOString());
+  };
+
   return (
     <>
       <h1>ElderCare Station - Elder Home</h1>
       <p>Current time: {time}</p>
+      <button onClick={handleOK} style={{fontSize: '2em', padding: '20px'}}>OK</button>
     </>
   );
 }
