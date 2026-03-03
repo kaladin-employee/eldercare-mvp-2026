@@ -2,16 +2,31 @@ import { useEffect, useState } from 'react'
 import { Routes, Route, useSearchParams } from 'react-router-dom'
 import './App.css'
 
+interface CheckIn {
+  type: string;
+  time: string;
+}
+
 function ElderHome() {
   const [time, setTime] = useState(new Date().toLocaleString());
+  const [checkIns, setCheckIns] = useState<CheckIn[]>(() => {
+    const saved = localStorage.getItem('checkIns');
+    return saved ? JSON.parse(saved) : [];
+  });
 
   useEffect(() => {
     const timer = setInterval(() => setTime(new Date().toLocaleString()), 1000);
     return () => clearInterval(timer);
   }, []);
 
+  useEffect(() => {
+    localStorage.setItem('checkIns', JSON.stringify(checkIns));
+  }, [checkIns]);
+
   const handleOK = () => {
-    console.log('OK check-in at', new Date().toISOString());
+    const now = new Date().toISOString();
+    console.log('OK check-in at', now);
+    setCheckIns(prev => [...prev, { type: 'OK', time: now }]);
   };
 
   return (
