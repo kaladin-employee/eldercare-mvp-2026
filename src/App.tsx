@@ -39,7 +39,28 @@ function ElderHome() {
 }
 
 function CaregiverDashboard() {
-  return <h1>ElderCare Station - Caregiver Dashboard</h1>;
+  const [checkIns, setCheckIns] = useState<CheckIn[]>(() => {
+    const saved = localStorage.getItem('checkIns');
+    return saved ? JSON.parse(saved) : [];
+  });
+
+  useEffect(() => {
+    const handleStorage = () => {
+      const saved = localStorage.getItem('checkIns');
+      setCheckIns(saved ? JSON.parse(saved) : []);
+    };
+    window.addEventListener('storage', handleStorage);
+    return () => window.removeEventListener('storage', handleStorage);
+  }, []);
+
+  const lastCheckIn = checkIns[checkIns.length - 1];
+
+  return (
+    <>
+      <h1>ElderCare Station - Caregiver Dashboard</h1>
+      <p>Last check-in: {lastCheckIn ? `${lastCheckIn.type} at ${lastCheckIn.time}` : 'None'}</p>
+    </>
+  );
 }
 
 function App() {
