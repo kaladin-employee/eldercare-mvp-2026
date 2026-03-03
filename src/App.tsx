@@ -1,9 +1,21 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { Routes, Route, useSearchParams } from 'react-router-dom'
 import './App.css'
 
 function ElderHome() {
-  return <h1>ElderCare Station - Elder Home</h1>;
+  const [time, setTime] = useState(new Date().toLocaleString());
+
+  useEffect(() => {
+    const timer = setInterval(() => setTime(new Date().toLocaleString()), 1000);
+    return () => clearInterval(timer);
+  }, []);
+
+  return (
+    <>
+      <h1>ElderCare Station - Elder Home</h1>
+      <p>Current time: {time}</p>
+    </>
+  );
 }
 
 function CaregiverDashboard() {
