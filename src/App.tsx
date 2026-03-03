@@ -13,6 +13,7 @@ function ElderHome() {
     const saved = localStorage.getItem('checkIns');
     return saved ? JSON.parse(saved) : [];
   });
+  const [listening, setListening] = useState(false);
 
   useEffect(() => {
     const timer = setInterval(() => setTime(new Date().toLocaleString()), 1000);
@@ -29,6 +30,20 @@ function ElderHome() {
     setCheckIns(prev => [...prev, { type, time: now }]);
   };
 
+  const startVoice = () => {
+    setListening(true);
+    const recognition = new ((window as any).SpeechRecognition || (window as any).webkitSpeechRecognition)();
+    recognition.onresult = (event: any) => {
+      const transcript = event.results[0][0].transcript.toLowerCase();
+      if (transcript.includes('ok')) handleCheckIn('OK');
+      if (transcript.includes('meds')) handleCheckIn('Meds');
+      if (transcript.includes('meal')) handleCheckIn('Meal');
+      setListening(false);
+    };
+    recognition.onend = () => setListening(false);
+    recognition.start();
+  };
+
   return (
     <>
       <h1>ElderCare Station - Elder Home</h1>
@@ -36,6 +51,9 @@ function ElderHome() {
       <button onClick={() => handleCheckIn('OK')} style={{fontSize: '2em', padding: '20px'}}>OK</button>
       <button onClick={() => handleCheckIn('Meds')} style={{fontSize: '2em', padding: '20px', background: '#ff8c00'}}>Meds</button>
       <button onClick={() => handleCheckIn('Meal')} style={{fontSize: '2em', padding: '20px', background: '#4682b4'}}>Meal</button>
+      <button onClick={startVoice} style={{fontSize: '2em', padding: '20px', background: '#00bfff'}} disabled={listening}>
+        {listening ? 'Listening...' : 'Voice Input'}
+      </button>
     </>
   );
 }
