@@ -43,14 +43,24 @@ function CaregiverDashboard() {
     const saved = localStorage.getItem('checkIns');
     return saved ? JSON.parse(saved) : [];
   });
+  const [alert, setAlert] = useState(false);
 
   useEffect(() => {
     const handleStorage = () => {
       const saved = localStorage.getItem('checkIns');
-      setCheckIns(saved ? JSON.parse(saved) : []);
+      const newCheckIns = saved ? JSON.parse(saved) : [];
+      setCheckIns(newCheckIns);
+      const lastTime = newCheckIns.length > 0 ? new Date(newCheckIns[newCheckIns.length - 1].time).getTime() : 0;
+      const now = Date.now();
+      setAlert(now - lastTime > 12 * 60 * 60 * 1000); // 12 hours
     };
     window.addEventListener('storage', handleStorage);
-    return () => window.removeEventListener('storage', handleStorage);
+    handleStorage(); // Initial check
+    const interval = setInterval(handleStorage, 60000); // Check every minute
+    return () => {
+      window.removeEventListener('storage', handleStorage);
+      clearInterval(interval);
+    };
   }, []);
 
   const lastCheckIn = checkIns[checkIns.length - 1];
@@ -58,6 +68,7 @@ function CaregiverDashboard() {
   return (
     <>
       <h1>ElderCare Station - Caregiver Dashboard</h1>
+      {alert && <p style={{color: 'red'}}>Alert: No check-in in over 12 hours!</p>}
       <p>Last check-in: {lastCheckIn ? `${lastCheckIn.type} at ${lastCheckIn.time}` : 'None'}</p>
     </>
   );
