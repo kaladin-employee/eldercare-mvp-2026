@@ -1,0 +1,1 @@
+:root { --font-size: 16px; --line-height: 1.5; } * { margin: 0; padding: 0; box-sizing: border-box; } body, input, button { font-family: Arial, sans-serif; font-size: var(--font-size); line-height: var(--line-height); } a { text-decoration: none; color: inherit; }
