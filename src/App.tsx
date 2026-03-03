@@ -14,6 +14,7 @@ function ElderHome() {
     return saved ? JSON.parse(saved) : [];
   });
   const [listening, setListening] = useState(false);
+  const [reminder, setReminder] = useState(false);
 
   useEffect(() => {
     const timer = setInterval(() => setTime(new Date().toLocaleString()), 1000);
@@ -24,10 +25,16 @@ function ElderHome() {
     localStorage.setItem('checkIns', JSON.stringify(checkIns));
   }, [checkIns]);
 
+  useEffect(() => {
+    const reminderTimer = setTimeout(() => setReminder(true), 4 * 60 * 60 * 1000); // 4 hours
+    return () => clearTimeout(reminderTimer);
+  }, []);
+
   const handleCheckIn = (type: string) => {
     const now = new Date().toISOString();
     console.log(`${type} check-in at`, now);
     setCheckIns(prev => [...prev, { type, time: now }]);
+    if (type === 'Meds') setReminder(false);
   };
 
   const startVoice = () => {
@@ -48,6 +55,7 @@ function ElderHome() {
     <>
       <h1>ElderCare Station - Elder Home</h1>
       <p>Current time: {time}</p>
+      {reminder && <p style={{color: 'orange'}}>Reminder: Time for meds!</p>}
       <button onClick={() => handleCheckIn('OK')} style={{fontSize: '2em', padding: '20px'}}>OK</button>
       <button onClick={() => handleCheckIn('Meds')} style={{fontSize: '2em', padding: '20px', background: '#ff8c00'}}>Meds</button>
       <button onClick={() => handleCheckIn('Meal')} style={{fontSize: '2em', padding: '20px', background: '#4682b4'}}>Meal</button>
