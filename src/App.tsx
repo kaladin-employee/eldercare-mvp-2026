@@ -1,2 +1,3 @@
 <h1 style="font-size: 2em; color: var(--primary-color); margin-bottom: 1rem;">ElderCare Station - Elder Home</h1>
 <button style="border-radius: 20px; padding: 10px 20px; background-color: var(--primary-color); color: white; font-size: 1em; margin-top: 1rem;">Settings</button>
+<p style="font-size: 1em; margin-top: 2rem;">Current Time: <span id="clock"></span></p><script>window.onload = function() { document.getElementById("clock").innerText = new Date().toLocaleTimeString(); setInterval(function() { document.getElementById("clock").innerText = new Date().toLocaleTimeString(); }, 1000);}</script>
