@@ -71,3 +71,9 @@ export default defineConfig([
   },
 ])
 ```
+
+# Quick Start Guide
+- Visit / for Elder mode.
+- Add ?mode=caregiver or visit /caregiver for Caregiver mode.
+- Tap OK button to log check-in.
+- Check dashboard for last check-in and alerts.
