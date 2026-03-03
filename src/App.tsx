@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { Routes, Route, useSearchParams } from 'react-router-dom'
+import Settings from "./Settings";
 import './App.css'
 
 interface CheckIn {
@@ -9,6 +10,12 @@ interface CheckIn {
 
 function ElderHome() {
   const [time, setTime] = useState(new Date().toLocaleString());
+  const [isDarkMode, setIsDarkMode] = useState(JSON.parse(localStorage.getItem("darkMode") || "false"));
+
+  useEffect(() => { localStorage.setItem("darkMode", JSON.stringify(isDarkMode)); }, [isDarkMode]);
+
+// @ts-ignore
+  const handleToggleDarkMode = () => setIsDarkMode(!isDarkMode);
   const [checkIns, setCheckIns] = useState<CheckIn[]>(() => {
     const saved = localStorage.getItem('checkIns');
     return saved ? JSON.parse(saved) : [];
@@ -54,12 +61,14 @@ function ElderHome() {
   return (
     <>
       <h1>ElderCare Station - Elder Home</h1>
+      <button onClick={handleToggleDarkMode} style={{fontSize: "1.5em", padding: "10px"}}>{isDarkMode ? "Light Mode" : "Dark Mode"}</button>
       <p>Current time: {time}</p>
       {reminder && <p style={{color: 'orange'}}>Reminder: Time for meds!</p>}
       <button onClick={() => handleCheckIn('OK')} style={{fontSize: '2em', padding: '20px'}}>OK</button>
       <button onClick={() => handleCheckIn('Meds')} style={{fontSize: '2em', padding: '20px', background: '#ff8c00'}}>Meds</button>
       <button onClick={() => handleCheckIn('Meal')} style={{fontSize: '2em', padding: '20px', background: '#4682b4'}}>Meal</button>
       <button onClick={startVoice} style={{fontSize: '2em', padding: '20px', background: '#00bfff'}} disabled={listening}>
+      <button onClick={() => navigator.clipboard.writeText(JSON.stringify({doctor: "+1234567890", hospital: "+0987654321", family: "+5555555555"}))} style={{fontSize: "2em", padding: "20px", background: "#ff0000"}}>Emergency</button>
         {listening ? 'Listening...' : 'Voice Input'}
       </button>
     </>
@@ -67,6 +76,12 @@ function ElderHome() {
 }
 
 function History() {
+  const [isDarkMode, setIsDarkMode] = useState(JSON.parse(localStorage.getItem("darkMode") || "false"));
+
+  useEffect(() => { localStorage.setItem("darkMode", JSON.stringify(isDarkMode)); }, [isDarkMode]);
+
+// @ts-ignore
+  const handleToggleDarkMode = () => setIsDarkMode(!isDarkMode);
   const [checkIns, setCheckIns] = useState<CheckIn[]>(() => {
     const saved = localStorage.getItem('checkIns');
     return saved ? JSON.parse(saved) : [];
@@ -92,6 +107,12 @@ function History() {
 }
 
 function CaregiverDashboard() {
+  const [isDarkMode, setIsDarkMode] = useState(JSON.parse(localStorage.getItem("darkMode") || "false"));
+
+  useEffect(() => { localStorage.setItem("darkMode", JSON.stringify(isDarkMode)); }, [isDarkMode]);
+
+// @ts-ignore
+  const handleToggleDarkMode = () => setIsDarkMode(!isDarkMode);
   const [checkIns, setCheckIns] = useState<CheckIn[]>(() => {
     const saved = localStorage.getItem('checkIns');
     return saved ? JSON.parse(saved) : [];
@@ -140,6 +161,7 @@ function App() {
       <Route path="/" element={mode === 'caregiver' ? <CaregiverDashboard /> : <ElderHome />} />
       <Route path="/caregiver" element={<CaregiverDashboard />} />
       <Route path="/history" element={<History />} />
+      <Route path="/settings" element={<Settings />} />
     </Routes>
   );
 }

@@ -40,3 +40,4 @@
 .read-the-docs {
   color: #888;
 }
+.dark { background-color: #333; color: #fff; } .dark button { background-color: #555; color: #fff; }
