@@ -26,7 +26,7 @@ function ElderHome() {
   }, [checkIns]);
 
   useEffect(() => {
-    const reminderTimer = setTimeout(() => setReminder(true), 4 * 60 * 60 * 1000); // 4 hours
+    const reminderTimer = setTimeout(() => setReminder(true), 4 * 60 * 60 * 1000);
     return () => clearTimeout(reminderTimer);
   }, []);
 
@@ -62,6 +62,31 @@ function ElderHome() {
       <button onClick={startVoice} style={{fontSize: '2em', padding: '20px', background: '#00bfff'}} disabled={listening}>
         {listening ? 'Listening...' : 'Voice Input'}
       </button>
+    </>
+  );
+}
+
+function History() {
+  const [checkIns, setCheckIns] = useState<CheckIn[]>(() => {
+    const saved = localStorage.getItem('checkIns');
+    return saved ? JSON.parse(saved) : [];
+  });
+
+  useEffect(() => {
+    const handleStorage = () => {
+      const saved = localStorage.getItem('checkIns');
+      setCheckIns(saved ? JSON.parse(saved) : []);
+    };
+    window.addEventListener('storage', handleStorage);
+    return () => window.removeEventListener('storage', handleStorage);
+  }, []);
+
+  return (
+    <>
+      <h1>Check-In History</h1>
+      <ul>
+        {checkIns.map((ci, i) => <li key={i} style={{fontSize: '1.5em'}}>{ci.type} at {ci.time}</li>)}
+      </ul>
     </>
   );
 }
@@ -114,6 +139,7 @@ function App() {
     <Routes>
       <Route path="/" element={mode === 'caregiver' ? <CaregiverDashboard /> : <ElderHome />} />
       <Route path="/caregiver" element={<CaregiverDashboard />} />
+      <Route path="/history" element={<History />} />
     </Routes>
   );
 }
